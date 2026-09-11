@@ -1,0 +1,951 @@
+PRNo,PRDate,DeptCode,DeptName,ProjectCode,ProjectName,ItemCode,ItemDescription,Vertical,RequestedQty,UOM,RequiredByDate,RequestedBy,Priority,Status
+PR-30001,2026-01-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5052,PVC Elbow 4 inch,Plumbing Materials,28,Nos,2026-01-24,Yashica Rajagopalan,Medium,Pending Approval
+PR-30002,2026-02-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5015,Hinges SS 4 inch,Carpentry,19,Pair,2026-03-08,Ekanta Soni,Medium,Converted to PO
+PR-30003,2025-10-09,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5033,Solar Module 550Wp Bifacial,Solar Panels,49,Nos,2025-11-07,Dayita Shenoy,High,Pending Approval
+PR-30004,2026-04-09,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5034,String Inverter 50kW,Solar Panels,33,Nos,2026-04-20,Ria Bir,Low,Converted to PO
+PR-30005,2025-12-01,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,15,Pcs,2025-12-31,Benjamin Sengupta,Low,Rejected
+PR-30006,2026-01-15,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,15,Nos,2026-01-27,Aahana Hora,Medium,Converted to PO
+PR-30007,2026-06-02,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5038,Combiner Box 6 in 1 out,Solar Panels,10,Nos,2026-06-19,Aahana Hora,Low,Rejected
+PR-30008,2025-09-20,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5004,LED Flood Light 100W,Electrical,25,Nos,2025-09-30,Ria Bir,Medium,Converted to PO
+PR-30009,2026-05-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,14,Coil,2026-06-03,Ria Bir,Medium,Converted to PO
+PR-30010,2026-04-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5047,Battery Interconnect Cable Set,Batteries,36,Set,2026-05-18,Wakeeta Shetty,Medium,Converted to PO
+PR-30011,2026-05-02,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5003,Distribution Board 8-Way,Electrical,21,Nos,2026-05-28,Aahana Hora,Medium,Converted to PO
+PR-30012,2026-06-13,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,26,Nos,2026-06-27,Aahana Hora,Medium,Pending Approval
+PR-30013,2026-07-02,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,24,Nos,2026-07-19,Daksh Pandey,Medium,Rejected
+PR-30014,2026-06-08,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5056,Concealed Cistern with Frame,Plumbing Materials,4,Set,2026-06-29,Yashica Rajagopalan,Low,Pending Approval
+PR-30015,2026-07-24,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5015,Hinges SS 4 inch,Carpentry,32,Pair,2026-08-08,Dayita Shenoy,Medium,Converted to PO
+PR-30016,2026-02-17,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5006,Cable Tray 300mm (2m length),Electrical,6,Nos,2026-03-13,Warinder Chauhan,High,Converted to PO
+PR-30017,2025-12-22,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5041,Solar Cable Gland Set,Solar Panels,26,Set,2026-01-13,Riya Mitter,Medium,Converted to PO
+PR-30018,2026-03-14,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,35,Pair,2026-03-31,Ria Bir,Medium,Converted to PO
+PR-30019,2025-09-11,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,25,Nos,2025-10-07,Michael Borra,Medium,Converted to PO
+PR-30020,2026-06-22,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5004,LED Flood Light 100W,Electrical,16,Nos,2026-07-20,Riya Mitter,Medium,Pending Approval
+PR-30021,2026-07-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5021,Adhesive Fevicol SH (5kg),Carpentry,33,Can,2026-08-02,Benjamin Sengupta,Medium,Converted to PO
+PR-30022,2026-07-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5027,Ready Mix Concrete M25,Road Construction Materials,20,Cum,2026-08-13,Riya Mitter,High,Converted to PO
+PR-30023,2026-01-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,20,Sheet,2026-01-24,Bhavini Bose,Medium,Converted to PO
+PR-30024,2026-03-28,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5011,Cable Gland Brass 25mm,Electrical,20,Nos,2026-04-19,Wakeeta Shetty,Medium,Converted to PO
+PR-30025,2026-02-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5058,Submersible Pump 1HP,Plumbing Materials,22,Nos,2026-03-07,Ekantika Mutti,Medium,Converted to PO
+PR-30026,2025-12-26,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5046,Battery Rack 4-Tier MS,Batteries,7,Nos,2026-01-13,Warinder Chauhan,Medium,Converted to PO
+PR-30027,2025-09-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,35,Ton,2025-10-12,Daksh Pandey,High,Rejected
+PR-30028,2026-06-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,25,Ton,2026-07-20,Michael Borra,High,Converted to PO
+PR-30029,2026-04-08,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5021,Adhesive Fevicol SH (5kg),Carpentry,13,Can,2026-04-24,Warinder Chauhan,Medium,Converted to PO
+PR-30030,2026-01-26,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5015,Hinges SS 4 inch,Carpentry,17,Pair,2026-02-24,Ekanta Soni,Medium,Converted to PO
+PR-30031,2026-01-26,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5041,Solar Cable Gland Set,Solar Panels,7,Set,2026-02-16,Yashica Rajagopalan,Medium,Converted to PO
+PR-30032,2026-01-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5042,Tubular Battery 150Ah C10,Batteries,19,Nos,2026-02-10,Benjamin Sengupta,High,Converted to PO
+PR-30033,2026-01-26,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,24,Ton,2026-02-23,Ekanta Soni,Medium,Rejected
+PR-30034,2026-01-08,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5027,Ready Mix Concrete M25,Road Construction Materials,20,Cum,2026-01-25,Benjamin Sengupta,Medium,Converted to PO
+PR-30035,2026-04-13,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5004,LED Flood Light 100W,Electrical,22,Nos,2026-05-12,Warinder Chauhan,Low,Converted to PO
+PR-30036,2026-05-19,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,18,Drum,2026-06-17,Ekanta Soni,Medium,Converted to PO
+PR-30037,2026-01-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,40,Sheet,2026-02-22,Baljiwan Bhandari,Medium,Converted to PO
+PR-30038,2026-06-20,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,12,Nos,2026-07-09,Benjamin Sengupta,Medium,Converted to PO
+PR-30039,2026-03-29,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5002,MCB 32A Single Pole,Electrical,64,Nos,2026-04-25,Aahana Hora,Medium,Rejected
+PR-30040,2026-07-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,15,Ton,2026-08-08,Ekanta Soni,Medium,Converted to PO
+PR-30041,2026-07-22,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,22,Coil,2026-08-20,Daksh Pandey,High,Pending Approval
+PR-30042,2026-02-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,15,Pcs,2026-02-22,Ria Bir,Medium,Converted to PO
+PR-30043,2026-01-09,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5039,Earthing Kit for Module Structure,Solar Panels,10,Set,2026-02-06,Benjamin Sengupta,Medium,Converted to PO
+PR-30044,2026-01-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5018,Wood Screws 2 inch (box of 100),Carpentry,11,Box,2026-01-26,Bhavini Bose,Medium,Converted to PO
+PR-30045,2026-07-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,24,Nos,2026-08-15,Benjamin Sengupta,Medium,Converted to PO
+PR-30046,2026-05-05,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5046,Battery Rack 4-Tier MS,Batteries,18,Nos,2026-05-21,Ria Bir,Low,Converted to PO
+PR-30047,2025-09-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5006,Cable Tray 300mm (2m length),Electrical,24,Nos,2025-09-23,Daksh Pandey,Medium,Converted to PO
+PR-30048,2026-02-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5039,Earthing Kit for Module Structure,Solar Panels,11,Set,2026-03-01,Michael Borra,High,Converted to PO
+PR-30049,2026-06-28,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5056,Concealed Cistern with Frame,Plumbing Materials,26,Set,2026-07-28,Riya Mitter,Medium,Converted to PO
+PR-30050,2025-10-02,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5037,MC4 Connector Pair,Solar Panels,34,Pair,2025-10-21,Aahana Hora,Low,Converted to PO
+PR-30051,2026-02-16,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,56,Nos,2026-02-27,Baljiwan Bhandari,High,Converted to PO
+PR-30052,2026-05-28,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5006,Cable Tray 300mm (2m length),Electrical,11,Nos,2026-06-07,Daksh Pandey,Medium,Converted to PO
+PR-30053,2026-03-25,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5007,Junction Box IP65,Electrical,36,Nos,2026-04-14,Daksh Pandey,Medium,Converted to PO
+PR-30054,2025-10-21,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5038,Combiner Box 6 in 1 out,Solar Panels,23,Nos,2025-11-19,Bhavini Bose,Medium,Converted to PO
+PR-30055,2025-11-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5047,Battery Interconnect Cable Set,Batteries,25,Set,2025-11-30,Dayita Shenoy,Medium,Converted to PO
+PR-30056,2026-05-18,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,34,Roll,2026-05-31,Daksh Pandey,High,Converted to PO
+PR-30057,2025-09-14,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,80,Nos,2025-10-10,Ekanta Soni,Medium,Rejected
+PR-30058,2026-02-21,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,11,Pair,2026-03-11,Ekanta Soni,High,Converted to PO
+PR-30059,2025-11-19,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,28,Nos,2025-12-01,Warinder Chauhan,Medium,Converted to PO
+PR-30060,2025-09-24,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,15,Coil,2025-10-08,Baljiwan Bhandari,High,Converted to PO
+PR-30061,2025-10-07,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5037,MC4 Connector Pair,Solar Panels,34,Pair,2025-10-26,Warinder Chauhan,Medium,Pending Approval
+PR-30062,2026-06-22,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5055,Sanitaryware Wash Basin,Plumbing Materials,32,Nos,2026-07-12,Yashica Rajagopalan,Medium,Converted to PO
+PR-30063,2025-10-29,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5010,MCCB 200A,Electrical,9,Nos,2025-11-21,Benjamin Sengupta,Medium,Converted to PO
+PR-30064,2026-06-17,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5049,Deep Cycle Battery 200Ah,Batteries,11,Nos,2026-07-14,Baljiwan Bhandari,Medium,Converted to PO
+PR-30065,2025-10-10,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5004,LED Flood Light 100W,Electrical,28,Nos,2025-11-06,Ekanta Soni,High,Pending Approval
+PR-30066,2026-06-25,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5039,Earthing Kit for Module Structure,Solar Panels,21,Set,2026-07-19,Yashica Rajagopalan,Low,Rejected
+PR-30067,2026-07-31,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,34,Nos,2026-08-13,Daksh Pandey,Medium,Converted to PO
+PR-30068,2026-03-29,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5056,Concealed Cistern with Frame,Plumbing Materials,24,Set,2026-04-15,Warinder Chauhan,Medium,Converted to PO
+PR-30069,2026-02-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5005,Modular Switch 6A,Electrical,18,Nos,2026-03-05,Riya Mitter,High,Converted to PO
+PR-30070,2026-04-05,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5010,MCCB 200A,Electrical,15,Nos,2026-04-28,Ria Bir,Medium,Converted to PO
+PR-30071,2026-05-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,31,Sheet,2026-06-11,Dayita Shenoy,High,Converted to PO
+PR-30072,2026-07-10,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5039,Earthing Kit for Module Structure,Solar Panels,17,Set,2026-07-26,Benjamin Sengupta,Medium,Converted to PO
+PR-30073,2026-01-07,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,13,Nos,2026-01-15,Ekanta Soni,Medium,Converted to PO
+PR-30074,2026-04-01,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,55,Pcs,2026-04-09,Ria Bir,High,Converted to PO
+PR-30075,2025-10-11,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,13,Bag,2025-10-18,Ekanta Soni,High,Converted to PO
+PR-30076,2026-07-21,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,51,Nos,2026-08-13,Yashica Rajagopalan,High,Converted to PO
+PR-30077,2026-07-23,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,53,Pcs,2026-08-11,Ekantika Mutti,Medium,Cancelled
+PR-30078,2026-01-02,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5047,Battery Interconnect Cable Set,Batteries,27,Set,2026-02-01,Aahana Hora,Medium,Converted to PO
+PR-30079,2025-09-19,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5039,Earthing Kit for Module Structure,Solar Panels,7,Set,2025-10-05,Benjamin Sengupta,High,Converted to PO
+PR-30080,2026-01-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5015,Hinges SS 4 inch,Carpentry,15,Pair,2026-02-12,Warinder Chauhan,Low,Pending Approval
+PR-30081,2026-04-12,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5017,Door Lock Mortise Set,Carpentry,27,Set,2026-05-01,Riya Mitter,Medium,Converted to PO
+PR-30082,2025-10-23,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5037,MC4 Connector Pair,Solar Panels,21,Pair,2025-11-01,Ekantika Mutti,Medium,Converted to PO
+PR-30083,2026-03-27,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5010,MCCB 200A,Electrical,18,Nos,2026-04-14,Yashica Rajagopalan,Medium,Converted to PO
+PR-30084,2026-03-09,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5039,Earthing Kit for Module Structure,Solar Panels,48,Set,2026-03-27,Aahana Hora,Medium,Converted to PO
+PR-30085,2026-03-18,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,43,Roll,2026-04-11,Benjamin Sengupta,Medium,Converted to PO
+PR-30086,2026-06-09,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5033,Solar Module 550Wp Bifacial,Solar Panels,27,Nos,2026-07-03,Ekantika Mutti,Low,Converted to PO
+PR-30087,2026-07-11,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,14,Nos,2026-07-20,Riya Mitter,Low,Converted to PO
+PR-30088,2025-11-06,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5034,String Inverter 50kW,Solar Panels,4,Nos,2025-11-26,Ekanta Soni,High,Converted to PO
+PR-30089,2026-07-12,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,27,Pair,2026-08-05,Bhavini Bose,High,Converted to PO
+PR-30090,2026-06-20,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5015,Hinges SS 4 inch,Carpentry,25,Pair,2026-07-10,Warinder Chauhan,Medium,Converted to PO
+PR-30091,2026-02-11,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5033,Solar Module 550Wp Bifacial,Solar Panels,17,Nos,2026-02-25,Ekantika Mutti,Medium,Converted to PO
+PR-30092,2026-05-13,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,33,Drum,2026-05-20,Riya Mitter,Medium,Converted to PO
+PR-30093,2026-03-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5004,LED Flood Light 100W,Electrical,13,Nos,2026-03-26,Riya Mitter,High,Converted to PO
+PR-30094,2026-06-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5027,Ready Mix Concrete M25,Road Construction Materials,42,Cum,2026-07-01,Wakeeta Shetty,Medium,Converted to PO
+PR-30095,2026-07-01,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5054,Water Tank 1000L HDPE,Plumbing Materials,16,Nos,2026-07-18,Dayita Shenoy,Medium,Converted to PO
+PR-30096,2026-06-23,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5021,Adhesive Fevicol SH (5kg),Carpentry,31,Can,2026-07-07,Baljiwan Bhandari,Medium,Converted to PO
+PR-30097,2026-05-15,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5038,Combiner Box 6 in 1 out,Solar Panels,14,Nos,2026-06-10,Ekanta Soni,Low,Rejected
+PR-30098,2026-05-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5002,MCB 32A Single Pole,Electrical,22,Nos,2026-06-06,Bhavini Bose,Medium,Converted to PO
+PR-30099,2026-01-21,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5015,Hinges SS 4 inch,Carpentry,16,Pair,2026-02-14,Ekantika Mutti,Medium,Converted to PO
+PR-30100,2025-10-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,30,Pair,2025-10-29,Bhavini Bose,Medium,Rejected
+PR-30101,2026-01-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,30,Roll,2026-02-10,Michael Borra,High,Converted to PO
+PR-30102,2026-03-28,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5052,PVC Elbow 4 inch,Plumbing Materials,36,Nos,2026-04-24,Daksh Pandey,Medium,Rejected
+PR-30103,2026-02-12,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5046,Battery Rack 4-Tier MS,Batteries,19,Nos,2026-02-28,Benjamin Sengupta,High,Converted to PO
+PR-30104,2026-07-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5009,Contactor 40A 3 Pole,Electrical,12,Nos,2026-07-16,Ria Bir,Medium,Rejected
+PR-30105,2025-11-08,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5039,Earthing Kit for Module Structure,Solar Panels,24,Set,2025-12-01,Wakeeta Shetty,Low,Converted to PO
+PR-30106,2025-10-19,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,7,Ton,2025-10-31,Daksh Pandey,Medium,Cancelled
+PR-30107,2025-12-30,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5006,Cable Tray 300mm (2m length),Electrical,7,Nos,2026-01-20,Ria Bir,Medium,Converted to PO
+PR-30108,2026-03-08,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5004,LED Flood Light 100W,Electrical,25,Nos,2026-04-03,Michael Borra,Medium,Converted to PO
+PR-30109,2026-03-05,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,21,Nos,2026-03-14,Aahana Hora,High,Pending Approval
+PR-30110,2026-06-21,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,25,Nos,2026-07-15,Ria Bir,Low,Converted to PO
+PR-30111,2025-09-12,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,22,Drum,2025-10-01,Warinder Chauhan,Medium,Converted to PO
+PR-30112,2026-03-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5048,Battery Monitoring System (BMS module),Batteries,24,Nos,2026-03-30,Riya Mitter,Medium,Converted to PO
+PR-30113,2026-05-31,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5038,Combiner Box 6 in 1 out,Solar Panels,22,Nos,2026-06-19,Wakeeta Shetty,Medium,Converted to PO
+PR-30114,2026-03-25,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,63,Sheet,2026-04-15,Wakeeta Shetty,Medium,Converted to PO
+PR-30115,2026-06-13,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,36,Bag,2026-07-08,Michael Borra,Medium,Pending Approval
+PR-30116,2026-02-24,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,12,Nos,2026-03-23,Benjamin Sengupta,Medium,Converted to PO
+PR-30117,2026-06-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5038,Combiner Box 6 in 1 out,Solar Panels,5,Nos,2026-07-06,Wakeeta Shetty,Medium,Converted to PO
+PR-30118,2026-05-04,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,36,Nos,2026-05-17,Ria Bir,Medium,Pending Approval
+PR-30119,2025-10-31,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5015,Hinges SS 4 inch,Carpentry,14,Pair,2025-11-30,Daksh Pandey,Low,Cancelled
+PR-30120,2026-03-23,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5035,Module Mounting Structure (per kW),Solar Panels,8,kW Set,2026-04-06,Benjamin Sengupta,Medium,Converted to PO
+PR-30121,2025-12-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,17,Roll,2026-01-22,Ekantika Mutti,Medium,Converted to PO
+PR-30122,2026-04-24,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,19,Nos,2026-05-06,Ria Bir,High,Converted to PO
+PR-30123,2026-05-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5003,Distribution Board 8-Way,Electrical,20,Nos,2026-06-07,Baljiwan Bhandari,Medium,Converted to PO
+PR-30124,2025-10-25,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5034,String Inverter 50kW,Solar Panels,15,Nos,2025-11-04,Wakeeta Shetty,High,Converted to PO
+PR-30125,2025-10-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,29,Nos,2025-11-06,Dayita Shenoy,Medium,Converted to PO
+PR-30126,2026-01-22,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,25,Coil,2026-02-15,Warinder Chauhan,High,Converted to PO
+PR-30127,2025-10-11,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,48,Ton,2025-11-03,Ria Bir,High,Converted to PO
+PR-30128,2026-05-10,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5039,Earthing Kit for Module Structure,Solar Panels,61,Set,2026-05-24,Riya Mitter,Medium,Converted to PO
+PR-30129,2025-09-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,18,Ton,2025-09-19,Benjamin Sengupta,Medium,Converted to PO
+PR-30130,2026-03-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5006,Cable Tray 300mm (2m length),Electrical,11,Nos,2026-03-27,Dayita Shenoy,Low,Converted to PO
+PR-30131,2026-07-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5025,River Sand (fine aggregate),Road Construction Materials,46,Ton,2026-08-09,Wakeeta Shetty,Medium,Converted to PO
+PR-30132,2026-07-22,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5054,Water Tank 1000L HDPE,Plumbing Materials,22,Nos,2026-08-13,Benjamin Sengupta,High,Rejected
+PR-30133,2026-03-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5018,Wood Screws 2 inch (box of 100),Carpentry,36,Box,2026-03-16,Wakeeta Shetty,Medium,Rejected
+PR-30134,2025-09-14,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5008,Earthing Strip GI 25x3mm,Electrical,25,Mtr,2025-10-14,Yashica Rajagopalan,High,Converted to PO
+PR-30135,2026-06-01,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,17,Ton,2026-06-24,Ekanta Soni,Medium,Rejected
+PR-30136,2026-06-02,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5005,Modular Switch 6A,Electrical,6,Nos,2026-06-28,Aahana Hora,High,Converted to PO
+PR-30137,2026-04-17,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,19,Nos,2026-05-05,Benjamin Sengupta,Medium,Converted to PO
+PR-30138,2026-05-02,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5037,MC4 Connector Pair,Solar Panels,11,Pair,2026-05-12,Yashica Rajagopalan,Medium,Converted to PO
+PR-30139,2026-03-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,61,Nos,2026-04-23,Bhavini Bose,Medium,Converted to PO
+PR-30140,2025-12-10,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5017,Door Lock Mortise Set,Carpentry,12,Set,2025-12-31,Bhavini Bose,Low,Converted to PO
+PR-30141,2025-10-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,22,Nos,2025-11-11,Aahana Hora,High,Converted to PO
+PR-30142,2025-11-11,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5004,LED Flood Light 100W,Electrical,24,Nos,2025-11-23,Daksh Pandey,Medium,Converted to PO
+PR-30143,2026-06-09,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5039,Earthing Kit for Module Structure,Solar Panels,14,Set,2026-07-02,Aahana Hora,Medium,Converted to PO
+PR-30144,2026-04-19,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,44,Pcs,2026-05-04,Ekanta Soni,High,Converted to PO
+PR-30145,2026-07-03,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,21,Drum,2026-07-27,Yashica Rajagopalan,Medium,Converted to PO
+PR-30146,2025-11-07,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5052,PVC Elbow 4 inch,Plumbing Materials,36,Nos,2025-11-21,Ria Bir,Low,Converted to PO
+PR-30147,2026-02-15,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,12,Ton,2026-03-12,Benjamin Sengupta,Low,Converted to PO
+PR-30148,2026-06-17,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5034,String Inverter 50kW,Solar Panels,10,Nos,2026-07-09,Bhavini Bose,Medium,Converted to PO
+PR-30149,2025-09-27,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5052,PVC Elbow 4 inch,Plumbing Materials,11,Nos,2025-10-16,Yashica Rajagopalan,Medium,Converted to PO
+PR-30150,2025-11-07,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5056,Concealed Cistern with Frame,Plumbing Materials,29,Set,2025-11-29,Riya Mitter,High,Converted to PO
+PR-30151,2026-07-19,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5025,River Sand (fine aggregate),Road Construction Materials,45,Ton,2026-08-18,Riya Mitter,Medium,Converted to PO
+PR-30152,2026-07-05,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5008,Earthing Strip GI 25x3mm,Electrical,29,Mtr,2026-07-31,Ekantika Mutti,Medium,Converted to PO
+PR-30153,2025-10-07,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5021,Adhesive Fevicol SH (5kg),Carpentry,16,Can,2025-10-30,Warinder Chauhan,Low,Pending Approval
+PR-30154,2026-04-04,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5009,Contactor 40A 3 Pole,Electrical,16,Nos,2026-04-22,Michael Borra,Medium,Converted to PO
+PR-30155,2026-07-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5033,Solar Module 550Wp Bifacial,Solar Panels,26,Nos,2026-08-18,Michael Borra,Medium,Converted to PO
+PR-30156,2025-09-30,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,32,Nos,2025-10-14,Riya Mitter,High,Converted to PO
+PR-30157,2025-10-31,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5004,LED Flood Light 100W,Electrical,60,Nos,2025-11-07,Riya Mitter,Medium,Converted to PO
+PR-30158,2025-12-26,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5033,Solar Module 550Wp Bifacial,Solar Panels,29,Nos,2026-01-25,Warinder Chauhan,Low,Converted to PO
+PR-30159,2026-01-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5055,Sanitaryware Wash Basin,Plumbing Materials,15,Nos,2026-01-26,Aahana Hora,Medium,Converted to PO
+PR-30160,2026-02-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5021,Adhesive Fevicol SH (5kg),Carpentry,6,Can,2026-03-05,Daksh Pandey,Medium,Converted to PO
+PR-30161,2025-10-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,19,Drum,2025-11-06,Wakeeta Shetty,Medium,Converted to PO
+PR-30162,2026-07-24,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5002,MCB 32A Single Pole,Electrical,14,Nos,2026-08-12,Baljiwan Bhandari,High,Converted to PO
+PR-30163,2025-12-16,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5005,Modular Switch 6A,Electrical,71,Nos,2026-01-06,Ekantika Mutti,Low,Converted to PO
+PR-30164,2025-09-16,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,26,Nos,2025-10-05,Dayita Shenoy,Medium,Converted to PO
+PR-30165,2025-09-12,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,49,Sheet,2025-09-21,Bhavini Bose,Medium,Converted to PO
+PR-30166,2025-12-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5003,Distribution Board 8-Way,Electrical,15,Nos,2025-12-20,Michael Borra,High,Converted to PO
+PR-30167,2026-03-03,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5048,Battery Monitoring System (BMS module),Batteries,37,Nos,2026-03-25,Daksh Pandey,Medium,Converted to PO
+PR-30168,2025-10-22,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5052,PVC Elbow 4 inch,Plumbing Materials,41,Nos,2025-11-05,Ekantika Mutti,Medium,Converted to PO
+PR-30169,2026-06-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,3,Roll,2026-06-27,Wakeeta Shetty,Low,Converted to PO
+PR-30170,2026-02-13,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,25,Ton,2026-02-21,Baljiwan Bhandari,Medium,Converted to PO
+PR-30171,2026-07-30,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,22,Nos,2026-08-16,Dayita Shenoy,Medium,Converted to PO
+PR-30172,2025-12-03,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5042,Tubular Battery 150Ah C10,Batteries,40,Nos,2025-12-29,Benjamin Sengupta,Low,Converted to PO
+PR-30173,2026-04-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5037,MC4 Connector Pair,Solar Panels,36,Pair,2026-04-24,Wakeeta Shetty,Medium,Converted to PO
+PR-30174,2025-11-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,12,Nos,2025-12-14,Ekanta Soni,High,Converted to PO
+PR-30175,2026-07-08,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5052,PVC Elbow 4 inch,Plumbing Materials,17,Nos,2026-07-28,Aahana Hora,Medium,Converted to PO
+PR-30176,2026-01-29,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,10,Coil,2026-02-26,Daksh Pandey,High,Converted to PO
+PR-30177,2025-11-17,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5042,Tubular Battery 150Ah C10,Batteries,45,Nos,2025-12-16,Aahana Hora,Medium,Converted to PO
+PR-30178,2026-03-22,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,8,Ton,2026-04-20,Baljiwan Bhandari,Low,Converted to PO
+PR-30179,2025-12-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5056,Concealed Cistern with Frame,Plumbing Materials,11,Set,2026-01-09,Baljiwan Bhandari,Medium,Converted to PO
+PR-30180,2025-10-28,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5038,Combiner Box 6 in 1 out,Solar Panels,9,Nos,2025-11-17,Baljiwan Bhandari,Medium,Converted to PO
+PR-30181,2026-01-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,24,Sheet,2026-02-03,Ekanta Soni,Medium,Converted to PO
+PR-30182,2026-05-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5018,Wood Screws 2 inch (box of 100),Carpentry,44,Box,2026-05-30,Ekanta Soni,High,Pending Approval
+PR-30183,2026-05-18,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5011,Cable Gland Brass 25mm,Electrical,23,Nos,2026-06-06,Ekanta Soni,Medium,Converted to PO
+PR-30184,2026-01-02,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,19,Pcs,2026-01-20,Daksh Pandey,High,Converted to PO
+PR-30185,2026-01-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5015,Hinges SS 4 inch,Carpentry,14,Pair,2026-02-12,Warinder Chauhan,Low,Converted to PO
+PR-30186,2026-02-02,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,6,Sheet,2026-03-02,Baljiwan Bhandari,Medium,Converted to PO
+PR-30187,2025-12-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5054,Water Tank 1000L HDPE,Plumbing Materials,42,Nos,2025-12-17,Wakeeta Shetty,Low,Converted to PO
+PR-30188,2025-12-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5047,Battery Interconnect Cable Set,Batteries,7,Set,2026-01-20,Benjamin Sengupta,Medium,Converted to PO
+PR-30189,2025-12-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5005,Modular Switch 6A,Electrical,33,Nos,2026-01-23,Riya Mitter,Medium,Pending Approval
+PR-30190,2026-01-29,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,19,Roll,2026-02-19,Daksh Pandey,High,Converted to PO
+PR-30191,2026-04-23,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,12,Roll,2026-05-04,Yashica Rajagopalan,High,Converted to PO
+PR-30192,2026-07-22,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5006,Cable Tray 300mm (2m length),Electrical,22,Nos,2026-08-11,Daksh Pandey,Medium,Converted to PO
+PR-30193,2026-03-16,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,19,Ton,2026-04-08,Michael Borra,High,Converted to PO
+PR-30194,2025-09-10,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5006,Cable Tray 300mm (2m length),Electrical,14,Nos,2025-09-24,Michael Borra,High,Converted to PO
+PR-30195,2025-10-30,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5042,Tubular Battery 150Ah C10,Batteries,4,Nos,2025-11-19,Aahana Hora,Medium,Converted to PO
+PR-30196,2025-10-31,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5041,Solar Cable Gland Set,Solar Panels,16,Set,2025-11-16,Aahana Hora,Medium,Converted to PO
+PR-30197,2025-10-16,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5010,MCCB 200A,Electrical,34,Nos,2025-10-26,Bhavini Bose,Medium,Converted to PO
+PR-30198,2026-04-07,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5027,Ready Mix Concrete M25,Road Construction Materials,42,Cum,2026-05-07,Ekanta Soni,Medium,Converted to PO
+PR-30199,2026-01-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,22,Ton,2026-02-06,Daksh Pandey,Medium,Converted to PO
+PR-30200,2026-07-10,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5034,String Inverter 50kW,Solar Panels,32,Nos,2026-07-29,Baljiwan Bhandari,High,Converted to PO
+PR-30201,2026-02-21,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,24,Nos,2026-03-16,Yashica Rajagopalan,Medium,Converted to PO
+PR-30202,2026-05-10,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,30,Pcs,2026-05-27,Ekantika Mutti,High,Converted to PO
+PR-30203,2026-06-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,8,Bag,2026-07-07,Aahana Hora,Medium,Converted to PO
+PR-30204,2026-04-20,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5037,MC4 Connector Pair,Solar Panels,30,Pair,2026-04-30,Bhavini Bose,High,Converted to PO
+PR-30205,2025-12-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5015,Hinges SS 4 inch,Carpentry,5,Pair,2025-12-16,Riya Mitter,High,Rejected
+PR-30206,2026-04-01,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5033,Solar Module 550Wp Bifacial,Solar Panels,14,Nos,2026-04-09,Ekanta Soni,Medium,Rejected
+PR-30207,2026-04-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5049,Deep Cycle Battery 200Ah,Batteries,36,Nos,2026-05-21,Dayita Shenoy,High,Converted to PO
+PR-30208,2026-04-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5038,Combiner Box 6 in 1 out,Solar Panels,20,Nos,2026-04-29,Benjamin Sengupta,High,Pending Approval
+PR-30209,2026-04-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5054,Water Tank 1000L HDPE,Plumbing Materials,63,Nos,2026-05-01,Baljiwan Bhandari,Medium,Converted to PO
+PR-30210,2026-05-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5034,String Inverter 50kW,Solar Panels,19,Nos,2026-06-09,Ria Bir,Medium,Converted to PO
+PR-30211,2026-01-15,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5035,Module Mounting Structure (per kW),Solar Panels,6,kW Set,2026-01-27,Bhavini Bose,Medium,Cancelled
+PR-30212,2025-12-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,29,Coil,2026-01-07,Ekanta Soni,Medium,Converted to PO
+PR-30213,2026-06-10,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5055,Sanitaryware Wash Basin,Plumbing Materials,50,Nos,2026-06-18,Ekantika Mutti,High,Converted to PO
+PR-30214,2026-03-13,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,8,Nos,2026-03-21,Dayita Shenoy,Medium,Converted to PO
+PR-30215,2026-06-09,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,7,Roll,2026-06-27,Yashica Rajagopalan,Medium,Converted to PO
+PR-30216,2026-05-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5021,Adhesive Fevicol SH (5kg),Carpentry,8,Can,2026-06-21,Ekanta Soni,Medium,Cancelled
+PR-30217,2026-02-25,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5010,MCCB 200A,Electrical,29,Nos,2026-03-18,Bhavini Bose,Medium,Converted to PO
+PR-30218,2026-06-01,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5008,Earthing Strip GI 25x3mm,Electrical,31,Mtr,2026-06-08,Wakeeta Shetty,Medium,Converted to PO
+PR-30219,2025-09-28,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,21,Coil,2025-10-10,Dayita Shenoy,High,Converted to PO
+PR-30220,2025-10-08,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5042,Tubular Battery 150Ah C10,Batteries,13,Nos,2025-10-26,Aahana Hora,Medium,Rejected
+PR-30221,2026-01-23,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,23,Ton,2026-02-13,Ekanta Soni,Medium,Converted to PO
+PR-30222,2025-11-12,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,54,Nos,2025-11-22,Baljiwan Bhandari,Medium,Converted to PO
+PR-30223,2026-06-18,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5014,MDF Board 12mm (8x4 ft),Carpentry,10,Sheet,2026-06-26,Dayita Shenoy,Medium,Converted to PO
+PR-30224,2026-02-10,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5003,Distribution Board 8-Way,Electrical,18,Nos,2026-03-04,Baljiwan Bhandari,Medium,Converted to PO
+PR-30225,2026-02-17,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5011,Cable Gland Brass 25mm,Electrical,38,Nos,2026-03-11,Ria Bir,Medium,Converted to PO
+PR-30226,2026-06-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5009,Contactor 40A 3 Pole,Electrical,38,Nos,2026-07-13,Wakeeta Shetty,Low,Converted to PO
+PR-30227,2026-08-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,20,Bag,2026-08-20,Benjamin Sengupta,Low,Converted to PO
+PR-30228,2025-10-03,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,27,Nos,2025-10-18,Warinder Chauhan,Medium,Converted to PO
+PR-30229,2026-06-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5046,Battery Rack 4-Tier MS,Batteries,20,Nos,2026-07-18,Riya Mitter,Medium,Converted to PO
+PR-30230,2025-11-24,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,35,Nos,2025-12-08,Bhavini Bose,Medium,Converted to PO
+PR-30231,2025-09-12,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5038,Combiner Box 6 in 1 out,Solar Panels,16,Nos,2025-09-26,Baljiwan Bhandari,Medium,Converted to PO
+PR-30232,2025-10-14,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5046,Battery Rack 4-Tier MS,Batteries,42,Nos,2025-10-27,Daksh Pandey,Low,Converted to PO
+PR-30233,2025-10-26,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,46,Ton,2025-11-02,Ekanta Soni,Low,Converted to PO
+PR-30234,2026-06-04,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5009,Contactor 40A 3 Pole,Electrical,25,Nos,2026-06-11,Benjamin Sengupta,Medium,Pending Approval
+PR-30235,2025-09-23,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5037,MC4 Connector Pair,Solar Panels,22,Pair,2025-10-22,Wakeeta Shetty,Low,Converted to PO
+PR-30236,2025-09-03,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5025,River Sand (fine aggregate),Road Construction Materials,13,Ton,2025-10-02,Warinder Chauhan,Medium,Converted to PO
+PR-30237,2025-12-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5038,Combiner Box 6 in 1 out,Solar Panels,16,Nos,2026-01-03,Dayita Shenoy,Medium,Converted to PO
+PR-30238,2025-12-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,33,Pcs,2026-01-11,Ria Bir,Low,Converted to PO
+PR-30239,2026-07-05,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5049,Deep Cycle Battery 200Ah,Batteries,8,Nos,2026-07-25,Ekantika Mutti,High,Converted to PO
+PR-30240,2026-01-25,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5058,Submersible Pump 1HP,Plumbing Materials,9,Nos,2026-02-07,Baljiwan Bhandari,Medium,Converted to PO
+PR-30241,2025-09-08,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,20,Nos,2025-10-08,Aahana Hora,Medium,Converted to PO
+PR-30242,2026-04-21,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5035,Module Mounting Structure (per kW),Solar Panels,31,kW Set,2026-05-10,Ekantika Mutti,High,Converted to PO
+PR-30243,2026-05-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,25,Nos,2026-05-20,Benjamin Sengupta,Medium,Converted to PO
+PR-30244,2026-01-13,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,14,Nos,2026-01-27,Riya Mitter,Medium,Converted to PO
+PR-30245,2025-12-30,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5025,River Sand (fine aggregate),Road Construction Materials,40,Ton,2026-01-29,Ekantika Mutti,High,Converted to PO
+PR-30246,2026-03-10,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,33,Nos,2026-04-05,Baljiwan Bhandari,Low,Converted to PO
+PR-30247,2026-04-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,30,Ton,2026-05-03,Daksh Pandey,Medium,Converted to PO
+PR-30248,2026-05-14,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,12,Ton,2026-06-03,Yashica Rajagopalan,Medium,Converted to PO
+PR-30249,2026-05-01,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5014,MDF Board 12mm (8x4 ft),Carpentry,16,Sheet,2026-05-08,Daksh Pandey,High,Converted to PO
+PR-30250,2026-02-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5011,Cable Gland Brass 25mm,Electrical,12,Nos,2026-03-06,Dayita Shenoy,Medium,Converted to PO
+PR-30251,2025-10-11,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5039,Earthing Kit for Module Structure,Solar Panels,13,Set,2025-10-30,Daksh Pandey,Medium,Converted to PO
+PR-30252,2026-04-16,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,31,Coil,2026-05-04,Dayita Shenoy,Low,Converted to PO
+PR-30253,2025-10-24,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,40,Nos,2025-11-08,Aahana Hora,Medium,Converted to PO
+PR-30254,2026-01-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5058,Submersible Pump 1HP,Plumbing Materials,43,Nos,2026-02-11,Yashica Rajagopalan,Medium,Converted to PO
+PR-30255,2026-02-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,16,Ton,2026-02-10,Ekanta Soni,Medium,Converted to PO
+PR-30256,2026-03-30,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5035,Module Mounting Structure (per kW),Solar Panels,27,kW Set,2026-04-23,Wakeeta Shetty,High,Converted to PO
+PR-30257,2026-03-31,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5046,Battery Rack 4-Tier MS,Batteries,40,Nos,2026-04-13,Michael Borra,High,Converted to PO
+PR-30258,2026-01-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,28,Sheet,2026-02-07,Daksh Pandey,Medium,Converted to PO
+PR-30259,2025-10-07,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5006,Cable Tray 300mm (2m length),Electrical,41,Nos,2025-10-31,Wakeeta Shetty,Low,Converted to PO
+PR-30260,2026-02-13,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,27,Drum,2026-02-25,Warinder Chauhan,Medium,Converted to PO
+PR-30261,2026-03-22,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,8,Nos,2026-04-05,Warinder Chauhan,Medium,Converted to PO
+PR-30262,2025-10-25,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,24,Nos,2025-11-05,Ria Bir,Low,Converted to PO
+PR-30263,2026-06-18,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5035,Module Mounting Structure (per kW),Solar Panels,20,kW Set,2026-06-30,Ria Bir,Medium,Converted to PO
+PR-30264,2025-09-10,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,27,Ton,2025-10-06,Benjamin Sengupta,Medium,Converted to PO
+PR-30265,2025-09-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5033,Solar Module 550Wp Bifacial,Solar Panels,23,Nos,2025-10-04,Warinder Chauhan,High,Converted to PO
+PR-30266,2026-08-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,23,Nos,2026-08-24,Ekanta Soni,High,Rejected
+PR-30267,2026-04-01,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5008,Earthing Strip GI 25x3mm,Electrical,14,Mtr,2026-04-19,Warinder Chauhan,Low,Converted to PO
+PR-30268,2026-06-13,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5034,String Inverter 50kW,Solar Panels,4,Nos,2026-07-13,Yashica Rajagopalan,High,Converted to PO
+PR-30269,2026-02-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5058,Submersible Pump 1HP,Plumbing Materials,7,Nos,2026-03-04,Bhavini Bose,Medium,Converted to PO
+PR-30270,2025-09-09,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,37,Nos,2025-10-02,Ekantika Mutti,High,Converted to PO
+PR-30271,2025-10-18,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,8,Pair,2025-11-12,Wakeeta Shetty,Medium,Converted to PO
+PR-30272,2026-02-26,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5055,Sanitaryware Wash Basin,Plumbing Materials,9,Nos,2026-03-18,Ekanta Soni,High,Converted to PO
+PR-30273,2026-04-17,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5038,Combiner Box 6 in 1 out,Solar Panels,13,Nos,2026-05-13,Aahana Hora,High,Converted to PO
+PR-30274,2026-05-05,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5002,MCB 32A Single Pole,Electrical,8,Nos,2026-05-29,Riya Mitter,Medium,Converted to PO
+PR-30275,2026-07-02,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5017,Door Lock Mortise Set,Carpentry,20,Set,2026-07-29,Ekantika Mutti,High,Converted to PO
+PR-30276,2026-01-26,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5052,PVC Elbow 4 inch,Plumbing Materials,29,Nos,2026-02-02,Benjamin Sengupta,High,Converted to PO
+PR-30277,2026-08-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5009,Contactor 40A 3 Pole,Electrical,25,Nos,2026-08-29,Michael Borra,High,Converted to PO
+PR-30278,2026-03-17,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5010,MCCB 200A,Electrical,20,Nos,2026-03-31,Dayita Shenoy,Low,Cancelled
+PR-30279,2026-07-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,46,Nos,2026-07-27,Wakeeta Shetty,Medium,Converted to PO
+PR-30280,2026-06-12,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,23,Pcs,2026-06-27,Ria Bir,Low,Converted to PO
+PR-30281,2025-12-13,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5008,Earthing Strip GI 25x3mm,Electrical,37,Mtr,2025-12-24,Yashica Rajagopalan,Low,Converted to PO
+PR-30282,2026-03-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5056,Concealed Cistern with Frame,Plumbing Materials,6,Set,2026-04-15,Ekanta Soni,Low,Converted to PO
+PR-30283,2025-11-08,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,28,Ton,2025-12-01,Daksh Pandey,Medium,Converted to PO
+PR-30284,2025-10-04,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,21,Nos,2025-10-16,Daksh Pandey,Low,Rejected
+PR-30285,2026-01-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5039,Earthing Kit for Module Structure,Solar Panels,9,Set,2026-01-25,Warinder Chauhan,Medium,Converted to PO
+PR-30286,2026-05-24,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,24,Nos,2026-06-17,Yashica Rajagopalan,High,Converted to PO
+PR-30287,2025-10-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,20,Nos,2025-11-16,Michael Borra,Medium,Converted to PO
+PR-30288,2025-11-03,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5034,String Inverter 50kW,Solar Panels,54,Nos,2025-11-12,Daksh Pandey,Medium,Converted to PO
+PR-30289,2025-09-27,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5052,PVC Elbow 4 inch,Plumbing Materials,16,Nos,2025-10-17,Yashica Rajagopalan,Medium,Converted to PO
+PR-30290,2026-04-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5042,Tubular Battery 150Ah C10,Batteries,45,Nos,2026-05-15,Dayita Shenoy,Low,Converted to PO
+PR-30291,2025-09-26,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5035,Module Mounting Structure (per kW),Solar Panels,26,kW Set,2025-10-08,Bhavini Bose,Medium,Converted to PO
+PR-30292,2026-06-15,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5041,Solar Cable Gland Set,Solar Panels,38,Set,2026-06-27,Yashica Rajagopalan,Medium,Rejected
+PR-30293,2026-02-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5004,LED Flood Light 100W,Electrical,15,Nos,2026-03-03,Ekanta Soni,High,Pending Approval
+PR-30294,2026-01-28,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,43,Nos,2026-02-19,Yashica Rajagopalan,Low,Converted to PO
+PR-30295,2026-04-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5046,Battery Rack 4-Tier MS,Batteries,27,Nos,2026-05-03,Ekantika Mutti,Medium,Converted to PO
+PR-30296,2025-10-31,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5010,MCCB 200A,Electrical,15,Nos,2025-11-30,Benjamin Sengupta,Medium,Converted to PO
+PR-30297,2025-10-29,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,30,Bag,2025-11-26,Riya Mitter,Medium,Converted to PO
+PR-30298,2026-06-02,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,22,Nos,2026-06-09,Bhavini Bose,Medium,Converted to PO
+PR-30299,2025-09-17,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5037,MC4 Connector Pair,Solar Panels,38,Pair,2025-10-02,Daksh Pandey,Low,Converted to PO
+PR-30300,2025-12-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5052,PVC Elbow 4 inch,Plumbing Materials,49,Nos,2025-12-24,Yashica Rajagopalan,Low,Rejected
+PR-30301,2025-10-21,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,6,Nos,2025-11-13,Michael Borra,High,Converted to PO
+PR-30302,2026-06-23,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5042,Tubular Battery 150Ah C10,Batteries,20,Nos,2026-07-09,Wakeeta Shetty,Medium,Converted to PO
+PR-30303,2026-06-05,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5035,Module Mounting Structure (per kW),Solar Panels,14,kW Set,2026-06-23,Ekantika Mutti,High,Converted to PO
+PR-30304,2026-04-07,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,14,Ton,2026-04-26,Baljiwan Bhandari,Low,Converted to PO
+PR-30305,2025-10-20,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5049,Deep Cycle Battery 200Ah,Batteries,17,Nos,2025-11-10,Bhavini Bose,Medium,Converted to PO
+PR-30306,2025-11-27,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,33,Ton,2025-12-13,Baljiwan Bhandari,Medium,Converted to PO
+PR-30307,2025-12-16,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5027,Ready Mix Concrete M25,Road Construction Materials,25,Cum,2026-01-14,Benjamin Sengupta,Low,Converted to PO
+PR-30308,2025-11-30,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5007,Junction Box IP65,Electrical,15,Nos,2025-12-16,Aahana Hora,Medium,Rejected
+PR-30309,2026-02-15,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5048,Battery Monitoring System (BMS module),Batteries,26,Nos,2026-03-09,Warinder Chauhan,High,Converted to PO
+PR-30310,2026-02-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,37,Ton,2026-03-05,Baljiwan Bhandari,Low,Converted to PO
+PR-30311,2026-03-21,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,7,Roll,2026-04-17,Riya Mitter,Medium,Converted to PO
+PR-30312,2025-11-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,17,Mtr,2025-12-13,Bhavini Bose,Medium,Pending Approval
+PR-30313,2026-04-01,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5010,MCCB 200A,Electrical,61,Nos,2026-04-22,Yashica Rajagopalan,Medium,Pending Approval
+PR-30314,2026-05-19,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5039,Earthing Kit for Module Structure,Solar Panels,37,Set,2026-06-08,Daksh Pandey,Medium,Converted to PO
+PR-30315,2026-05-05,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,14,Roll,2026-06-03,Yashica Rajagopalan,Medium,Converted to PO
+PR-30316,2026-06-21,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,32,Ton,2026-07-21,Ria Bir,Low,Converted to PO
+PR-30317,2026-01-25,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5042,Tubular Battery 150Ah C10,Batteries,21,Nos,2026-02-16,Dayita Shenoy,High,Converted to PO
+PR-30318,2026-05-07,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5015,Hinges SS 4 inch,Carpentry,37,Pair,2026-05-19,Ekanta Soni,High,Converted to PO
+PR-30319,2026-07-26,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5042,Tubular Battery 150Ah C10,Batteries,27,Nos,2026-08-10,Aahana Hora,High,Converted to PO
+PR-30320,2025-10-20,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,30,Pcs,2025-11-13,Ekanta Soni,Medium,Converted to PO
+PR-30321,2026-05-27,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,19,Coil,2026-06-06,Ria Bir,High,Converted to PO
+PR-30322,2026-07-29,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5010,MCCB 200A,Electrical,23,Nos,2026-08-23,Michael Borra,Low,Converted to PO
+PR-30323,2026-03-15,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,25,Sheet,2026-04-03,Warinder Chauhan,Medium,Converted to PO
+PR-30324,2025-10-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5054,Water Tank 1000L HDPE,Plumbing Materials,30,Nos,2025-10-31,Baljiwan Bhandari,Medium,Converted to PO
+PR-30325,2025-11-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,18,Ton,2025-11-27,Ria Bir,Medium,Converted to PO
+PR-30326,2026-03-19,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,18,Coil,2026-03-29,Ria Bir,Medium,Converted to PO
+PR-30327,2025-09-19,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,29,Pcs,2025-10-06,Benjamin Sengupta,Medium,Converted to PO
+PR-30328,2026-07-30,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5011,Cable Gland Brass 25mm,Electrical,19,Nos,2026-08-10,Bhavini Bose,High,Converted to PO
+PR-30329,2025-11-01,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5037,MC4 Connector Pair,Solar Panels,6,Pair,2025-11-29,Michael Borra,Medium,Converted to PO
+PR-30330,2026-07-21,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,14,Coil,2026-08-16,Michael Borra,High,Converted to PO
+PR-30331,2026-01-01,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5038,Combiner Box 6 in 1 out,Solar Panels,13,Nos,2026-01-13,Warinder Chauhan,Medium,Converted to PO
+PR-30332,2026-05-18,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5030,Kerb Stone Precast,Road Construction Materials,66,Nos,2026-06-01,Bhavini Bose,Medium,Converted to PO
+PR-30333,2025-09-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5039,Earthing Kit for Module Structure,Solar Panels,15,Set,2025-10-03,Dayita Shenoy,High,Converted to PO
+PR-30334,2025-12-31,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,6,Ton,2026-01-30,Wakeeta Shetty,Medium,Converted to PO
+PR-30335,2025-12-13,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,31,Drum,2025-12-30,Yashica Rajagopalan,Medium,Converted to PO
+PR-30336,2025-10-15,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,25,Nos,2025-11-04,Daksh Pandey,Low,Converted to PO
+PR-30337,2026-04-29,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,20,Pcs,2026-05-29,Warinder Chauhan,Medium,Converted to PO
+PR-30338,2026-07-29,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5025,River Sand (fine aggregate),Road Construction Materials,10,Ton,2026-08-07,Bhavini Bose,Medium,Converted to PO
+PR-30339,2025-12-04,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5056,Concealed Cistern with Frame,Plumbing Materials,9,Set,2025-12-22,Yashica Rajagopalan,Medium,Converted to PO
+PR-30340,2026-05-22,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5042,Tubular Battery 150Ah C10,Batteries,10,Nos,2026-06-19,Warinder Chauhan,High,Converted to PO
+PR-30341,2025-12-17,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5041,Solar Cable Gland Set,Solar Panels,19,Set,2026-01-16,Ria Bir,Medium,Converted to PO
+PR-30342,2026-07-15,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,14,Nos,2026-08-02,Yashica Rajagopalan,Low,Converted to PO
+PR-30343,2026-05-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5003,Distribution Board 8-Way,Electrical,20,Nos,2026-06-21,Riya Mitter,Low,Converted to PO
+PR-30344,2026-05-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5037,MC4 Connector Pair,Solar Panels,22,Pair,2026-06-01,Dayita Shenoy,Low,Converted to PO
+PR-30345,2026-07-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,27,Ton,2026-07-26,Ekantika Mutti,High,Converted to PO
+PR-30346,2025-11-15,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5027,Ready Mix Concrete M25,Road Construction Materials,8,Cum,2025-12-03,Michael Borra,Medium,Converted to PO
+PR-30347,2025-11-15,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,14,Nos,2025-12-10,Daksh Pandey,Medium,Converted to PO
+PR-30348,2025-12-23,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,12,Roll,2026-01-07,Aahana Hora,Medium,Converted to PO
+PR-30349,2026-03-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5047,Battery Interconnect Cable Set,Batteries,13,Set,2026-04-04,Ria Bir,Medium,Converted to PO
+PR-30350,2025-11-11,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5048,Battery Monitoring System (BMS module),Batteries,19,Nos,2025-12-06,Michael Borra,High,Converted to PO
+PR-30351,2026-05-11,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5046,Battery Rack 4-Tier MS,Batteries,46,Nos,2026-06-04,Wakeeta Shetty,High,Converted to PO
+PR-30352,2026-07-04,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,50,Ton,2026-08-03,Daksh Pandey,Medium,Converted to PO
+PR-30353,2025-09-28,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5002,MCB 32A Single Pole,Electrical,25,Nos,2025-10-13,Bhavini Bose,Low,Converted to PO
+PR-30354,2026-03-05,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5046,Battery Rack 4-Tier MS,Batteries,18,Nos,2026-03-15,Ria Bir,Low,Converted to PO
+PR-30355,2026-04-02,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,14,Nos,2026-04-23,Aahana Hora,Low,Pending Approval
+PR-30356,2026-03-05,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,18,Drum,2026-03-16,Baljiwan Bhandari,Medium,Converted to PO
+PR-30357,2026-04-09,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5007,Junction Box IP65,Electrical,37,Nos,2026-04-17,Warinder Chauhan,Medium,Converted to PO
+PR-30358,2025-09-15,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5017,Door Lock Mortise Set,Carpentry,26,Set,2025-09-24,Yashica Rajagopalan,Low,Converted to PO
+PR-30359,2025-09-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5008,Earthing Strip GI 25x3mm,Electrical,18,Mtr,2025-10-03,Wakeeta Shetty,Low,Converted to PO
+PR-30360,2025-11-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5047,Battery Interconnect Cable Set,Batteries,22,Set,2025-11-24,Michael Borra,Medium,Converted to PO
+PR-30361,2025-12-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5018,Wood Screws 2 inch (box of 100),Carpentry,11,Box,2025-12-15,Benjamin Sengupta,Medium,Pending Approval
+PR-30362,2026-05-10,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,22,Bag,2026-06-07,Daksh Pandey,Medium,Converted to PO
+PR-30363,2025-11-02,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5048,Battery Monitoring System (BMS module),Batteries,15,Nos,2025-11-16,Yashica Rajagopalan,Medium,Converted to PO
+PR-30364,2026-07-19,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5025,River Sand (fine aggregate),Road Construction Materials,23,Ton,2026-07-30,Yashica Rajagopalan,High,Converted to PO
+PR-30365,2026-01-29,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,15,Nos,2026-02-26,Dayita Shenoy,Medium,Converted to PO
+PR-30366,2026-03-16,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,26,Pcs,2026-04-06,Riya Mitter,Medium,Converted to PO
+PR-30367,2026-05-02,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5039,Earthing Kit for Module Structure,Solar Panels,13,Set,2026-05-26,Dayita Shenoy,High,Converted to PO
+PR-30368,2026-03-14,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5037,MC4 Connector Pair,Solar Panels,28,Pair,2026-03-24,Ria Bir,Medium,Converted to PO
+PR-30369,2026-05-22,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,34,Nos,2026-06-11,Yashica Rajagopalan,Medium,Converted to PO
+PR-30370,2026-02-01,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,20,Roll,2026-02-19,Wakeeta Shetty,Medium,Rejected
+PR-30371,2026-01-26,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,29,Nos,2026-02-10,Baljiwan Bhandari,Medium,Converted to PO
+PR-30372,2026-04-10,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5046,Battery Rack 4-Tier MS,Batteries,12,Nos,2026-05-08,Wakeeta Shetty,Medium,Converted to PO
+PR-30373,2026-07-12,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5058,Submersible Pump 1HP,Plumbing Materials,43,Nos,2026-08-01,Yashica Rajagopalan,Medium,Rejected
+PR-30374,2025-11-15,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,38,Sheet,2025-11-29,Bhavini Bose,Medium,Converted to PO
+PR-30375,2026-04-26,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5004,LED Flood Light 100W,Electrical,17,Nos,2026-05-18,Riya Mitter,Medium,Converted to PO
+PR-30376,2025-10-13,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5042,Tubular Battery 150Ah C10,Batteries,8,Nos,2025-10-30,Ekanta Soni,High,Converted to PO
+PR-30377,2026-07-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,28,Nos,2026-07-15,Ria Bir,Medium,Converted to PO
+PR-30378,2026-02-10,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,4,Ton,2026-03-06,Bhavini Bose,High,Converted to PO
+PR-30379,2026-01-08,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5035,Module Mounting Structure (per kW),Solar Panels,29,kW Set,2026-02-01,Bhavini Bose,Low,Converted to PO
+PR-30380,2026-07-27,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5055,Sanitaryware Wash Basin,Plumbing Materials,47,Nos,2026-08-16,Ekantika Mutti,Low,Converted to PO
+PR-30381,2025-09-27,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,16,Bag,2025-10-24,Bhavini Bose,Medium,Converted to PO
+PR-30382,2026-02-11,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5048,Battery Monitoring System (BMS module),Batteries,16,Nos,2026-03-04,Yashica Rajagopalan,High,Converted to PO
+PR-30383,2026-01-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,35,Nos,2026-02-11,Warinder Chauhan,Medium,Converted to PO
+PR-30384,2025-12-14,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5011,Cable Gland Brass 25mm,Electrical,7,Nos,2025-12-27,Ekanta Soni,Medium,Rejected
+PR-30385,2025-11-06,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5048,Battery Monitoring System (BMS module),Batteries,18,Nos,2025-11-26,Baljiwan Bhandari,High,Converted to PO
+PR-30386,2025-09-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5033,Solar Module 550Wp Bifacial,Solar Panels,14,Nos,2025-09-28,Ria Bir,Low,Converted to PO
+PR-30387,2026-03-15,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5021,Adhesive Fevicol SH (5kg),Carpentry,12,Can,2026-03-31,Bhavini Bose,Medium,Cancelled
+PR-30388,2026-01-12,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5002,MCB 32A Single Pole,Electrical,7,Nos,2026-01-24,Ria Bir,Low,Converted to PO
+PR-30389,2026-05-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,20,Coil,2026-06-09,Michael Borra,Medium,Converted to PO
+PR-30390,2025-09-21,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,20,Nos,2025-10-12,Yashica Rajagopalan,Medium,Converted to PO
+PR-30391,2026-05-28,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,11,Pcs,2026-06-22,Aahana Hora,High,Converted to PO
+PR-30392,2026-04-21,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,46,Nos,2026-05-18,Baljiwan Bhandari,Medium,Rejected
+PR-30393,2026-04-20,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,18,Nos,2026-05-07,Yashica Rajagopalan,Low,Rejected
+PR-30394,2026-07-27,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,13,Mtr,2026-08-12,Warinder Chauhan,Medium,Converted to PO
+PR-30395,2025-11-01,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5014,MDF Board 12mm (8x4 ft),Carpentry,16,Sheet,2025-11-17,Riya Mitter,Medium,Converted to PO
+PR-30396,2026-07-12,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5047,Battery Interconnect Cable Set,Batteries,32,Set,2026-07-24,Riya Mitter,High,Converted to PO
+PR-30397,2026-01-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5048,Battery Monitoring System (BMS module),Batteries,23,Nos,2026-02-24,Aahana Hora,Low,Converted to PO
+PR-30398,2025-12-03,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5034,String Inverter 50kW,Solar Panels,59,Nos,2025-12-22,Riya Mitter,Low,Converted to PO
+PR-30399,2025-10-30,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5006,Cable Tray 300mm (2m length),Electrical,15,Nos,2025-11-06,Daksh Pandey,Medium,Converted to PO
+PR-30400,2025-09-09,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,41,Coil,2025-10-08,Ekanta Soni,High,Cancelled
+PR-30401,2026-04-12,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5035,Module Mounting Structure (per kW),Solar Panels,13,kW Set,2026-05-09,Dayita Shenoy,High,Converted to PO
+PR-30402,2026-06-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5007,Junction Box IP65,Electrical,32,Nos,2026-07-11,Baljiwan Bhandari,Low,Converted to PO
+PR-30403,2026-01-27,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,30,Nos,2026-02-04,Daksh Pandey,Medium,Converted to PO
+PR-30404,2026-04-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5037,MC4 Connector Pair,Solar Panels,18,Pair,2026-05-17,Michael Borra,Medium,Converted to PO
+PR-30405,2026-04-30,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5047,Battery Interconnect Cable Set,Batteries,14,Set,2026-05-12,Ekantika Mutti,Medium,Converted to PO
+PR-30406,2026-03-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,35,Drum,2026-03-30,Ekanta Soni,Low,Converted to PO
+PR-30407,2025-11-17,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5046,Battery Rack 4-Tier MS,Batteries,54,Nos,2025-12-16,Baljiwan Bhandari,Medium,Pending Approval
+PR-30408,2026-04-23,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5007,Junction Box IP65,Electrical,29,Nos,2026-05-03,Benjamin Sengupta,Medium,Cancelled
+PR-30409,2026-05-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5042,Tubular Battery 150Ah C10,Batteries,38,Nos,2026-05-28,Aahana Hora,Low,Converted to PO
+PR-30410,2026-01-04,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5042,Tubular Battery 150Ah C10,Batteries,61,Nos,2026-01-26,Dayita Shenoy,High,Converted to PO
+PR-30411,2026-05-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,17,Bag,2026-06-01,Ria Bir,Medium,Converted to PO
+PR-30412,2026-07-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,19,Nos,2026-08-12,Yashica Rajagopalan,Medium,Converted to PO
+PR-30413,2026-05-25,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,19,Coil,2026-06-11,Michael Borra,High,Converted to PO
+PR-30414,2026-01-11,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5005,Modular Switch 6A,Electrical,31,Nos,2026-02-07,Aahana Hora,High,Converted to PO
+PR-30415,2026-07-02,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,25,Nos,2026-07-16,Ekantika Mutti,Medium,Converted to PO
+PR-30416,2026-04-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,13,Mtr,2026-04-17,Daksh Pandey,High,Converted to PO
+PR-30417,2026-05-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,28,Nos,2026-05-28,Daksh Pandey,High,Converted to PO
+PR-30418,2026-06-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5005,Modular Switch 6A,Electrical,76,Nos,2026-07-06,Michael Borra,High,Converted to PO
+PR-30419,2025-12-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,30,Nos,2026-01-02,Aahana Hora,Medium,Converted to PO
+PR-30420,2026-04-19,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5039,Earthing Kit for Module Structure,Solar Panels,19,Set,2026-05-17,Ekanta Soni,Medium,Converted to PO
+PR-30421,2026-06-20,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,11,Pcs,2026-07-17,Yashica Rajagopalan,Medium,Converted to PO
+PR-30422,2026-05-02,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,18,Nos,2026-05-25,Aahana Hora,Medium,Pending Approval
+PR-30423,2026-01-19,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,12,Mtr,2026-02-01,Yashica Rajagopalan,Low,Converted to PO
+PR-30424,2025-10-17,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,9,Drum,2025-10-27,Dayita Shenoy,High,Cancelled
+PR-30425,2025-11-18,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,27,Sheet,2025-12-04,Bhavini Bose,High,Rejected
+PR-30426,2025-09-14,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5052,PVC Elbow 4 inch,Plumbing Materials,19,Nos,2025-10-13,Riya Mitter,High,Converted to PO
+PR-30427,2025-10-02,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5054,Water Tank 1000L HDPE,Plumbing Materials,9,Nos,2025-10-19,Riya Mitter,High,Converted to PO
+PR-30428,2025-12-14,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5030,Kerb Stone Precast,Road Construction Materials,52,Nos,2025-12-25,Michael Borra,Medium,Converted to PO
+PR-30429,2026-01-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5007,Junction Box IP65,Electrical,5,Nos,2026-02-13,Bhavini Bose,Medium,Converted to PO
+PR-30430,2026-04-10,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5046,Battery Rack 4-Tier MS,Batteries,42,Nos,2026-04-23,Benjamin Sengupta,Medium,Converted to PO
+PR-30431,2025-09-05,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,65,Nos,2025-10-03,Dayita Shenoy,Low,Converted to PO
+PR-30432,2026-03-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5047,Battery Interconnect Cable Set,Batteries,59,Set,2026-03-30,Benjamin Sengupta,Medium,Converted to PO
+PR-30433,2025-12-29,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5025,River Sand (fine aggregate),Road Construction Materials,14,Ton,2026-01-20,Warinder Chauhan,Medium,Rejected
+PR-30434,2025-09-04,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5035,Module Mounting Structure (per kW),Solar Panels,34,kW Set,2025-09-17,Bhavini Bose,Medium,Cancelled
+PR-30435,2025-11-27,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5039,Earthing Kit for Module Structure,Solar Panels,39,Set,2025-12-21,Yashica Rajagopalan,Medium,Converted to PO
+PR-30436,2026-05-31,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5042,Tubular Battery 150Ah C10,Batteries,47,Nos,2026-06-26,Dayita Shenoy,Low,Converted to PO
+PR-30437,2025-12-25,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,28,Pcs,2026-01-23,Aahana Hora,Low,Converted to PO
+PR-30438,2026-01-01,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,10,Sheet,2026-01-18,Ekanta Soni,Medium,Converted to PO
+PR-30439,2025-10-02,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5002,MCB 32A Single Pole,Electrical,24,Nos,2025-10-23,Baljiwan Bhandari,Medium,Converted to PO
+PR-30440,2026-04-26,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5006,Cable Tray 300mm (2m length),Electrical,56,Nos,2026-05-16,Baljiwan Bhandari,High,Pending Approval
+PR-30441,2026-04-21,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,48,Pcs,2026-05-14,Wakeeta Shetty,High,Converted to PO
+PR-30442,2025-11-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,15,Nos,2025-11-25,Baljiwan Bhandari,Medium,Converted to PO
+PR-30443,2026-04-28,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,27,Ton,2026-05-24,Ekanta Soni,Medium,Converted to PO
+PR-30444,2026-03-12,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5017,Door Lock Mortise Set,Carpentry,20,Set,2026-03-25,Ekanta Soni,Low,Converted to PO
+PR-30445,2025-11-29,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5004,LED Flood Light 100W,Electrical,33,Nos,2025-12-16,Wakeeta Shetty,High,Converted to PO
+PR-30446,2025-11-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5002,MCB 32A Single Pole,Electrical,41,Nos,2025-11-19,Riya Mitter,Medium,Converted to PO
+PR-30447,2025-12-17,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,26,Nos,2026-01-16,Daksh Pandey,Medium,Converted to PO
+PR-30448,2026-03-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,12,Roll,2026-04-21,Baljiwan Bhandari,Medium,Rejected
+PR-30449,2026-04-20,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5015,Hinges SS 4 inch,Carpentry,15,Pair,2026-05-04,Ekantika Mutti,Medium,Converted to PO
+PR-30450,2026-04-10,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,35,Ton,2026-04-30,Daksh Pandey,Medium,Converted to PO
+PR-30451,2025-10-31,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,31,Pcs,2025-11-09,Dayita Shenoy,High,Converted to PO
+PR-30452,2026-03-26,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5017,Door Lock Mortise Set,Carpentry,15,Set,2026-04-14,Benjamin Sengupta,Medium,Converted to PO
+PR-30453,2025-12-06,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5047,Battery Interconnect Cable Set,Batteries,8,Set,2025-12-26,Yashica Rajagopalan,Medium,Converted to PO
+PR-30454,2026-06-03,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,40,Ton,2026-06-19,Warinder Chauhan,Medium,Converted to PO
+PR-30455,2026-06-01,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,15,Pcs,2026-06-20,Aahana Hora,Medium,Converted to PO
+PR-30456,2026-01-28,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5015,Hinges SS 4 inch,Carpentry,10,Pair,2026-02-25,Daksh Pandey,High,Converted to PO
+PR-30457,2025-11-21,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,23,Ton,2025-12-17,Ekantika Mutti,Medium,Converted to PO
+PR-30458,2026-04-25,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,10,Nos,2026-05-20,Aahana Hora,Medium,Converted to PO
+PR-30459,2025-09-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5011,Cable Gland Brass 25mm,Electrical,59,Nos,2025-10-07,Michael Borra,Medium,Pending Approval
+PR-30460,2025-12-21,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5033,Solar Module 550Wp Bifacial,Solar Panels,30,Nos,2026-01-12,Benjamin Sengupta,Medium,Converted to PO
+PR-30461,2026-03-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5027,Ready Mix Concrete M25,Road Construction Materials,22,Cum,2026-04-06,Warinder Chauhan,Medium,Converted to PO
+PR-30462,2025-11-30,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,15,Nos,2025-12-16,Yashica Rajagopalan,Medium,Converted to PO
+PR-30463,2026-03-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,22,Nos,2026-04-17,Warinder Chauhan,Medium,Converted to PO
+PR-30464,2025-11-25,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,35,Sheet,2025-12-25,Riya Mitter,Medium,Converted to PO
+PR-30465,2026-03-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5003,Distribution Board 8-Way,Electrical,28,Nos,2026-04-15,Daksh Pandey,Low,Converted to PO
+PR-30466,2025-11-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5056,Concealed Cistern with Frame,Plumbing Materials,22,Set,2025-11-25,Benjamin Sengupta,Low,Converted to PO
+PR-30467,2025-11-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5021,Adhesive Fevicol SH (5kg),Carpentry,44,Can,2025-11-19,Riya Mitter,Medium,Converted to PO
+PR-30468,2026-01-21,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5052,PVC Elbow 4 inch,Plumbing Materials,22,Nos,2026-02-07,Benjamin Sengupta,High,Converted to PO
+PR-30469,2025-09-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5003,Distribution Board 8-Way,Electrical,34,Nos,2025-10-24,Wakeeta Shetty,High,Cancelled
+PR-30470,2025-12-30,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5035,Module Mounting Structure (per kW),Solar Panels,16,kW Set,2026-01-22,Yashica Rajagopalan,Medium,Converted to PO
+PR-30471,2026-04-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,25,Ton,2026-05-21,Baljiwan Bhandari,Medium,Converted to PO
+PR-30472,2026-04-21,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,10,Drum,2026-05-07,Baljiwan Bhandari,Medium,Converted to PO
+PR-30473,2025-10-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,28,Roll,2025-10-27,Aahana Hora,Medium,Pending Approval
+PR-30474,2026-01-09,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5006,Cable Tray 300mm (2m length),Electrical,21,Nos,2026-02-08,Yashica Rajagopalan,Medium,Converted to PO
+PR-30475,2026-07-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,9,Coil,2026-07-28,Michael Borra,Medium,Rejected
+PR-30476,2025-09-07,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5034,String Inverter 50kW,Solar Panels,18,Nos,2025-09-17,Bhavini Bose,Medium,Converted to PO
+PR-30477,2025-10-16,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5038,Combiner Box 6 in 1 out,Solar Panels,12,Nos,2025-10-26,Benjamin Sengupta,Medium,Converted to PO
+PR-30478,2025-11-27,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5018,Wood Screws 2 inch (box of 100),Carpentry,43,Box,2025-12-09,Yashica Rajagopalan,High,Converted to PO
+PR-30479,2025-11-25,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5010,MCCB 200A,Electrical,19,Nos,2025-12-04,Riya Mitter,High,Converted to PO
+PR-30480,2026-07-06,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5048,Battery Monitoring System (BMS module),Batteries,21,Nos,2026-07-29,Benjamin Sengupta,Medium,Cancelled
+PR-30481,2026-07-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5027,Ready Mix Concrete M25,Road Construction Materials,29,Cum,2026-07-27,Bhavini Bose,Low,Converted to PO
+PR-30482,2026-05-30,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,16,Coil,2026-06-14,Benjamin Sengupta,Low,Rejected
+PR-30483,2026-05-22,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,13,Ton,2026-06-11,Warinder Chauhan,Low,Converted to PO
+PR-30484,2026-03-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,48,Pcs,2026-04-02,Yashica Rajagopalan,High,Converted to PO
+PR-30485,2025-10-30,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5007,Junction Box IP65,Electrical,41,Nos,2025-11-21,Wakeeta Shetty,High,Converted to PO
+PR-30486,2026-03-16,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5055,Sanitaryware Wash Basin,Plumbing Materials,11,Nos,2026-03-31,Ekantika Mutti,Medium,Converted to PO
+PR-30487,2026-08-01,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5048,Battery Monitoring System (BMS module),Batteries,9,Nos,2026-08-28,Ekanta Soni,Medium,Converted to PO
+PR-30488,2026-03-14,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5027,Ready Mix Concrete M25,Road Construction Materials,18,Cum,2026-04-08,Ekantika Mutti,High,Converted to PO
+PR-30489,2025-12-22,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,44,Drum,2026-01-13,Michael Borra,Medium,Converted to PO
+PR-30490,2026-02-18,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,13,Pcs,2026-03-01,Wakeeta Shetty,Low,Converted to PO
+PR-30491,2026-05-01,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,8,Ton,2026-05-19,Riya Mitter,High,Converted to PO
+PR-30492,2026-04-15,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5002,MCB 32A Single Pole,Electrical,30,Nos,2026-05-14,Michael Borra,High,Converted to PO
+PR-30493,2025-10-31,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,31,Mtr,2025-11-23,Baljiwan Bhandari,Medium,Converted to PO
+PR-30494,2026-07-30,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5039,Earthing Kit for Module Structure,Solar Panels,39,Set,2026-08-18,Bhavini Bose,Medium,Converted to PO
+PR-30495,2026-07-28,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,20,Sheet,2026-08-26,Baljiwan Bhandari,High,Converted to PO
+PR-30496,2026-04-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5008,Earthing Strip GI 25x3mm,Electrical,32,Mtr,2026-05-04,Michael Borra,Medium,Converted to PO
+PR-30497,2026-01-29,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5008,Earthing Strip GI 25x3mm,Electrical,25,Mtr,2026-02-26,Michael Borra,Medium,Converted to PO
+PR-30498,2026-06-10,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,15,Nos,2026-06-23,Ekantika Mutti,High,Converted to PO
+PR-30499,2026-01-16,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5011,Cable Gland Brass 25mm,Electrical,13,Nos,2026-02-12,Wakeeta Shetty,Medium,Converted to PO
+PR-30500,2026-06-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,21,Coil,2026-06-28,Bhavini Bose,High,Converted to PO
+PR-30501,2026-05-09,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,33,Nos,2026-05-19,Yashica Rajagopalan,Medium,Converted to PO
+PR-30502,2026-05-03,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5038,Combiner Box 6 in 1 out,Solar Panels,52,Nos,2026-05-28,Warinder Chauhan,Medium,Converted to PO
+PR-30503,2026-04-13,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5034,String Inverter 50kW,Solar Panels,22,Nos,2026-05-01,Dayita Shenoy,Medium,Converted to PO
+PR-30504,2026-05-04,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5034,String Inverter 50kW,Solar Panels,24,Nos,2026-05-26,Bhavini Bose,Low,Converted to PO
+PR-30505,2025-10-09,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5052,PVC Elbow 4 inch,Plumbing Materials,31,Nos,2025-10-27,Dayita Shenoy,Medium,Converted to PO
+PR-30506,2025-10-31,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,79,Roll,2025-11-16,Ekantika Mutti,Medium,Converted to PO
+PR-30507,2025-09-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,35,Sheet,2025-09-21,Michael Borra,Medium,Pending Approval
+PR-30508,2025-12-11,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5007,Junction Box IP65,Electrical,24,Nos,2025-12-20,Michael Borra,Medium,Converted to PO
+PR-30509,2026-04-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5011,Cable Gland Brass 25mm,Electrical,10,Nos,2026-04-18,Ekanta Soni,Medium,Converted to PO
+PR-30510,2026-04-04,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,18,Pcs,2026-04-26,Benjamin Sengupta,Medium,Converted to PO
+PR-30511,2026-07-03,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5048,Battery Monitoring System (BMS module),Batteries,23,Nos,2026-08-02,Daksh Pandey,Medium,Converted to PO
+PR-30512,2025-12-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5038,Combiner Box 6 in 1 out,Solar Panels,52,Nos,2026-01-02,Benjamin Sengupta,High,Converted to PO
+PR-30513,2025-09-27,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5033,Solar Module 550Wp Bifacial,Solar Panels,16,Nos,2025-10-16,Ekantika Mutti,Medium,Converted to PO
+PR-30514,2025-09-25,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5027,Ready Mix Concrete M25,Road Construction Materials,16,Cum,2025-10-07,Warinder Chauhan,Medium,Converted to PO
+PR-30515,2026-02-17,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,4,Nos,2026-03-07,Ria Bir,Medium,Converted to PO
+PR-30516,2026-04-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,22,Nos,2026-04-27,Dayita Shenoy,Medium,Converted to PO
+PR-30517,2026-04-12,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,38,Ton,2026-04-21,Dayita Shenoy,Low,Converted to PO
+PR-30518,2026-05-21,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5030,Kerb Stone Precast,Road Construction Materials,22,Nos,2026-05-30,Benjamin Sengupta,Medium,Converted to PO
+PR-30519,2026-02-03,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5046,Battery Rack 4-Tier MS,Batteries,11,Nos,2026-02-17,Ekantika Mutti,Medium,Converted to PO
+PR-30520,2026-06-01,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,21,Nos,2026-06-11,Ria Bir,Medium,Converted to PO
+PR-30521,2026-06-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,7,Mtr,2026-07-01,Benjamin Sengupta,Low,Cancelled
+PR-30522,2026-03-15,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5011,Cable Gland Brass 25mm,Electrical,5,Nos,2026-04-11,Bhavini Bose,Medium,Converted to PO
+PR-30523,2025-10-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,35,Ton,2025-11-09,Michael Borra,Low,Converted to PO
+PR-30524,2025-10-22,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5018,Wood Screws 2 inch (box of 100),Carpentry,23,Box,2025-11-21,Yashica Rajagopalan,Medium,Converted to PO
+PR-30525,2025-10-25,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,13,Nos,2025-11-18,Ria Bir,Low,Converted to PO
+PR-30526,2026-03-17,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5006,Cable Tray 300mm (2m length),Electrical,10,Nos,2026-03-28,Ekantika Mutti,High,Converted to PO
+PR-30527,2026-03-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5054,Water Tank 1000L HDPE,Plumbing Materials,28,Nos,2026-03-11,Aahana Hora,Medium,Converted to PO
+PR-30528,2026-01-17,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,45,Ton,2026-02-08,Ekantika Mutti,Low,Converted to PO
+PR-30529,2026-02-13,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,26,Sheet,2026-02-24,Riya Mitter,Medium,Converted to PO
+PR-30530,2026-04-04,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,22,Roll,2026-04-27,Yashica Rajagopalan,Low,Converted to PO
+PR-30531,2026-06-10,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5014,MDF Board 12mm (8x4 ft),Carpentry,78,Sheet,2026-06-30,Ekanta Soni,High,Converted to PO
+PR-30532,2025-11-12,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5005,Modular Switch 6A,Electrical,10,Nos,2025-11-21,Warinder Chauhan,Medium,Converted to PO
+PR-30533,2025-09-17,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5010,MCCB 200A,Electrical,28,Nos,2025-10-13,Dayita Shenoy,High,Converted to PO
+PR-30534,2026-04-28,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5033,Solar Module 550Wp Bifacial,Solar Panels,13,Nos,2026-05-20,Bhavini Bose,Medium,Converted to PO
+PR-30535,2025-09-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5009,Contactor 40A 3 Pole,Electrical,5,Nos,2025-09-22,Wakeeta Shetty,Medium,Converted to PO
+PR-30536,2026-03-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5037,MC4 Connector Pair,Solar Panels,6,Pair,2026-04-19,Michael Borra,Medium,Converted to PO
+PR-30537,2026-07-18,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5033,Solar Module 550Wp Bifacial,Solar Panels,18,Nos,2026-07-27,Wakeeta Shetty,Low,Rejected
+PR-30538,2026-05-15,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5034,String Inverter 50kW,Solar Panels,9,Nos,2026-06-07,Baljiwan Bhandari,Medium,Cancelled
+PR-30539,2026-02-21,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,11,Ton,2026-03-09,Ekanta Soni,Low,Converted to PO
+PR-30540,2026-07-19,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,16,Nos,2026-08-10,Warinder Chauhan,High,Converted to PO
+PR-30541,2026-01-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5039,Earthing Kit for Module Structure,Solar Panels,19,Set,2026-02-02,Benjamin Sengupta,Low,Cancelled
+PR-30542,2026-06-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,13,Pcs,2026-07-11,Ekanta Soni,Medium,Converted to PO
+PR-30543,2025-09-30,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5010,MCCB 200A,Electrical,56,Nos,2025-10-30,Yashica Rajagopalan,Low,Converted to PO
+PR-30544,2025-10-26,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5039,Earthing Kit for Module Structure,Solar Panels,21,Set,2025-11-04,Aahana Hora,Low,Converted to PO
+PR-30545,2025-11-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5039,Earthing Kit for Module Structure,Solar Panels,9,Set,2025-12-11,Baljiwan Bhandari,High,Converted to PO
+PR-30546,2026-04-05,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,16,Sheet,2026-04-20,Michael Borra,High,Converted to PO
+PR-30547,2026-04-03,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5005,Modular Switch 6A,Electrical,20,Nos,2026-04-25,Yashica Rajagopalan,Medium,Converted to PO
+PR-30548,2025-09-08,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5047,Battery Interconnect Cable Set,Batteries,26,Set,2025-09-19,Michael Borra,Medium,Pending Approval
+PR-30549,2026-03-28,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5010,MCCB 200A,Electrical,6,Nos,2026-04-12,Warinder Chauhan,Low,Converted to PO
+PR-30550,2025-09-08,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,23,Nos,2025-09-26,Warinder Chauhan,Medium,Converted to PO
+PR-30551,2026-04-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5002,MCB 32A Single Pole,Electrical,24,Nos,2026-05-13,Dayita Shenoy,Medium,Converted to PO
+PR-30552,2026-07-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5011,Cable Gland Brass 25mm,Electrical,12,Nos,2026-08-10,Daksh Pandey,Medium,Converted to PO
+PR-30553,2026-03-31,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,8,Nos,2026-04-27,Yashica Rajagopalan,Medium,Converted to PO
+PR-30554,2026-06-20,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,24,Ton,2026-07-10,Riya Mitter,High,Converted to PO
+PR-30555,2026-07-21,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,25,Nos,2026-08-15,Ekanta Soni,Medium,Converted to PO
+PR-30556,2025-11-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,28,Nos,2025-11-27,Benjamin Sengupta,Medium,Converted to PO
+PR-30557,2026-07-24,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,6,Pcs,2026-08-18,Aahana Hora,Medium,Pending Approval
+PR-30558,2026-01-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5002,MCB 32A Single Pole,Electrical,24,Nos,2026-02-07,Aahana Hora,High,Pending Approval
+PR-30559,2026-03-20,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,24,Nos,2026-03-30,Warinder Chauhan,Medium,Converted to PO
+PR-30560,2026-05-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5055,Sanitaryware Wash Basin,Plumbing Materials,16,Nos,2026-06-01,Warinder Chauhan,High,Converted to PO
+PR-30561,2026-01-16,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5014,MDF Board 12mm (8x4 ft),Carpentry,19,Sheet,2026-01-31,Aahana Hora,Medium,Converted to PO
+PR-30562,2026-02-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5009,Contactor 40A 3 Pole,Electrical,20,Nos,2026-02-19,Yashica Rajagopalan,Medium,Converted to PO
+PR-30563,2026-06-28,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5054,Water Tank 1000L HDPE,Plumbing Materials,30,Nos,2026-07-18,Ekanta Soni,Low,Converted to PO
+PR-30564,2025-09-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5011,Cable Gland Brass 25mm,Electrical,94,Nos,2025-10-05,Daksh Pandey,Medium,Converted to PO
+PR-30565,2026-02-10,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,27,Ton,2026-02-27,Warinder Chauhan,Low,Converted to PO
+PR-30566,2026-01-24,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,19,Nos,2026-02-04,Riya Mitter,High,Converted to PO
+PR-30567,2026-07-11,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5049,Deep Cycle Battery 200Ah,Batteries,19,Nos,2026-07-19,Yashica Rajagopalan,Low,Converted to PO
+PR-30568,2026-03-08,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5011,Cable Gland Brass 25mm,Electrical,23,Nos,2026-04-01,Yashica Rajagopalan,Low,Cancelled
+PR-30569,2025-10-27,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,58,Pcs,2025-11-04,Aahana Hora,Medium,Rejected
+PR-30570,2026-01-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5038,Combiner Box 6 in 1 out,Solar Panels,18,Nos,2026-02-15,Michael Borra,Medium,Converted to PO
+PR-30571,2026-01-14,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,40,Ton,2026-01-30,Ria Bir,Medium,Converted to PO
+PR-30572,2026-04-28,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5003,Distribution Board 8-Way,Electrical,15,Nos,2026-05-17,Aahana Hora,Medium,Converted to PO
+PR-30573,2025-12-13,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5058,Submersible Pump 1HP,Plumbing Materials,28,Nos,2026-01-01,Ekantika Mutti,Medium,Converted to PO
+PR-30574,2025-10-31,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,32,Drum,2025-11-24,Riya Mitter,High,Converted to PO
+PR-30575,2026-05-30,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5004,LED Flood Light 100W,Electrical,12,Nos,2026-06-25,Riya Mitter,High,Converted to PO
+PR-30576,2026-01-16,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5025,River Sand (fine aggregate),Road Construction Materials,13,Ton,2026-02-07,Benjamin Sengupta,High,Converted to PO
+PR-30577,2025-12-05,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5034,String Inverter 50kW,Solar Panels,22,Nos,2025-12-22,Michael Borra,Low,Pending Approval
+PR-30578,2025-09-11,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5027,Ready Mix Concrete M25,Road Construction Materials,19,Cum,2025-09-23,Aahana Hora,High,Cancelled
+PR-30579,2026-06-26,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5039,Earthing Kit for Module Structure,Solar Panels,21,Set,2026-07-03,Wakeeta Shetty,Medium,Converted to PO
+PR-30580,2026-08-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5046,Battery Rack 4-Tier MS,Batteries,12,Nos,2026-08-28,Daksh Pandey,High,Converted to PO
+PR-30581,2026-04-09,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5009,Contactor 40A 3 Pole,Electrical,19,Nos,2026-04-27,Aahana Hora,High,Converted to PO
+PR-30582,2026-02-17,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5017,Door Lock Mortise Set,Carpentry,13,Set,2026-03-08,Ekantika Mutti,Medium,Converted to PO
+PR-30583,2025-11-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5010,MCCB 200A,Electrical,19,Nos,2025-12-09,Baljiwan Bhandari,Medium,Rejected
+PR-30584,2025-10-04,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,31,Drum,2025-10-20,Warinder Chauhan,High,Converted to PO
+PR-30585,2026-01-17,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,22,Coil,2026-01-28,Wakeeta Shetty,Medium,Cancelled
+PR-30586,2026-05-01,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,21,Sheet,2026-05-19,Bhavini Bose,Medium,Converted to PO
+PR-30587,2026-06-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5018,Wood Screws 2 inch (box of 100),Carpentry,21,Box,2026-06-24,Aahana Hora,Medium,Converted to PO
+PR-30588,2026-04-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,41,Ton,2026-05-02,Warinder Chauhan,Low,Pending Approval
+PR-30589,2026-07-12,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5002,MCB 32A Single Pole,Electrical,9,Nos,2026-07-28,Baljiwan Bhandari,Medium,Converted to PO
+PR-30590,2026-07-30,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5004,LED Flood Light 100W,Electrical,28,Nos,2026-08-09,Aahana Hora,Low,Converted to PO
+PR-30591,2026-07-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5010,MCCB 200A,Electrical,13,Nos,2026-08-05,Ekantika Mutti,Medium,Converted to PO
+PR-30592,2025-11-02,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,16,Bag,2025-11-18,Michael Borra,Low,Converted to PO
+PR-30593,2026-01-27,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,36,Sheet,2026-02-12,Baljiwan Bhandari,Medium,Converted to PO
+PR-30594,2026-04-16,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5041,Solar Cable Gland Set,Solar Panels,11,Set,2026-04-24,Ria Bir,Low,Pending Approval
+PR-30595,2026-01-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,17,Nos,2026-01-27,Ria Bir,Medium,Cancelled
+PR-30596,2026-03-19,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,12,Roll,2026-04-11,Bhavini Bose,High,Converted to PO
+PR-30597,2026-08-04,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,19,Nos,2026-08-27,Yashica Rajagopalan,Medium,Converted to PO
+PR-30598,2025-12-31,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5025,River Sand (fine aggregate),Road Construction Materials,26,Ton,2026-01-10,Michael Borra,Medium,Pending Approval
+PR-30599,2025-10-03,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5048,Battery Monitoring System (BMS module),Batteries,20,Nos,2025-10-11,Aahana Hora,High,Converted to PO
+PR-30600,2025-12-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,45,Drum,2026-01-07,Riya Mitter,Low,Converted to PO
+PR-30601,2025-12-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5049,Deep Cycle Battery 200Ah,Batteries,12,Nos,2025-12-20,Daksh Pandey,Medium,Converted to PO
+PR-30602,2026-06-04,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5021,Adhesive Fevicol SH (5kg),Carpentry,14,Can,2026-06-21,Ekanta Soni,Low,Converted to PO
+PR-30603,2026-07-10,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,17,Nos,2026-08-02,Baljiwan Bhandari,High,Converted to PO
+PR-30604,2026-08-06,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5047,Battery Interconnect Cable Set,Batteries,21,Set,2026-08-14,Aahana Hora,Low,Converted to PO
+PR-30605,2026-04-09,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5037,MC4 Connector Pair,Solar Panels,18,Pair,2026-05-01,Ekanta Soni,Low,Converted to PO
+PR-30606,2026-04-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5011,Cable Gland Brass 25mm,Electrical,15,Nos,2026-05-01,Daksh Pandey,High,Converted to PO
+PR-30607,2026-01-06,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,28,Nos,2026-01-14,Michael Borra,Medium,Converted to PO
+PR-30608,2026-08-03,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,37,Ton,2026-08-12,Dayita Shenoy,High,Converted to PO
+PR-30609,2026-02-25,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,49,Nos,2026-03-17,Baljiwan Bhandari,Medium,Converted to PO
+PR-30610,2025-09-11,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,11,Nos,2025-10-03,Ekantika Mutti,Medium,Converted to PO
+PR-30611,2025-09-15,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,19,Nos,2025-10-02,Baljiwan Bhandari,Medium,Converted to PO
+PR-30612,2026-04-28,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5018,Wood Screws 2 inch (box of 100),Carpentry,21,Box,2026-05-28,Wakeeta Shetty,High,Cancelled
+PR-30613,2025-10-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,10,Pair,2025-10-28,Ekantika Mutti,Medium,Converted to PO
+PR-30614,2025-09-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,2,Ton,2025-09-26,Ria Bir,Medium,Converted to PO
+PR-30615,2025-11-29,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5010,MCCB 200A,Electrical,21,Nos,2025-12-10,Bhavini Bose,High,Pending Approval
+PR-30616,2026-05-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5034,String Inverter 50kW,Solar Panels,21,Nos,2026-06-08,Warinder Chauhan,Medium,Converted to PO
+PR-30617,2025-12-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5035,Module Mounting Structure (per kW),Solar Panels,13,kW Set,2025-12-31,Ekanta Soni,Low,Converted to PO
+PR-30618,2026-03-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5034,String Inverter 50kW,Solar Panels,31,Nos,2026-03-16,Michael Borra,Low,Converted to PO
+PR-30619,2025-10-11,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5010,MCCB 200A,Electrical,13,Nos,2025-10-20,Wakeeta Shetty,Medium,Rejected
+PR-30620,2026-06-03,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5038,Combiner Box 6 in 1 out,Solar Panels,8,Nos,2026-07-03,Dayita Shenoy,Medium,Converted to PO
+PR-30621,2026-01-02,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,8,Nos,2026-01-23,Riya Mitter,Medium,Converted to PO
+PR-30622,2026-07-08,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5034,String Inverter 50kW,Solar Panels,18,Nos,2026-07-23,Ria Bir,Medium,Converted to PO
+PR-30623,2025-10-22,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5039,Earthing Kit for Module Structure,Solar Panels,19,Set,2025-11-02,Ekanta Soni,Medium,Pending Approval
+PR-30624,2025-11-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,20,Coil,2025-11-30,Riya Mitter,Low,Pending Approval
+PR-30625,2026-06-13,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5011,Cable Gland Brass 25mm,Electrical,6,Nos,2026-06-27,Aahana Hora,Medium,Converted to PO
+PR-30626,2026-06-29,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5034,String Inverter 50kW,Solar Panels,8,Nos,2026-07-22,Warinder Chauhan,Medium,Converted to PO
+PR-30627,2026-06-24,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,10,Nos,2026-07-17,Riya Mitter,Medium,Converted to PO
+PR-30628,2026-01-21,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,49,Nos,2026-02-01,Dayita Shenoy,Low,Converted to PO
+PR-30629,2026-01-30,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5039,Earthing Kit for Module Structure,Solar Panels,18,Set,2026-02-09,Ekanta Soni,High,Converted to PO
+PR-30630,2026-04-21,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,17,Coil,2026-05-18,Bhavini Bose,Medium,Converted to PO
+PR-30631,2026-01-23,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,29,Nos,2026-02-03,Aahana Hora,Low,Converted to PO
+PR-30632,2026-05-06,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5017,Door Lock Mortise Set,Carpentry,18,Set,2026-05-29,Michael Borra,Low,Converted to PO
+PR-30633,2026-02-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,64,Ton,2026-02-28,Aahana Hora,High,Converted to PO
+PR-30634,2025-10-02,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5038,Combiner Box 6 in 1 out,Solar Panels,18,Nos,2025-10-26,Ekantika Mutti,Medium,Converted to PO
+PR-30635,2026-06-02,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5014,MDF Board 12mm (8x4 ft),Carpentry,21,Sheet,2026-06-15,Aahana Hora,Low,Converted to PO
+PR-30636,2026-05-24,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,8,Mtr,2026-06-06,Wakeeta Shetty,Low,Converted to PO
+PR-30637,2025-09-18,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,21,Nos,2025-10-03,Ekanta Soni,Medium,Converted to PO
+PR-30638,2026-07-08,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,28,Nos,2026-07-24,Riya Mitter,Medium,Converted to PO
+PR-30639,2026-05-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,45,Roll,2026-06-01,Daksh Pandey,Medium,Converted to PO
+PR-30640,2025-10-13,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5010,MCCB 200A,Electrical,26,Nos,2025-10-23,Wakeeta Shetty,Low,Converted to PO
+PR-30641,2025-09-19,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,30,Nos,2025-10-06,Baljiwan Bhandari,Medium,Converted to PO
+PR-30642,2025-10-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,15,Pcs,2025-11-13,Riya Mitter,High,Converted to PO
+PR-30643,2026-03-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5056,Concealed Cistern with Frame,Plumbing Materials,21,Set,2026-03-31,Riya Mitter,Low,Converted to PO
+PR-30644,2026-01-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,13,Roll,2026-01-29,Ria Bir,Low,Converted to PO
+PR-30645,2026-06-03,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,24,Sheet,2026-06-24,Warinder Chauhan,Medium,Converted to PO
+PR-30646,2026-06-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5058,Submersible Pump 1HP,Plumbing Materials,37,Nos,2026-07-02,Aahana Hora,Medium,Converted to PO
+PR-30647,2025-12-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,44,Nos,2025-12-29,Wakeeta Shetty,Low,Converted to PO
+PR-30648,2025-10-31,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5030,Kerb Stone Precast,Road Construction Materials,11,Nos,2025-11-14,Riya Mitter,Medium,Converted to PO
+PR-30649,2026-01-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5039,Earthing Kit for Module Structure,Solar Panels,6,Set,2026-02-04,Riya Mitter,Medium,Converted to PO
+PR-30650,2025-12-09,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5030,Kerb Stone Precast,Road Construction Materials,22,Nos,2025-12-16,Ria Bir,High,Converted to PO
+PR-30651,2026-07-09,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5049,Deep Cycle Battery 200Ah,Batteries,45,Nos,2026-08-05,Michael Borra,Medium,Converted to PO
+PR-30652,2025-10-20,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5037,MC4 Connector Pair,Solar Panels,21,Pair,2025-11-13,Ekanta Soni,High,Converted to PO
+PR-30653,2026-05-17,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5015,Hinges SS 4 inch,Carpentry,21,Pair,2026-06-06,Yashica Rajagopalan,Low,Converted to PO
+PR-30654,2026-07-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5021,Adhesive Fevicol SH (5kg),Carpentry,27,Can,2026-07-25,Benjamin Sengupta,High,Converted to PO
+PR-30655,2026-01-18,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5015,Hinges SS 4 inch,Carpentry,11,Pair,2026-01-31,Ekantika Mutti,Medium,Converted to PO
+PR-30656,2026-02-25,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5038,Combiner Box 6 in 1 out,Solar Panels,25,Nos,2026-03-24,Benjamin Sengupta,Medium,Converted to PO
+PR-30657,2026-06-28,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,13,Ton,2026-07-15,Riya Mitter,Medium,Converted to PO
+PR-30658,2026-04-13,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,9,Nos,2026-05-09,Baljiwan Bhandari,Medium,Converted to PO
+PR-30659,2026-07-01,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5048,Battery Monitoring System (BMS module),Batteries,10,Nos,2026-07-08,Michael Borra,Low,Converted to PO
+PR-30660,2026-02-25,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,15,Nos,2026-03-18,Daksh Pandey,High,Converted to PO
+PR-30661,2026-02-24,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5002,MCB 32A Single Pole,Electrical,5,Nos,2026-03-06,Bhavini Bose,Medium,Converted to PO
+PR-30662,2026-02-25,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,12,Ton,2026-03-19,Baljiwan Bhandari,High,Converted to PO
+PR-30663,2025-10-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5018,Wood Screws 2 inch (box of 100),Carpentry,22,Box,2025-11-04,Michael Borra,Medium,Converted to PO
+PR-30664,2026-05-23,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5010,MCCB 200A,Electrical,31,Nos,2026-06-02,Aahana Hora,Medium,Converted to PO
+PR-30665,2026-07-22,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,33,Drum,2026-08-01,Benjamin Sengupta,Low,Converted to PO
+PR-30666,2026-03-16,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5058,Submersible Pump 1HP,Plumbing Materials,59,Nos,2026-04-13,Warinder Chauhan,Medium,Converted to PO
+PR-30667,2025-09-13,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,37,Drum,2025-10-07,Ekantika Mutti,Medium,Converted to PO
+PR-30668,2026-01-19,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5038,Combiner Box 6 in 1 out,Solar Panels,31,Nos,2026-02-06,Yashica Rajagopalan,Medium,Cancelled
+PR-30669,2025-09-21,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5049,Deep Cycle Battery 200Ah,Batteries,27,Nos,2025-09-30,Warinder Chauhan,High,Converted to PO
+PR-30670,2026-04-05,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5054,Water Tank 1000L HDPE,Plumbing Materials,14,Nos,2026-04-24,Yashica Rajagopalan,Medium,Converted to PO
+PR-30671,2025-12-20,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,36,Ton,2026-01-09,Yashica Rajagopalan,Medium,Converted to PO
+PR-30672,2026-06-29,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5039,Earthing Kit for Module Structure,Solar Panels,31,Set,2026-07-19,Ria Bir,Medium,Converted to PO
+PR-30673,2026-08-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,27,Sheet,2026-08-30,Bhavini Bose,Medium,Rejected
+PR-30674,2026-05-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5011,Cable Gland Brass 25mm,Electrical,35,Nos,2026-06-17,Benjamin Sengupta,Medium,Converted to PO
+PR-30675,2026-06-03,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5056,Concealed Cistern with Frame,Plumbing Materials,21,Set,2026-06-14,Ekanta Soni,High,Converted to PO
+PR-30676,2026-02-11,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5054,Water Tank 1000L HDPE,Plumbing Materials,3,Nos,2026-03-01,Bhavini Bose,Low,Converted to PO
+PR-30677,2026-05-31,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,10,Bag,2026-06-17,Bhavini Bose,High,Converted to PO
+PR-30678,2026-02-14,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,31,Bag,2026-03-12,Baljiwan Bhandari,Medium,Converted to PO
+PR-30679,2025-11-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5055,Sanitaryware Wash Basin,Plumbing Materials,14,Nos,2025-11-23,Warinder Chauhan,High,Converted to PO
+PR-30680,2025-09-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,6,Pcs,2025-10-15,Ekanta Soni,Medium,Converted to PO
+PR-30681,2025-09-21,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5006,Cable Tray 300mm (2m length),Electrical,19,Nos,2025-10-09,Dayita Shenoy,Medium,Converted to PO
+PR-30682,2026-07-26,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5017,Door Lock Mortise Set,Carpentry,9,Set,2026-08-24,Yashica Rajagopalan,Medium,Converted to PO
+PR-30683,2026-06-16,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5005,Modular Switch 6A,Electrical,19,Nos,2026-07-04,Ekantika Mutti,Low,Converted to PO
+PR-30684,2026-06-26,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5003,Distribution Board 8-Way,Electrical,16,Nos,2026-07-12,Warinder Chauhan,Medium,Converted to PO
+PR-30685,2026-07-29,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,15,Nos,2026-08-10,Daksh Pandey,High,Pending Approval
+PR-30686,2026-02-23,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,26,Coil,2026-03-09,Wakeeta Shetty,High,Converted to PO
+PR-30687,2026-07-18,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5038,Combiner Box 6 in 1 out,Solar Panels,22,Nos,2026-07-28,Dayita Shenoy,High,Rejected
+PR-30688,2025-10-11,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5058,Submersible Pump 1HP,Plumbing Materials,18,Nos,2025-10-19,Dayita Shenoy,High,Converted to PO
+PR-30689,2025-11-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,52,Nos,2025-11-30,Wakeeta Shetty,High,Converted to PO
+PR-30690,2025-12-20,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5009,Contactor 40A 3 Pole,Electrical,20,Nos,2026-01-15,Baljiwan Bhandari,High,Converted to PO
+PR-30691,2026-05-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5008,Earthing Strip GI 25x3mm,Electrical,8,Mtr,2026-05-29,Bhavini Bose,Medium,Converted to PO
+PR-30692,2026-04-10,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,14,Coil,2026-05-08,Ekanta Soni,Medium,Converted to PO
+PR-30693,2026-02-13,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5014,MDF Board 12mm (8x4 ft),Carpentry,42,Sheet,2026-02-25,Riya Mitter,Medium,Converted to PO
+PR-30694,2025-12-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5046,Battery Rack 4-Tier MS,Batteries,33,Nos,2026-01-11,Ekanta Soni,Low,Converted to PO
+PR-30695,2026-04-22,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,35,Ton,2026-05-07,Yashica Rajagopalan,High,Converted to PO
+PR-30696,2025-11-22,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5003,Distribution Board 8-Way,Electrical,29,Nos,2025-12-09,Yashica Rajagopalan,Medium,Converted to PO
+PR-30697,2026-04-30,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,32,Pcs,2026-05-11,Aahana Hora,Medium,Pending Approval
+PR-30698,2025-11-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,18,Ton,2025-12-12,Wakeeta Shetty,Medium,Converted to PO
+PR-30699,2026-04-17,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5055,Sanitaryware Wash Basin,Plumbing Materials,6,Nos,2026-05-17,Michael Borra,Medium,Pending Approval
+PR-30700,2025-12-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5027,Ready Mix Concrete M25,Road Construction Materials,39,Cum,2026-01-08,Ekantika Mutti,Medium,Cancelled
+PR-30701,2025-11-01,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5052,PVC Elbow 4 inch,Plumbing Materials,17,Nos,2025-11-28,Riya Mitter,Low,Converted to PO
+PR-30702,2026-06-17,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5033,Solar Module 550Wp Bifacial,Solar Panels,24,Nos,2026-06-26,Benjamin Sengupta,High,Cancelled
+PR-30703,2026-06-21,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,16,Nos,2026-07-12,Wakeeta Shetty,Medium,Converted to PO
+PR-30704,2026-01-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,8,Ton,2026-01-25,Benjamin Sengupta,Medium,Converted to PO
+PR-30705,2025-10-06,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5047,Battery Interconnect Cable Set,Batteries,29,Set,2025-10-23,Wakeeta Shetty,Medium,Pending Approval
+PR-30706,2026-01-17,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,12,Ton,2026-01-31,Wakeeta Shetty,Medium,Rejected
+PR-30707,2025-11-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5007,Junction Box IP65,Electrical,13,Nos,2025-11-22,Ekanta Soni,Medium,Converted to PO
+PR-30708,2025-11-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,31,Nos,2025-12-06,Daksh Pandey,Medium,Converted to PO
+PR-30709,2025-10-22,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5048,Battery Monitoring System (BMS module),Batteries,27,Nos,2025-11-09,Ekantika Mutti,Low,Converted to PO
+PR-30710,2025-11-05,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,28,Mtr,2025-11-28,Yashica Rajagopalan,Medium,Converted to PO
+PR-30711,2026-03-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,23,Nos,2026-03-16,Warinder Chauhan,Medium,Converted to PO
+PR-30712,2026-05-27,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,18,Roll,2026-06-08,Warinder Chauhan,Medium,Converted to PO
+PR-30713,2025-11-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,33,Drum,2025-11-22,Ria Bir,Low,Converted to PO
+PR-30714,2025-10-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,46,Roll,2025-11-07,Michael Borra,Medium,Converted to PO
+PR-30715,2026-07-21,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5048,Battery Monitoring System (BMS module),Batteries,6,Nos,2026-07-29,Michael Borra,High,Converted to PO
+PR-30716,2026-06-07,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,34,Drum,2026-06-28,Ekantika Mutti,Medium,Converted to PO
+PR-30717,2026-04-07,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5005,Modular Switch 6A,Electrical,33,Nos,2026-05-04,Dayita Shenoy,High,Converted to PO
+PR-30718,2025-11-12,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,46,Nos,2025-12-10,Warinder Chauhan,High,Converted to PO
+PR-30719,2026-07-23,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5002,MCB 32A Single Pole,Electrical,29,Nos,2026-08-19,Wakeeta Shetty,Low,Converted to PO
+PR-30720,2025-10-09,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,36,Pcs,2025-10-24,Bhavini Bose,Medium,Converted to PO
+PR-30721,2026-02-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5035,Module Mounting Structure (per kW),Solar Panels,22,kW Set,2026-03-08,Ekantika Mutti,High,Converted to PO
+PR-30722,2026-08-05,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5035,Module Mounting Structure (per kW),Solar Panels,8,kW Set,2026-08-26,Aahana Hora,Medium,Converted to PO
+PR-30723,2026-05-12,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,31,Nos,2026-06-10,Riya Mitter,High,Rejected
+PR-30724,2026-01-20,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5054,Water Tank 1000L HDPE,Plumbing Materials,21,Nos,2026-02-04,Ria Bir,Medium,Converted to PO
+PR-30725,2026-06-17,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,7,Roll,2026-07-06,Ekanta Soni,Low,Converted to PO
+PR-30726,2026-02-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,28,Nos,2026-03-24,Ekanta Soni,Medium,Converted to PO
+PR-30727,2026-03-03,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,9,Drum,2026-03-31,Wakeeta Shetty,Medium,Converted to PO
+PR-30728,2026-06-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,11,Roll,2026-07-03,Wakeeta Shetty,Medium,Converted to PO
+PR-30729,2026-02-13,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,17,Nos,2026-02-20,Baljiwan Bhandari,Medium,Converted to PO
+PR-30730,2026-05-31,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5005,Modular Switch 6A,Electrical,17,Nos,2026-06-18,Riya Mitter,High,Converted to PO
+PR-30731,2026-01-04,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,7,Bag,2026-01-28,Ekantika Mutti,High,Converted to PO
+PR-30732,2025-12-08,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5041,Solar Cable Gland Set,Solar Panels,14,Set,2025-12-28,Dayita Shenoy,Medium,Converted to PO
+PR-30733,2026-05-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5058,Submersible Pump 1HP,Plumbing Materials,44,Nos,2026-05-26,Benjamin Sengupta,Low,Converted to PO
+PR-30734,2026-02-25,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,29,Nos,2026-03-19,Michael Borra,High,Pending Approval
+PR-30735,2026-01-20,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5011,Cable Gland Brass 25mm,Electrical,37,Nos,2026-02-14,Yashica Rajagopalan,High,Converted to PO
+PR-30736,2026-02-09,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,22,Nos,2026-02-16,Warinder Chauhan,Medium,Cancelled
+PR-30737,2026-07-12,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5033,Solar Module 550Wp Bifacial,Solar Panels,17,Nos,2026-07-21,Yashica Rajagopalan,High,Converted to PO
+PR-30738,2026-03-28,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5038,Combiner Box 6 in 1 out,Solar Panels,10,Nos,2026-04-16,Michael Borra,Low,Converted to PO
+PR-30739,2026-05-27,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,23,Ton,2026-06-11,Baljiwan Bhandari,High,Converted to PO
+PR-30740,2026-07-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,77,Nos,2026-08-18,Dayita Shenoy,High,Converted to PO
+PR-30741,2026-02-07,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,34,Pcs,2026-02-23,Bhavini Bose,High,Converted to PO
+PR-30742,2026-02-21,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5033,Solar Module 550Wp Bifacial,Solar Panels,26,Nos,2026-03-07,Wakeeta Shetty,Low,Converted to PO
+PR-30743,2026-02-12,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5010,MCCB 200A,Electrical,18,Nos,2026-03-07,Yashica Rajagopalan,Medium,Converted to PO
+PR-30744,2026-05-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5008,Earthing Strip GI 25x3mm,Electrical,12,Mtr,2026-06-01,Daksh Pandey,Low,Converted to PO
+PR-30745,2026-02-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,36,Nos,2026-02-22,Dayita Shenoy,High,Converted to PO
+PR-30746,2026-06-20,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5015,Hinges SS 4 inch,Carpentry,41,Pair,2026-07-17,Warinder Chauhan,Low,Converted to PO
+PR-30747,2026-01-11,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5041,Solar Cable Gland Set,Solar Panels,13,Set,2026-01-31,Yashica Rajagopalan,Low,Converted to PO
+PR-30748,2025-09-22,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5038,Combiner Box 6 in 1 out,Solar Panels,14,Nos,2025-10-21,Michael Borra,Medium,Converted to PO
+PR-30749,2026-01-25,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5030,Kerb Stone Precast,Road Construction Materials,36,Nos,2026-02-10,Ekantika Mutti,High,Converted to PO
+PR-30750,2026-01-02,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,18,Sheet,2026-01-22,Daksh Pandey,Medium,Converted to PO
+PR-30751,2026-03-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,47,Sheet,2026-04-08,Ekantika Mutti,Medium,Converted to PO
+PR-30752,2025-10-04,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5010,MCCB 200A,Electrical,31,Nos,2025-10-24,Warinder Chauhan,Medium,Converted to PO
+PR-30753,2026-06-16,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5042,Tubular Battery 150Ah C10,Batteries,22,Nos,2026-07-10,Bhavini Bose,Low,Converted to PO
+PR-30754,2026-04-21,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,31,Ton,2026-05-15,Wakeeta Shetty,High,Pending Approval
+PR-30755,2026-01-10,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5048,Battery Monitoring System (BMS module),Batteries,23,Nos,2026-01-22,Warinder Chauhan,Medium,Converted to PO
+PR-30756,2026-04-26,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,25,Ton,2026-05-14,Bhavini Bose,Medium,Converted to PO
+PR-30757,2026-07-31,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5030,Kerb Stone Precast,Road Construction Materials,56,Nos,2026-08-21,Ekanta Soni,Low,Converted to PO
+PR-30758,2026-01-18,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,18,Ton,2026-02-17,Benjamin Sengupta,High,Converted to PO
+PR-30759,2025-10-04,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,12,Pcs,2025-10-13,Ekanta Soni,Low,Converted to PO
+PR-30760,2026-01-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,35,Ton,2026-02-12,Dayita Shenoy,High,Converted to PO
+PR-30761,2025-11-09,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,40,Mtr,2025-11-28,Daksh Pandey,High,Converted to PO
+PR-30762,2026-02-01,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5009,Contactor 40A 3 Pole,Electrical,34,Nos,2026-03-01,Michael Borra,High,Converted to PO
+PR-30763,2026-05-21,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,20,Nos,2026-06-05,Warinder Chauhan,Medium,Cancelled
+PR-30764,2026-02-04,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5003,Distribution Board 8-Way,Electrical,9,Nos,2026-02-19,Riya Mitter,Medium,Converted to PO
+PR-30765,2026-03-18,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5056,Concealed Cistern with Frame,Plumbing Materials,31,Set,2026-03-26,Ekantika Mutti,Medium,Converted to PO
+PR-30766,2026-02-11,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,29,Pcs,2026-03-06,Warinder Chauhan,Low,Pending Approval
+PR-30767,2026-03-11,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5014,MDF Board 12mm (8x4 ft),Carpentry,30,Sheet,2026-03-20,Benjamin Sengupta,High,Converted to PO
+PR-30768,2025-11-11,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,10,Nos,2025-11-24,Aahana Hora,High,Pending Approval
+PR-30769,2026-04-10,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,4,Pcs,2026-05-08,Warinder Chauhan,Medium,Converted to PO
+PR-30770,2025-12-11,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5002,MCB 32A Single Pole,Electrical,22,Nos,2025-12-26,Dayita Shenoy,Medium,Converted to PO
+PR-30771,2026-01-02,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5027,Ready Mix Concrete M25,Road Construction Materials,17,Cum,2026-01-25,Bhavini Bose,Medium,Converted to PO
+PR-30772,2026-04-19,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5037,MC4 Connector Pair,Solar Panels,32,Pair,2026-05-07,Daksh Pandey,Medium,Converted to PO
+PR-30773,2026-04-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,15,Nos,2026-05-01,Benjamin Sengupta,Medium,Converted to PO
+PR-30774,2026-01-17,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,25,Ton,2026-02-03,Daksh Pandey,Medium,Converted to PO
+PR-30775,2026-05-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5005,Modular Switch 6A,Electrical,31,Nos,2026-05-29,Wakeeta Shetty,Medium,Converted to PO
+PR-30776,2026-04-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5041,Solar Cable Gland Set,Solar Panels,30,Set,2026-05-04,Michael Borra,Medium,Converted to PO
+PR-30777,2026-01-05,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,43,Ton,2026-01-18,Yashica Rajagopalan,High,Rejected
+PR-30778,2026-01-22,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5039,Earthing Kit for Module Structure,Solar Panels,26,Set,2026-02-15,Benjamin Sengupta,Medium,Converted to PO
+PR-30779,2026-07-17,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,25,Ton,2026-08-03,Daksh Pandey,Medium,Converted to PO
+PR-30780,2026-05-06,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,17,Roll,2026-05-30,Ekantika Mutti,Low,Converted to PO
+PR-30781,2026-01-31,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,14,Bag,2026-02-15,Ekantika Mutti,High,Converted to PO
+PR-30782,2026-07-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5025,River Sand (fine aggregate),Road Construction Materials,30,Ton,2026-07-29,Baljiwan Bhandari,High,Converted to PO
+PR-30783,2026-07-27,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,13,Bag,2026-08-12,Benjamin Sengupta,Medium,Converted to PO
+PR-30784,2026-05-11,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,58,Ton,2026-05-30,Dayita Shenoy,Medium,Converted to PO
+PR-30785,2025-12-25,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5011,Cable Gland Brass 25mm,Electrical,34,Nos,2026-01-16,Wakeeta Shetty,Medium,Converted to PO
+PR-30786,2026-06-29,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5003,Distribution Board 8-Way,Electrical,29,Nos,2026-07-07,Baljiwan Bhandari,Medium,Converted to PO
+PR-30787,2025-11-01,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5056,Concealed Cistern with Frame,Plumbing Materials,43,Set,2025-11-28,Warinder Chauhan,Medium,Converted to PO
+PR-30788,2026-07-01,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,21,Nos,2026-07-17,Warinder Chauhan,Medium,Converted to PO
+PR-30789,2026-07-06,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,17,Ton,2026-07-18,Daksh Pandey,Medium,Rejected
+PR-30790,2025-10-10,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,26,Nos,2025-11-05,Warinder Chauhan,Low,Converted to PO
+PR-30791,2025-10-09,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5047,Battery Interconnect Cable Set,Batteries,39,Set,2025-10-24,Warinder Chauhan,Medium,Converted to PO
+PR-30792,2026-04-22,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5003,Distribution Board 8-Way,Electrical,23,Nos,2026-05-17,Ekantika Mutti,Medium,Converted to PO
+PR-30793,2026-01-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,33,Coil,2026-02-22,Benjamin Sengupta,Medium,Converted to PO
+PR-30794,2026-02-12,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,24,Nos,2026-03-14,Riya Mitter,High,Converted to PO
+PR-30795,2026-07-04,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5052,PVC Elbow 4 inch,Plumbing Materials,15,Nos,2026-07-21,Ekanta Soni,Medium,Converted to PO
+PR-30796,2026-02-19,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,12,Nos,2026-03-13,Yashica Rajagopalan,Low,Converted to PO
+PR-30797,2025-09-01,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,5,Nos,2025-09-24,Daksh Pandey,High,Converted to PO
+PR-30798,2025-10-05,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,18,Sheet,2025-10-20,Aahana Hora,Medium,Converted to PO
+PR-30799,2026-05-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,14,Nos,2026-05-31,Ekantika Mutti,Medium,Converted to PO
+PR-30800,2025-10-18,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5030,Kerb Stone Precast,Road Construction Materials,17,Nos,2025-10-27,Ekanta Soni,Medium,Converted to PO
+PR-30801,2025-09-15,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5010,MCCB 200A,Electrical,16,Nos,2025-10-08,Dayita Shenoy,High,Converted to PO
+PR-30802,2025-11-19,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,12,Ton,2025-11-28,Daksh Pandey,High,Converted to PO
+PR-30803,2025-11-07,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5002,MCB 32A Single Pole,Electrical,24,Nos,2025-12-07,Baljiwan Bhandari,Medium,Cancelled
+PR-30804,2025-09-11,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,10,Ton,2025-10-10,Yashica Rajagopalan,Medium,Converted to PO
+PR-30805,2025-11-01,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5052,PVC Elbow 4 inch,Plumbing Materials,12,Nos,2025-11-08,Baljiwan Bhandari,High,Converted to PO
+PR-30806,2026-03-20,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5002,MCB 32A Single Pole,Electrical,14,Nos,2026-03-27,Dayita Shenoy,Medium,Converted to PO
+PR-30807,2025-11-28,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,29,Ton,2025-12-17,Bhavini Bose,Medium,Converted to PO
+PR-30808,2025-12-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5042,Tubular Battery 150Ah C10,Batteries,4,Nos,2026-01-05,Ria Bir,Medium,Converted to PO
+PR-30809,2026-07-05,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5048,Battery Monitoring System (BMS module),Batteries,52,Nos,2026-07-12,Dayita Shenoy,High,Converted to PO
+PR-30810,2026-05-20,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5049,Deep Cycle Battery 200Ah,Batteries,20,Nos,2026-06-11,Ekanta Soni,Low,Converted to PO
+PR-30811,2026-01-26,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,15,Coil,2026-02-21,Ria Bir,Low,Converted to PO
+PR-30812,2026-01-21,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5038,Combiner Box 6 in 1 out,Solar Panels,4,Nos,2026-02-05,Bhavini Bose,Medium,Converted to PO
+PR-30813,2026-07-24,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5046,Battery Rack 4-Tier MS,Batteries,17,Nos,2026-08-07,Benjamin Sengupta,Medium,Converted to PO
+PR-30814,2026-03-21,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5058,Submersible Pump 1HP,Plumbing Materials,7,Nos,2026-03-28,Benjamin Sengupta,Low,Converted to PO
+PR-30815,2025-11-01,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5027,Ready Mix Concrete M25,Road Construction Materials,8,Cum,2025-11-12,Ria Bir,Medium,Converted to PO
+PR-30816,2025-10-28,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,15,Nos,2025-11-14,Yashica Rajagopalan,Medium,Cancelled
+PR-30817,2026-07-14,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5015,Hinges SS 4 inch,Carpentry,26,Pair,2026-08-09,Ekantika Mutti,Low,Converted to PO
+PR-30818,2026-07-12,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5011,Cable Gland Brass 25mm,Electrical,24,Nos,2026-07-27,Aahana Hora,High,Converted to PO
+PR-30819,2026-03-14,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,27,Nos,2026-03-21,Ekantika Mutti,High,Converted to PO
+PR-30820,2025-11-26,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5048,Battery Monitoring System (BMS module),Batteries,31,Nos,2025-12-15,Ria Bir,Medium,Converted to PO
+PR-30821,2026-06-20,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5048,Battery Monitoring System (BMS module),Batteries,25,Nos,2026-07-08,Warinder Chauhan,Medium,Converted to PO
+PR-30822,2026-05-30,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5041,Solar Cable Gland Set,Solar Panels,27,Set,2026-06-12,Riya Mitter,Medium,Converted to PO
+PR-30823,2025-11-25,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,34,Pair,2025-12-18,Ekanta Soni,High,Converted to PO
+PR-30824,2026-06-01,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5014,MDF Board 12mm (8x4 ft),Carpentry,13,Sheet,2026-06-11,Dayita Shenoy,Medium,Converted to PO
+PR-30825,2025-09-25,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,49,Ton,2025-10-17,Michael Borra,High,Converted to PO
+PR-30826,2026-04-24,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5004,LED Flood Light 100W,Electrical,15,Nos,2026-05-17,Bhavini Bose,Medium,Converted to PO
+PR-30827,2026-01-07,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5048,Battery Monitoring System (BMS module),Batteries,40,Nos,2026-01-30,Michael Borra,Medium,Rejected
+PR-30828,2025-12-15,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,16,Mtr,2025-12-24,Ria Bir,Low,Converted to PO
+PR-30829,2026-07-30,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5052,PVC Elbow 4 inch,Plumbing Materials,70,Nos,2026-08-15,Michael Borra,High,Converted to PO
+PR-30830,2026-01-30,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,124,Pcs,2026-02-17,Daksh Pandey,Low,Converted to PO
+PR-30831,2025-11-14,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,41,Coil,2025-12-14,Ekantika Mutti,High,Converted to PO
+PR-30832,2026-05-08,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5039,Earthing Kit for Module Structure,Solar Panels,16,Set,2026-05-28,Warinder Chauhan,Medium,Converted to PO
+PR-30833,2026-07-23,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,24,Ton,2026-08-07,Benjamin Sengupta,Low,Converted to PO
+PR-30834,2026-01-09,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,9,Roll,2026-01-22,Aahana Hora,High,Converted to PO
+PR-30835,2026-06-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5046,Battery Rack 4-Tier MS,Batteries,25,Nos,2026-07-17,Ekanta Soni,Medium,Converted to PO
+PR-30836,2026-02-01,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5030,Kerb Stone Precast,Road Construction Materials,55,Nos,2026-02-23,Riya Mitter,High,Cancelled
+PR-30837,2025-10-25,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,14,Drum,2025-11-05,Ekanta Soni,Medium,Converted to PO
+PR-30838,2026-02-08,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,43,Pcs,2026-02-16,Ekanta Soni,Medium,Converted to PO
+PR-30839,2025-11-24,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5021,Adhesive Fevicol SH (5kg),Carpentry,28,Can,2025-12-11,Ria Bir,Medium,Converted to PO
+PR-30840,2026-03-07,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5004,LED Flood Light 100W,Electrical,36,Nos,2026-04-04,Ekanta Soni,Medium,Converted to PO
+PR-30841,2025-10-26,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,11,Nos,2025-11-10,Baljiwan Bhandari,Low,Converted to PO
+PR-30842,2025-11-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5005,Modular Switch 6A,Electrical,10,Nos,2025-12-22,Daksh Pandey,Medium,Converted to PO
+PR-30843,2025-11-15,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5033,Solar Module 550Wp Bifacial,Solar Panels,16,Nos,2025-11-25,Michael Borra,High,Cancelled
+PR-30844,2026-02-11,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5017,Door Lock Mortise Set,Carpentry,15,Set,2026-03-08,Daksh Pandey,Medium,Converted to PO
+PR-30845,2026-04-05,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5027,Ready Mix Concrete M25,Road Construction Materials,1,Cum,2026-05-03,Benjamin Sengupta,Medium,Converted to PO
+PR-30846,2025-09-05,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,34,Sheet,2025-10-02,Ria Bir,Low,Converted to PO
+PR-30847,2026-07-11,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,53,Nos,2026-07-24,Yashica Rajagopalan,Low,Converted to PO
+PR-30848,2026-06-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,9,Nos,2026-07-04,Ekanta Soni,Medium,Rejected
+PR-30849,2025-12-27,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,35,Sheet,2026-01-24,Ekantika Mutti,Medium,Pending Approval
+PR-30850,2025-12-23,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,12,Nos,2026-01-13,Warinder Chauhan,Medium,Converted to PO
+PR-30851,2025-12-12,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5010,MCCB 200A,Electrical,5,Nos,2025-12-19,Aahana Hora,Medium,Converted to PO
+PR-30852,2026-02-06,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,6,Drum,2026-03-02,Bhavini Bose,High,Converted to PO
+PR-30853,2026-05-05,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,42,Ton,2026-06-02,Benjamin Sengupta,High,Converted to PO
+PR-30854,2025-09-16,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5055,Sanitaryware Wash Basin,Plumbing Materials,33,Nos,2025-10-03,Benjamin Sengupta,Medium,Converted to PO
+PR-30855,2026-06-13,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,11,Sheet,2026-07-04,Bhavini Bose,Medium,Converted to PO
+PR-30856,2026-07-02,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,28,Coil,2026-07-25,Aahana Hora,Medium,Converted to PO
+PR-30857,2025-11-10,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5004,LED Flood Light 100W,Electrical,47,Nos,2025-12-09,Riya Mitter,Low,Converted to PO
+PR-30858,2026-05-27,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5002,MCB 32A Single Pole,Electrical,61,Nos,2026-06-22,Aahana Hora,Medium,Converted to PO
+PR-30859,2026-06-10,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5046,Battery Rack 4-Tier MS,Batteries,26,Nos,2026-07-08,Riya Mitter,Medium,Converted to PO
+PR-30860,2026-01-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,27,Ton,2026-01-26,Dayita Shenoy,Low,Converted to PO
+PR-30861,2025-09-03,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5038,Combiner Box 6 in 1 out,Solar Panels,29,Nos,2025-10-01,Ekantika Mutti,Medium,Converted to PO
+PR-30862,2026-06-24,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5056,Concealed Cistern with Frame,Plumbing Materials,37,Set,2026-07-10,Baljiwan Bhandari,Low,Converted to PO
+PR-30863,2025-11-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5035,Module Mounting Structure (per kW),Solar Panels,8,kW Set,2025-12-06,Wakeeta Shetty,Medium,Converted to PO
+PR-30864,2025-11-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,14,Ton,2025-11-24,Benjamin Sengupta,High,Converted to PO
+PR-30865,2026-05-09,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,15,Nos,2026-05-31,Riya Mitter,High,Rejected
+PR-30866,2025-10-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,29,Ton,2025-10-10,Dayita Shenoy,Medium,Converted to PO
+PR-30867,2026-01-20,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5015,Hinges SS 4 inch,Carpentry,5,Pair,2026-02-11,Ekantika Mutti,High,Rejected
+PR-30868,2025-09-09,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,16,Ton,2025-09-23,Riya Mitter,High,Converted to PO
+PR-30869,2026-01-02,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,15,Coil,2026-01-18,Wakeeta Shetty,Medium,Converted to PO
+PR-30870,2025-10-26,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,17,Ton,2025-11-25,Benjamin Sengupta,Medium,Converted to PO
+PR-30871,2026-04-30,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5047,Battery Interconnect Cable Set,Batteries,17,Set,2026-05-14,Daksh Pandey,High,Converted to PO
+PR-30872,2025-11-01,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5056,Concealed Cistern with Frame,Plumbing Materials,28,Set,2025-11-16,Daksh Pandey,Low,Converted to PO
+PR-30873,2026-01-20,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5011,Cable Gland Brass 25mm,Electrical,4,Nos,2026-02-13,Benjamin Sengupta,Medium,Converted to PO
+PR-30874,2025-09-14,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,6,Nos,2025-10-14,Bhavini Bose,Medium,Converted to PO
+PR-30875,2025-10-31,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,12,Nos,2025-11-30,Wakeeta Shetty,Medium,Pending Approval
+PR-30876,2025-11-18,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5048,Battery Monitoring System (BMS module),Batteries,40,Nos,2025-12-17,Michael Borra,Medium,Converted to PO
+PR-30877,2026-01-15,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5034,String Inverter 50kW,Solar Panels,16,Nos,2026-02-13,Dayita Shenoy,Low,Converted to PO
+PR-30878,2025-12-10,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,23,Nos,2025-12-29,Benjamin Sengupta,Medium,Converted to PO
+PR-30879,2026-05-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5042,Tubular Battery 150Ah C10,Batteries,21,Nos,2026-06-05,Wakeeta Shetty,Medium,Converted to PO
+PR-30880,2025-12-15,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5007,Junction Box IP65,Electrical,44,Nos,2025-12-26,Wakeeta Shetty,Medium,Converted to PO
+PR-30881,2025-09-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,50,Mtr,2025-10-12,Ekanta Soni,Low,Converted to PO
+PR-30882,2025-11-16,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5042,Tubular Battery 150Ah C10,Batteries,17,Nos,2025-12-04,Bhavini Bose,High,Converted to PO
+PR-30883,2026-05-15,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5004,LED Flood Light 100W,Electrical,23,Nos,2026-06-10,Ria Bir,Medium,Converted to PO
+PR-30884,2025-11-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,31,Nos,2025-12-05,Aahana Hora,High,Converted to PO
+PR-30885,2026-03-28,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,23,Nos,2026-04-10,Baljiwan Bhandari,Low,Converted to PO
+PR-30886,2025-09-03,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5058,Submersible Pump 1HP,Plumbing Materials,47,Nos,2025-09-18,Ekantika Mutti,Low,Converted to PO
+PR-30887,2026-03-24,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5011,Cable Gland Brass 25mm,Electrical,29,Nos,2026-04-19,Yashica Rajagopalan,High,Converted to PO
+PR-30888,2026-01-07,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,22,Pair,2026-01-16,Warinder Chauhan,Low,Converted to PO
+PR-30889,2026-04-29,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,8,Coil,2026-05-18,Benjamin Sengupta,Medium,Converted to PO
+PR-30890,2026-02-22,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,42,Bag,2026-03-02,Bhavini Bose,High,Converted to PO
+PR-30891,2025-10-19,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,26,Nos,2025-11-17,Dayita Shenoy,Medium,Converted to PO
+PR-30892,2025-10-13,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,18,Nos,2025-11-08,Daksh Pandey,Medium,Converted to PO
+PR-30893,2026-04-01,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5037,MC4 Connector Pair,Solar Panels,51,Pair,2026-04-11,Ekanta Soni,Medium,Converted to PO
+PR-30894,2026-03-08,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5038,Combiner Box 6 in 1 out,Solar Panels,14,Nos,2026-04-03,Michael Borra,Low,Converted to PO
+PR-30895,2025-12-09,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5038,Combiner Box 6 in 1 out,Solar Panels,43,Nos,2025-12-21,Michael Borra,Low,Converted to PO
+PR-30896,2025-11-06,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5046,Battery Rack 4-Tier MS,Batteries,21,Nos,2025-11-29,Yashica Rajagopalan,High,Converted to PO
+PR-30897,2026-03-04,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5035,Module Mounting Structure (per kW),Solar Panels,47,kW Set,2026-03-23,Baljiwan Bhandari,High,Converted to PO
+PR-30898,2026-04-12,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5034,String Inverter 50kW,Solar Panels,10,Nos,2026-05-07,Bhavini Bose,Low,Converted to PO
+PR-30899,2025-10-30,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5042,Tubular Battery 150Ah C10,Batteries,36,Nos,2025-11-13,Dayita Shenoy,High,Converted to PO
+PR-30900,2025-10-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5042,Tubular Battery 150Ah C10,Batteries,41,Nos,2025-11-20,Yashica Rajagopalan,Medium,Converted to PO
+PR-30901,2026-06-26,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5054,Water Tank 1000L HDPE,Plumbing Materials,13,Nos,2026-07-08,Baljiwan Bhandari,Medium,Converted to PO
+PR-30902,2025-12-04,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,12,Pcs,2025-12-18,Michael Borra,Medium,Converted to PO
+PR-30903,2025-12-20,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5034,String Inverter 50kW,Solar Panels,10,Nos,2026-01-05,Yashica Rajagopalan,High,Converted to PO
+PR-30904,2025-11-12,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,9,Pcs,2025-12-11,Riya Mitter,Medium,Converted to PO
+PR-30905,2025-12-20,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,15,Ton,2025-12-27,Benjamin Sengupta,Medium,Converted to PO
+PR-30906,2026-05-19,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,11,Pair,2026-06-03,Warinder Chauhan,Low,Converted to PO
+PR-30907,2025-10-12,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5033,Solar Module 550Wp Bifacial,Solar Panels,11,Nos,2025-11-09,Baljiwan Bhandari,Medium,Converted to PO
+PR-30908,2026-06-26,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,17,Nos,2026-07-17,Bhavini Bose,High,Converted to PO
+PR-30909,2026-03-16,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,36,Nos,2026-03-24,Baljiwan Bhandari,Medium,Cancelled
+PR-30910,2025-09-12,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5004,LED Flood Light 100W,Electrical,28,Nos,2025-10-01,Bhavini Bose,Medium,Rejected
+PR-30911,2025-12-13,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,9,Nos,2026-01-03,Michael Borra,Low,Converted to PO
+PR-30912,2026-03-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,9,Nos,2026-03-24,Riya Mitter,High,Converted to PO
+PR-30913,2025-11-26,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,16,Sheet,2025-12-21,Michael Borra,Low,Converted to PO
+PR-30914,2026-05-14,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,53,Nos,2026-06-11,Michael Borra,High,Converted to PO
+PR-30915,2025-12-29,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,16,Nos,2026-01-18,Wakeeta Shetty,Low,Pending Approval
+PR-30916,2026-05-22,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,27,Sheet,2026-06-03,Ria Bir,Medium,Converted to PO
+PR-30917,2025-12-30,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5007,Junction Box IP65,Electrical,11,Nos,2026-01-18,Benjamin Sengupta,High,Converted to PO
+PR-30918,2025-10-24,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5049,Deep Cycle Battery 200Ah,Batteries,16,Nos,2025-11-21,Baljiwan Bhandari,High,Converted to PO
+PR-30919,2025-12-30,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,27,Coil,2026-01-19,Dayita Shenoy,Medium,Converted to PO
+PR-30920,2026-07-08,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,50,Coil,2026-07-25,Baljiwan Bhandari,Medium,Converted to PO
+PR-30921,2026-03-25,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,15,Roll,2026-04-15,Wakeeta Shetty,Medium,Converted to PO
+PR-30922,2025-11-16,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5030,Kerb Stone Precast,Road Construction Materials,30,Nos,2025-12-12,Riya Mitter,Medium,Converted to PO
+PR-30923,2026-03-08,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5035,Module Mounting Structure (per kW),Solar Panels,10,kW Set,2026-03-16,Warinder Chauhan,Medium,Converted to PO
+PR-30924,2026-01-16,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5027,Ready Mix Concrete M25,Road Construction Materials,18,Cum,2026-01-31,Dayita Shenoy,Medium,Converted to PO
+PR-30925,2026-06-07,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,57,Nos,2026-07-02,Ria Bir,Medium,Rejected
+PR-30926,2026-02-15,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5010,MCCB 200A,Electrical,14,Nos,2026-02-27,Ria Bir,Medium,Converted to PO
+PR-30927,2025-12-23,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,11,Nos,2026-01-09,Benjamin Sengupta,Medium,Converted to PO
+PR-30928,2026-01-26,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5039,Earthing Kit for Module Structure,Solar Panels,12,Set,2026-02-10,Wakeeta Shetty,Medium,Converted to PO
+PR-30929,2026-02-15,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5027,Ready Mix Concrete M25,Road Construction Materials,33,Cum,2026-02-28,Yashica Rajagopalan,High,Converted to PO
+PR-30930,2026-07-27,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5052,PVC Elbow 4 inch,Plumbing Materials,37,Nos,2026-08-06,Benjamin Sengupta,Medium,Converted to PO
+PR-30931,2025-11-06,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5005,Modular Switch 6A,Electrical,30,Nos,2025-11-20,Dayita Shenoy,Medium,Converted to PO
+PR-30932,2026-06-05,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5054,Water Tank 1000L HDPE,Plumbing Materials,9,Nos,2026-07-02,Baljiwan Bhandari,Medium,Converted to PO
+PR-30933,2025-09-14,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5027,Ready Mix Concrete M25,Road Construction Materials,21,Cum,2025-09-25,Warinder Chauhan,Low,Rejected
+PR-30934,2026-03-10,DEP-01,Electrical Execution,PRJ-101,Solar Rooftop Phase 2 - Nashik,I-5004,LED Flood Light 100W,Electrical,40,Nos,2026-04-06,Bhavini Bose,Low,Converted to PO
+PR-30935,2026-01-24,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,16,Nos,2026-02-09,Dayita Shenoy,Medium,Converted to PO
+PR-30936,2026-03-07,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,48,Nos,2026-03-30,Yashica Rajagopalan,High,Cancelled
+PR-30937,2026-05-28,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,13,Sheet,2026-06-10,Michael Borra,Medium,Converted to PO
+PR-30938,2026-05-25,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,21,Coil,2026-06-08,Daksh Pandey,High,Converted to PO
+PR-30939,2026-06-15,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5027,Ready Mix Concrete M25,Road Construction Materials,29,Cum,2026-07-12,Michael Borra,Medium,Converted to PO
+PR-30940,2026-07-28,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5033,Solar Module 550Wp Bifacial,Solar Panels,45,Nos,2026-08-19,Daksh Pandey,Medium,Converted to PO
+PR-30941,2026-06-23,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5014,MDF Board 12mm (8x4 ft),Carpentry,6,Sheet,2026-07-18,Wakeeta Shetty,Medium,Pending Approval
+PR-30942,2026-02-15,DEP-02,Civil & Infrastructure,PRJ-102,Road & Site Development - Aurangabad,I-5056,Concealed Cistern with Frame,Plumbing Materials,17,Set,2026-03-15,Aahana Hora,Medium,Converted to PO
+PR-30943,2026-04-02,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5054,Water Tank 1000L HDPE,Plumbing Materials,14,Nos,2026-04-12,Bhavini Bose,Medium,Converted to PO
+PR-30944,2026-07-07,DEP-06,Carpentry & Interiors,PRJ-106,Corporate Office Interiors - Mumbai,I-5007,Junction Box IP65,Electrical,11,Nos,2026-08-01,Michael Borra,Medium,Converted to PO
+PR-30945,2026-05-24,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5008,Earthing Strip GI 25x3mm,Electrical,11,Mtr,2026-06-07,Warinder Chauhan,Low,Converted to PO
+PR-30946,2026-05-22,DEP-03,Solar EPC,PRJ-103,Ground Mount Solar Plant - Ahmednagar,I-5037,MC4 Connector Pair,Solar Panels,38,Pair,2026-06-09,Bhavini Bose,Medium,Converted to PO
+PR-30947,2025-12-17,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5002,MCB 32A Single Pole,Electrical,32,Nos,2026-01-16,Ekanta Soni,High,Converted to PO
+PR-30948,2026-06-23,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5042,Tubular Battery 150Ah C10,Batteries,10,Nos,2026-07-13,Aahana Hora,High,Cancelled
+PR-30949,2025-10-29,DEP-05,Maintenance & Facilities,PRJ-105,O&M Contracts - Multiple Sites,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,17,Roll,2025-11-09,Bhavini Bose,High,Converted to PO
+PR-30950,2025-09-22,DEP-04,MEP (Mechanical Electrical Plumbing),PRJ-104,Commercial Complex Fit-out - Pune,I-5002,MCB 32A Single Pole,Electrical,10,Nos,2025-10-02,Warinder Chauhan,Medium,Converted to PO

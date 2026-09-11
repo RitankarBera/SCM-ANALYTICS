@@ -1,0 +1,132 @@
+WarehouseCode,WarehouseName,ItemCode,ItemDescription,Vertical,UOM,StockQty,ReorderLevel,LastReceivedDate,LastIssuedDate,AgingDays,UnitValue,StockValueINR,StockStatus
+WH-01,Central Warehouse - Pune,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,Mtr,47,10,2026-08-05,2026-08-16,26,420,19740,Adequate
+WH-02,Site Store - Nashik Project,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,Mtr,84,38,2026-08-07,2026-08-26,24,420,35280,Adequate
+WH-01,Central Warehouse - Pune,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,Coil,72,34,2026-01-23,2026-02-03,220,1650,118800,Adequate
+WH-02,Site Store - Nashik Project,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,Coil,22,19,2025-09-12,2025-10-17,353,1650,36300,Adequate
+WH-03,Site Store - Aurangabad Project,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,Coil,39,30,2026-05-27,2026-06-04,96,1650,64350,Adequate
+WH-03,Site Store - Aurangabad Project,I-5002,MCB 32A Single Pole,Electrical,Nos,26,20,2025-11-08,2025-11-17,296,145,3770,Adequate
+WH-01,Central Warehouse - Pune,I-5003,Distribution Board 8-Way,Electrical,Nos,11,22,2025-11-05,2025-11-06,299,1250,13750,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5003,Distribution Board 8-Way,Electrical,Nos,53,32,2026-03-07,2026-03-29,177,1250,66250,Adequate
+WH-01,Central Warehouse - Pune,I-5004,LED Flood Light 100W,Electrical,Nos,33,36,2025-10-04,2025-11-14,331,1850,61050,Below Reorder
+WH-02,Site Store - Nashik Project,I-5004,LED Flood Light 100W,Electrical,Nos,10,39,2025-12-19,2026-02-02,255,1850,18500,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5004,LED Flood Light 100W,Electrical,Nos,16,29,2026-02-24,2026-03-04,188,1850,29600,Below Reorder
+WH-02,Site Store - Nashik Project,I-5005,Modular Switch 6A,Electrical,Nos,19,36,2025-09-09,2025-09-15,356,65,1235,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5005,Modular Switch 6A,Electrical,Nos,49,24,2025-10-31,2025-11-09,304,65,3185,Adequate
+WH-01,Central Warehouse - Pune,I-5006,Cable Tray 300mm (2m length),Electrical,Nos,8,23,2026-03-03,2026-04-07,181,980,7840,Below Reorder
+WH-02,Site Store - Nashik Project,I-5006,Cable Tray 300mm (2m length),Electrical,Nos,8,21,2026-03-18,2026-04-06,166,980,7840,Below Reorder
+WH-01,Central Warehouse - Pune,I-5007,Junction Box IP65,Electrical,Nos,26,37,2025-09-14,2025-09-30,351,210,5460,Below Reorder
+WH-02,Site Store - Nashik Project,I-5008,Earthing Strip GI 25x3mm,Electrical,Mtr,9,25,2025-09-28,2025-10-25,337,95,855,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5008,Earthing Strip GI 25x3mm,Electrical,Mtr,19,29,2025-11-22,2025-12-22,282,95,1805,Below Reorder
+WH-01,Central Warehouse - Pune,I-5009,Contactor 40A 3 Pole,Electrical,Nos,15,25,2026-01-21,2026-01-24,222,1450,21750,Below Reorder
+WH-02,Site Store - Nashik Project,I-5009,Contactor 40A 3 Pole,Electrical,Nos,2,29,2025-10-02,2025-10-30,333,1450,2900,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5009,Contactor 40A 3 Pole,Electrical,Nos,12,40,2025-10-14,2025-11-10,321,1450,17400,Below Reorder
+WH-01,Central Warehouse - Pune,I-5010,MCCB 200A,Electrical,Nos,19,28,2025-09-12,2025-10-08,353,8200,155800,Below Reorder
+WH-02,Site Store - Nashik Project,I-5010,MCCB 200A,Electrical,Nos,42,14,2026-01-23,2026-02-25,220,8200,344400,Adequate
+WH-03,Site Store - Aurangabad Project,I-5010,MCCB 200A,Electrical,Nos,73,38,2025-10-25,2025-11-15,310,8200,598600,Adequate
+WH-01,Central Warehouse - Pune,I-5011,Cable Gland Brass 25mm,Electrical,Nos,11,40,2025-11-21,2026-01-03,283,55,605,Below Reorder
+WH-02,Site Store - Nashik Project,I-5011,Cable Gland Brass 25mm,Electrical,Nos,25,10,2025-12-23,2026-02-05,251,55,1375,Adequate
+WH-03,Site Store - Aurangabad Project,I-5011,Cable Gland Brass 25mm,Electrical,Nos,31,19,2025-09-17,2025-10-02,348,55,1705,Adequate
+WH-01,Central Warehouse - Pune,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,Sheet,91,10,2026-07-13,2026-08-05,49,3450,313950,Adequate
+WH-03,Site Store - Aurangabad Project,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,Sheet,14,25,2026-06-16,2026-07-26,76,3450,48300,Below Reorder
+WH-01,Central Warehouse - Pune,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,Sheet,11,23,2026-02-05,2026-03-16,207,1250,13750,Below Reorder
+WH-02,Site Store - Nashik Project,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,Sheet,16,24,2026-06-30,2026-08-12,62,1250,20000,Below Reorder
+WH-01,Central Warehouse - Pune,I-5014,MDF Board 12mm (8x4 ft),Carpentry,Sheet,11,19,2026-04-06,2026-04-17,147,1650,18150,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5014,MDF Board 12mm (8x4 ft),Carpentry,Sheet,35,36,2025-10-25,2025-11-02,310,1650,57750,Below Reorder
+WH-02,Site Store - Nashik Project,I-5015,Hinges SS 4 inch,Carpentry,Pair,43,23,2025-09-02,2025-09-09,363,85,3655,Adequate
+WH-03,Site Store - Aurangabad Project,I-5015,Hinges SS 4 inch,Carpentry,Pair,26,11,2025-10-31,2025-12-02,304,85,2210,Adequate
+WH-01,Central Warehouse - Pune,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,Pair,25,16,2025-09-14,2025-10-10,351,420,10500,Adequate
+WH-02,Site Store - Nashik Project,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,Pair,53,13,2026-04-19,2026-05-14,134,420,22260,Adequate
+WH-03,Site Store - Aurangabad Project,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,Pair,19,40,2025-10-17,2025-11-17,318,420,7980,Below Reorder
+WH-01,Central Warehouse - Pune,I-5017,Door Lock Mortise Set,Carpentry,Set,38,26,2025-09-22,2025-10-26,343,950,36100,Adequate
+WH-02,Site Store - Nashik Project,I-5017,Door Lock Mortise Set,Carpentry,Set,18,13,2026-08-10,2026-08-31,21,950,17100,Adequate
+WH-03,Site Store - Aurangabad Project,I-5017,Door Lock Mortise Set,Carpentry,Set,8,14,2026-07-01,2026-07-02,61,950,7600,Below Reorder
+WH-02,Site Store - Nashik Project,I-5018,Wood Screws 2 inch (box of 100),Carpentry,Box,48,20,2026-08-27,2026-08-30,4,180,8640,Adequate
+WH-03,Site Store - Aurangabad Project,I-5018,Wood Screws 2 inch (box of 100),Carpentry,Box,28,16,2026-05-19,2026-05-21,104,180,5040,Adequate
+WH-01,Central Warehouse - Pune,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,Sheet,45,13,2026-01-05,2026-01-08,238,4200,189000,Adequate
+WH-02,Site Store - Nashik Project,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,Sheet,30,17,2026-02-18,2026-02-23,194,4200,126000,Adequate
+WH-02,Site Store - Nashik Project,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,Roll,32,26,2026-01-20,2026-02-20,223,650,20800,Adequate
+WH-03,Site Store - Aurangabad Project,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,Roll,11,35,2026-03-25,2026-04-05,159,650,7150,Below Reorder
+WH-01,Central Warehouse - Pune,I-5021,Adhesive Fevicol SH (5kg),Carpentry,Can,32,16,2025-09-13,2025-09-14,352,1150,36800,Adequate
+WH-02,Site Store - Nashik Project,I-5021,Adhesive Fevicol SH (5kg),Carpentry,Can,53,15,2026-02-26,2026-04-01,186,1150,60950,Adequate
+WH-01,Central Warehouse - Pune,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,Bag,21,24,2026-04-07,2026-05-22,146,385,8085,Below Reorder
+WH-02,Site Store - Nashik Project,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,Bag,14,18,2026-05-13,2026-05-14,110,385,5390,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,Bag,39,27,2025-09-03,2025-09-24,362,385,15015,Adequate
+WH-01,Central Warehouse - Pune,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,Ton,7,31,2025-12-12,2026-01-19,262,62000,434000,Below Reorder
+WH-02,Site Store - Nashik Project,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,Ton,57,36,2026-04-14,2026-04-30,139,62000,3534000,Adequate
+WH-02,Site Store - Nashik Project,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,Ton,18,14,2025-10-11,2025-11-02,324,850,15300,Adequate
+WH-03,Site Store - Aurangabad Project,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,Ton,38,26,2026-01-02,2026-01-10,241,850,32300,Adequate
+WH-01,Central Warehouse - Pune,I-5025,River Sand (fine aggregate),Road Construction Materials,Ton,28,25,2025-09-10,2025-09-12,355,1450,40600,Adequate
+WH-02,Site Store - Nashik Project,I-5025,River Sand (fine aggregate),Road Construction Materials,Ton,48,18,2026-03-26,2026-04-21,158,1450,69600,Adequate
+WH-03,Site Store - Aurangabad Project,I-5025,River Sand (fine aggregate),Road Construction Materials,Ton,50,19,2026-02-17,2026-03-29,195,1450,72500,Adequate
+WH-01,Central Warehouse - Pune,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,Drum,26,34,2025-10-05,2025-10-12,330,9800,254800,Below Reorder
+WH-02,Site Store - Nashik Project,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,Drum,5,28,2026-05-07,2026-06-18,116,9800,49000,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,Drum,64,39,2026-01-08,2026-01-10,235,9800,627200,Adequate
+WH-01,Central Warehouse - Pune,I-5027,Ready Mix Concrete M25,Road Construction Materials,Cum,6,30,2026-01-13,2026-02-19,230,6200,37200,Below Reorder
+WH-02,Site Store - Nashik Project,I-5027,Ready Mix Concrete M25,Road Construction Materials,Cum,31,34,2026-06-10,2026-06-14,82,6200,192200,Below Reorder
+WH-01,Central Warehouse - Pune,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,Ton,54,32,2026-08-29,2026-08-31,2,64500,3483000,Adequate
+WH-02,Site Store - Nashik Project,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,Ton,32,28,2025-09-02,2025-09-22,363,64500,2064000,Adequate
+WH-03,Site Store - Aurangabad Project,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,Ton,14,32,2025-10-04,2025-10-24,331,64500,903000,Below Reorder
+WH-02,Site Store - Nashik Project,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,Ton,26,29,2026-07-09,2026-08-10,53,58500,1521000,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,Ton,14,28,2026-01-31,2026-03-13,212,58500,819000,Below Reorder
+WH-01,Central Warehouse - Pune,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,Roll,14,29,2026-05-29,2026-06-29,94,4800,67200,Below Reorder
+WH-02,Site Store - Nashik Project,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,Roll,27,30,2025-10-04,2025-10-16,331,4800,129600,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,Roll,1,24,2026-08-17,2026-08-24,14,4800,4800,Below Reorder
+WH-02,Site Store - Nashik Project,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,Nos,19,27,2026-01-28,2026-02-03,215,12800,243200,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,Nos,25,22,2025-10-21,2025-10-30,314,12800,320000,Adequate
+WH-01,Central Warehouse - Pune,I-5033,Solar Module 550Wp Bifacial,Solar Panels,Nos,24,19,2025-09-26,2025-10-27,339,14200,340800,Adequate
+WH-02,Site Store - Nashik Project,I-5033,Solar Module 550Wp Bifacial,Solar Panels,Nos,12,18,2026-01-06,2026-01-20,237,14200,170400,Below Reorder
+WH-02,Site Store - Nashik Project,I-5034,String Inverter 50kW,Solar Panels,Nos,32,16,2026-08-19,2026-08-31,12,385000,12320000,Adequate
+WH-03,Site Store - Aurangabad Project,I-5034,String Inverter 50kW,Solar Panels,Nos,23,29,2026-01-27,2026-03-05,216,385000,8855000,Below Reorder
+WH-01,Central Warehouse - Pune,I-5035,Module Mounting Structure (per kW),Solar Panels,kW Set,77,13,2026-07-10,2026-08-07,52,4800,369600,Adequate
+WH-03,Site Store - Aurangabad Project,I-5035,Module Mounting Structure (per kW),Solar Panels,kW Set,33,36,2026-01-14,2026-01-24,229,4800,158400,Below Reorder
+WH-01,Central Warehouse - Pune,I-5037,MC4 Connector Pair,Solar Panels,Pair,15,16,2026-04-28,2026-05-01,125,95,1425,Below Reorder
+WH-02,Site Store - Nashik Project,I-5037,MC4 Connector Pair,Solar Panels,Pair,38,36,2026-06-04,2026-06-14,88,95,3610,Adequate
+WH-03,Site Store - Aurangabad Project,I-5037,MC4 Connector Pair,Solar Panels,Pair,4,23,2025-09-29,2025-10-09,336,95,380,Below Reorder
+WH-01,Central Warehouse - Pune,I-5038,Combiner Box 6 in 1 out,Solar Panels,Nos,24,31,2025-09-15,2025-10-25,350,6500,156000,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5038,Combiner Box 6 in 1 out,Solar Panels,Nos,28,13,2026-06-07,2026-06-12,85,6500,182000,Adequate
+WH-01,Central Warehouse - Pune,I-5039,Earthing Kit for Module Structure,Solar Panels,Set,24,31,2026-08-26,2026-08-31,5,850,20400,Below Reorder
+WH-02,Site Store - Nashik Project,I-5039,Earthing Kit for Module Structure,Solar Panels,Set,11,29,2026-05-17,2026-06-23,106,850,9350,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5039,Earthing Kit for Module Structure,Solar Panels,Set,24,14,2025-10-28,2025-11-02,307,850,20400,Adequate
+WH-03,Site Store - Aurangabad Project,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,Nos,8,27,2026-05-16,2026-06-25,107,3100,24800,Below Reorder
+WH-01,Central Warehouse - Pune,I-5041,Solar Cable Gland Set,Solar Panels,Set,65,19,2026-08-05,2026-08-31,26,145,9425,Adequate
+WH-02,Site Store - Nashik Project,I-5041,Solar Cable Gland Set,Solar Panels,Set,24,36,2025-10-07,2025-11-10,328,145,3480,Below Reorder
+WH-02,Site Store - Nashik Project,I-5042,Tubular Battery 150Ah C10,Batteries,Nos,31,14,2025-11-22,2025-11-29,282,14500,449500,Adequate
+WH-03,Site Store - Aurangabad Project,I-5042,Tubular Battery 150Ah C10,Batteries,Nos,6,38,2026-03-02,2026-04-04,182,14500,87000,Below Reorder
+WH-01,Central Warehouse - Pune,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,Nos,14,39,2025-12-29,2026-02-03,245,118000,1652000,Below Reorder
+WH-01,Central Warehouse - Pune,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,Nos,34,39,2025-09-06,2025-10-10,359,16500,561000,Below Reorder
+WH-02,Site Store - Nashik Project,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,Nos,44,35,2025-09-14,2025-09-30,351,16500,726000,Adequate
+WH-03,Site Store - Aurangabad Project,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,Nos,10,23,2026-05-01,2026-05-21,122,16500,165000,Below Reorder
+WH-01,Central Warehouse - Pune,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,Nos,31,12,2025-12-02,2025-12-14,272,9800,303800,Adequate
+WH-02,Site Store - Nashik Project,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,Nos,17,12,2026-02-01,2026-03-11,211,9800,166600,Adequate
+WH-03,Site Store - Aurangabad Project,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,Nos,4,34,2026-07-29,2026-08-31,33,9800,39200,Below Reorder
+WH-01,Central Warehouse - Pune,I-5046,Battery Rack 4-Tier MS,Batteries,Nos,13,15,2026-05-20,2026-06-20,103,3400,44200,Below Reorder
+WH-02,Site Store - Nashik Project,I-5046,Battery Rack 4-Tier MS,Batteries,Nos,45,28,2026-01-17,2026-01-27,226,3400,153000,Adequate
+WH-03,Site Store - Aurangabad Project,I-5046,Battery Rack 4-Tier MS,Batteries,Nos,48,23,2026-06-14,2026-07-16,78,3400,163200,Adequate
+WH-01,Central Warehouse - Pune,I-5047,Battery Interconnect Cable Set,Batteries,Set,27,33,2026-03-20,2026-04-26,164,650,17550,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5047,Battery Interconnect Cable Set,Batteries,Set,25,37,2026-05-03,2026-06-14,120,650,16250,Below Reorder
+WH-01,Central Warehouse - Pune,I-5048,Battery Monitoring System (BMS module),Batteries,Nos,16,18,2025-09-23,2025-10-30,342,4200,67200,Below Reorder
+WH-02,Site Store - Nashik Project,I-5048,Battery Monitoring System (BMS module),Batteries,Nos,2,32,2025-10-31,2025-11-16,304,4200,8400,Below Reorder
+WH-01,Central Warehouse - Pune,I-5049,Deep Cycle Battery 200Ah,Batteries,Nos,29,28,2026-04-05,2026-04-12,148,21500,623500,Adequate
+WH-02,Site Store - Nashik Project,I-5049,Deep Cycle Battery 200Ah,Batteries,Nos,11,11,2026-05-12,2026-06-16,111,21500,236500,Adequate
+WH-03,Site Store - Aurangabad Project,I-5049,Deep Cycle Battery 200Ah,Batteries,Nos,53,15,2026-05-08,2026-05-26,115,21500,1139500,Adequate
+WH-01,Central Warehouse - Pune,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,Pcs,8,35,2026-08-20,2026-08-31,11,1150,9200,Below Reorder
+WH-02,Site Store - Nashik Project,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,Pcs,46,20,2026-03-13,2026-04-04,171,1150,52900,Adequate
+WH-03,Site Store - Aurangabad Project,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,Pcs,4,39,2026-04-24,2026-05-31,129,1150,4600,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,Pcs,96,22,2025-12-03,2025-12-21,271,380,36480,Adequate
+WH-01,Central Warehouse - Pune,I-5052,PVC Elbow 4 inch,Plumbing Materials,Nos,6,38,2026-07-07,2026-08-02,55,95,570,Below Reorder
+WH-02,Site Store - Nashik Project,I-5052,PVC Elbow 4 inch,Plumbing Materials,Nos,48,19,2026-07-10,2026-08-03,52,95,4560,Adequate
+WH-03,Site Store - Aurangabad Project,I-5052,PVC Elbow 4 inch,Plumbing Materials,Nos,13,17,2026-01-14,2026-02-22,229,95,1235,Below Reorder
+WH-01,Central Warehouse - Pune,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,Nos,34,18,2026-04-20,2026-05-22,133,320,10880,Adequate
+WH-02,Site Store - Nashik Project,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,Nos,66,12,2026-04-16,2026-04-16,137,320,21120,Adequate
+WH-03,Site Store - Aurangabad Project,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,Nos,18,20,2025-10-23,2025-11-16,312,320,5760,Below Reorder
+WH-01,Central Warehouse - Pune,I-5054,Water Tank 1000L HDPE,Plumbing Materials,Nos,91,39,2026-03-02,2026-04-08,182,6800,618800,Adequate
+WH-01,Central Warehouse - Pune,I-5055,Sanitaryware Wash Basin,Plumbing Materials,Nos,67,27,2026-06-07,2026-06-15,85,2450,164150,Adequate
+WH-02,Site Store - Nashik Project,I-5055,Sanitaryware Wash Basin,Plumbing Materials,Nos,5,40,2026-06-21,2026-07-05,71,2450,12250,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5055,Sanitaryware Wash Basin,Plumbing Materials,Nos,22,22,2026-05-31,2026-07-14,92,2450,53900,Adequate
+WH-01,Central Warehouse - Pune,I-5056,Concealed Cistern with Frame,Plumbing Materials,Set,18,29,2025-09-22,2025-10-19,343,8500,153000,Below Reorder
+WH-02,Site Store - Nashik Project,I-5056,Concealed Cistern with Frame,Plumbing Materials,Set,23,18,2026-03-22,2026-04-21,162,8500,195500,Adequate
+WH-03,Site Store - Aurangabad Project,I-5056,Concealed Cistern with Frame,Plumbing Materials,Set,16,34,2026-05-28,2026-06-25,95,8500,136000,Below Reorder
+WH-01,Central Warehouse - Pune,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,Nos,10,12,2026-04-06,2026-04-07,147,1850,18500,Below Reorder
+WH-02,Site Store - Nashik Project,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,Nos,21,12,2025-10-16,2025-11-04,319,1850,38850,Adequate
+WH-03,Site Store - Aurangabad Project,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,Nos,33,36,2025-10-28,2025-12-04,307,1850,61050,Below Reorder
+WH-03,Site Store - Aurangabad Project,I-5058,Submersible Pump 1HP,Plumbing Materials,Nos,1,31,2026-07-05,2026-08-14,57,9200,9200,Below Reorder

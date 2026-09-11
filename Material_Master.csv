@@ -1,0 +1,61 @@
+ItemCode,ItemDescription,Vertical,UOM,StandardPrice,HSNCode,PreferredBrand,ItemGroup
+I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,Mtr,420,5891,Schneider Electric India,Electrical
+I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,Coil,1650,7235,Anchor by Panasonic,Electrical
+I-5002,MCB 32A Single Pole,Electrical,Nos,145,4673,Polycab India,Electrical
+I-5003,Distribution Board 8-Way,Electrical,Nos,1250,7432,Crompton Greaves Consumer,Electrical
+I-5004,LED Flood Light 100W,Electrical,Nos,1850,7370,Legrand India,Electrical
+I-5005,Modular Switch 6A,Electrical,Nos,65,7726,Havells India,Electrical
+I-5006,Cable Tray 300mm (2m length),Electrical,Nos,980,4707,Havells India,Electrical
+I-5007,Junction Box IP65,Electrical,Nos,210,7199,Crompton Greaves Consumer,Electrical
+I-5008,Earthing Strip GI 25x3mm,Electrical,Mtr,95,4796,Anchor by Panasonic,Electrical
+I-5009,Contactor 40A 3 Pole,Electrical,Nos,1450,5470,Anchor by Panasonic,Electrical
+I-5010,MCCB 200A,Electrical,Nos,8200,8294,Schneider Electric India,Electrical
+I-5011,Cable Gland Brass 25mm,Electrical,Nos,55,5049,Legrand India,Electrical
+I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,Sheet,3450,5404,Duro Ply India,Carpentry
+I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,Sheet,1250,7690,Archidply Industries,Carpentry
+I-5014,MDF Board 12mm (8x4 ft),Carpentry,Sheet,1650,4518,Hettich India,Carpentry
+I-5015,Hinges SS 4 inch,Carpentry,Pair,85,8409,Greenply Industries,Carpentry
+I-5016,Drawer Channel 18 inch Telescopic,Carpentry,Pair,420,4315,Ebco Private Ltd,Carpentry
+I-5017,Door Lock Mortise Set,Carpentry,Set,950,4021,Greenply Industries,Carpentry
+I-5018,Wood Screws 2 inch (box of 100),Carpentry,Box,180,5837,Kitply Industries,Carpentry
+I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,Sheet,4200,7230,Hettich India,Carpentry
+I-5020,PVC Edge Banding Tape (100m roll),Carpentry,Roll,650,7844,Archidply Industries,Carpentry
+I-5021,Adhesive Fevicol SH (5kg),Carpentry,Can,1150,7186,Century Plyboards,Carpentry
+I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,Bag,385,5249,Tata Steel,Road Construction Materials
+I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,Ton,62000,3918,Tata Steel,Road Construction Materials
+I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,Ton,850,6073,JSW Steel,Road Construction Materials
+I-5025,River Sand (fine aggregate),Road Construction Materials,Ton,1450,6237,Tata Steel,Road Construction Materials
+I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,Drum,9800,8453,JSW Steel,Road Construction Materials
+I-5027,Ready Mix Concrete M25,Road Construction Materials,Cum,6200,5169,Shree Cement,Road Construction Materials
+I-5028,PQC Dowel Bar 32mm,Road Construction Materials,Ton,64500,6331,Shree Cement,Road Construction Materials
+I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,Ton,58500,4380,L&T Construction Materials,Road Construction Materials
+I-5030,Kerb Stone Precast,Road Construction Materials,Nos,210,8342,UltraTech Cement,Road Construction Materials
+I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,Roll,4800,6470,UltraTech Cement,Road Construction Materials
+I-5032,Solar Module 540Wp Mono PERC,Solar Panels,Nos,12800,4311,Loom Solar,Solar Panels
+I-5033,Solar Module 550Wp Bifacial,Solar Panels,Nos,14200,7806,Websol Energy System,Solar Panels
+I-5034,String Inverter 50kW,Solar Panels,Nos,385000,8251,Adani Solar,Solar Panels
+I-5035,Module Mounting Structure (per kW),Solar Panels,kW Set,4800,4366,Websol Energy System,Solar Panels
+I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,Coil,3200,4557,Adani Solar,Solar Panels
+I-5037,MC4 Connector Pair,Solar Panels,Pair,95,4462,Loom Solar,Solar Panels
+I-5038,Combiner Box 6 in 1 out,Solar Panels,Nos,6500,4457,Vikram Solar,Solar Panels
+I-5039,Earthing Kit for Module Structure,Solar Panels,Set,850,7208,Waaree Energies,Solar Panels
+I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,Nos,3100,5917,Loom Solar,Solar Panels
+I-5041,Solar Cable Gland Set,Solar Panels,Set,145,4226,Loom Solar,Solar Panels
+I-5042,Tubular Battery 150Ah C10,Batteries,Nos,14500,4572,Livguard Energy,Batteries
+I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,Nos,118000,8531,Base Corporation,Batteries
+I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,Nos,16500,6492,Okaya Power,Batteries
+I-5045,VRLA SMF Battery 12V 100Ah,Batteries,Nos,9800,5574,HBL Power Systems,Batteries
+I-5046,Battery Rack 4-Tier MS,Batteries,Nos,3400,5856,Okaya Power,Batteries
+I-5047,Battery Interconnect Cable Set,Batteries,Set,650,7143,Luminous Power Technologies,Batteries
+I-5048,Battery Monitoring System (BMS module),Batteries,Nos,4200,6358,Panasonic Energy India,Batteries
+I-5049,Deep Cycle Battery 200Ah,Batteries,Nos,21500,6491,Amara Raja Batteries (Amaron),Batteries
+I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,Pcs,1150,3977,Hindware Homes,Plumbing Materials
+I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,Pcs,380,8513,Supreme Industries,Plumbing Materials
+I-5052,PVC Elbow 4 inch,Plumbing Materials,Nos,95,4501,Kajaria Ceramics,Plumbing Materials
+I-5053,Ball Valve 1 inch Brass,Plumbing Materials,Nos,320,5647,Kajaria Ceramics,Plumbing Materials
+I-5054,Water Tank 1000L HDPE,Plumbing Materials,Nos,6800,6073,Finolex Pipes,Plumbing Materials
+I-5055,Sanitaryware Wash Basin,Plumbing Materials,Nos,2450,6760,Supreme Industries,Plumbing Materials
+I-5056,Concealed Cistern with Frame,Plumbing Materials,Set,8500,5902,CERA Sanitaryware,Plumbing Materials
+I-5057,Bathroom Faucet Single Lever,Plumbing Materials,Nos,1850,6235,Finolex Pipes,Plumbing Materials
+I-5058,Submersible Pump 1HP,Plumbing Materials,Nos,9200,7490,Kajaria Ceramics,Plumbing Materials
+I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,Nos,65,6379,Roto Pumps,Plumbing Materials
