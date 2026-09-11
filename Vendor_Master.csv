@@ -1,0 +1,61 @@
+VendorCode,VendorName,Vertical,City,State,GSTIN,ContactPerson,Phone,Email,OnboardDate,PaymentTerms,VendorRatingInternal,IsActive
+V-1000,Havells India,Electrical,Jaipur,Rajasthan,13RVIFL10433B2Z1,Ayushman Chander,9338908386,sales@havells.co.in,2021-10-14,Net 15,4.4,Y
+V-1001,Polycab India,Electrical,Surat,Gujarat,17JNWVG94026F5Z4,Gunbir Parmer,9594078161,sales@polycab.co.in,2023-06-12,Net 30,4.4,Y
+V-1002,Finolex Cables,Electrical,Jaipur,Rajasthan,33XSFOG95931Y0Z3,Sudiksha Patla,9255341928,sales@finolex.co.in,2024-04-30,Advance 20% + Net 30,3.2,Y
+V-1003,Anchor by Panasonic,Electrical,Bengaluru,Karnataka,11XXDOC27648Z3Z5,Nandini Loyal,9139537672,sales@anchor.co.in,2022-01-03,Net 15,3.2,Y
+V-1004,V-Guard Industries,Electrical,Surat,Gujarat,26ZXOIG38849F6Z9,Champak Choudhary,9226916697,sales@v-guard.co.in,2023-05-01,Advance 20% + Net 30,3.1,Y
+V-1005,Crompton Greaves Consumer,Electrical,Surat,Gujarat,32SBKDA80184U5Z1,Xiti Gokhale,9814893252,sales@crompton.co.in,2023-05-19,Advance 20% + Net 30,3.8,Y
+V-1006,Legrand India,Electrical,Chennai,Tamil Nadu,28XZTPD80957P0Z1,Frederick Sunder,9182278248,sales@legrand.co.in,2025-01-17,Net 45,4.5,Y
+V-1007,Schneider Electric India,Electrical,Mumbai,Maharashtra,34CHCHP63834O6Z5,Hamsini Bail,9983930103,sales@schneider.co.in,2021-01-08,Net 30,4.3,Y
+V-1008,KEI Industries,Electrical,Gurugram,Haryana,18NIIUK05183K4Z7,Xavier Solanki,9631165667,sales@kei.co.in,2025-01-01,Net 30,3.4,Y
+V-1009,Orient Electric,Electrical,Bhubaneswar,Odisha,20MMICI01065B1Z3,Arya Shere,9317810801,sales@orient.co.in,2025-04-25,Net 15,3.2,Y
+V-1010,Century Plyboards,Carpentry,Pune,Maharashtra,21DKYAY32677Q3Z6,Bhavika Sampath,9872343098,sales@century.co.in,2020-12-27,Net 45,4.1,Y
+V-1011,Greenply Industries,Carpentry,Bhubaneswar,Odisha,11KDGFL50097E8Z8,Wahab Raval,9193990916,sales@greenply.co.in,2023-12-21,Net 60,4.0,Y
+V-1012,Kitply Industries,Carpentry,Indore,Madhya Pradesh,22QZIQP98543T5Z3,Diya Bora,9079911838,sales@kitply.co.in,2022-01-04,Net 15,4.0,Y
+V-1013,Archidply Industries,Carpentry,Nagpur,Maharashtra,30ITTNZ51354P2Z7,Chandani Chawla,9241182449,sales@archidply.co.in,2021-09-26,Advance 20% + Net 30,4.7,Y
+V-1014,Duro Ply India,Carpentry,Gurugram,Haryana,28FOBRC53487A4Z0,Kalpit Lala,9278680112,sales@duro.co.in,2023-05-31,Net 30,4.3,Y
+V-1015,Action Tesa,Carpentry,Mumbai,Maharashtra,31TXYCW59826N2Z0,Harshil Pandya,9869232260,sales@action.co.in,2021-07-31,Net 30,4.5,Y
+V-1016,Merino Laminates,Carpentry,Pune,Maharashtra,17CEOMD56342W1Z6,Vedant Kapoor,9036541458,sales@merino.co.in,2022-09-06,Net 15,3.7,Y
+V-1017,Hettich India,Carpentry,Chennai,Tamil Nadu,30QCGMB85014W2Z9,Rajata Vaidya,9169340608,sales@hettich.co.in,2025-04-24,Net 45,3.3,Y
+V-1018,Ebco Private Ltd,Carpentry,Gurugram,Haryana,16UQHUT83561G5Z9,Nilima Narain,9648236629,sales@ebco.co.in,2023-07-13,Net 45,4.3,Y
+V-1019,Sarvottam Plywood,Carpentry,Jaipur,Rajasthan,30YLMPU68044D3Z6,Riya Kala,9872148951,sales@sarvottam.co.in,2024-10-10,Net 15,4.2,Y
+V-1020,UltraTech Cement,Road Construction Materials,Ahmedabad,Gujarat,27PENXE34332D0Z0,Robert Rajagopalan,9763201632,sales@ultratech.co.in,2024-09-14,Net 30,3.3,Y
+V-1021,ACC Limited,Road Construction Materials,Bengaluru,Karnataka,18IZDQH87083J1Z7,Saanvi Thaman,9687277434,sales@acc.co.in,2024-07-06,Advance 20% + Net 30,3.4,Y
+V-1022,Ambuja Cements,Road Construction Materials,Gurugram,Haryana,36PRVUI87347F1Z4,Matthew Kashyap,9623166587,sales@ambuja.co.in,2022-10-06,Net 15,3.4,Y
+V-1023,Shree Cement,Road Construction Materials,Mumbai,Maharashtra,35EAWTW36690Y9Z6,Thomas Sura,9346706562,sales@shree.co.in,2024-11-19,Net 45,3.8,Y
+V-1024,JK Cement,Road Construction Materials,Pune,Maharashtra,16QBFPB29806I9Z9,Qabil Bedi,9465375564,sales@jk.co.in,2024-06-11,Advance 20% + Net 30,4.7,Y
+V-1025,Dalmia Bharat Cement,Road Construction Materials,Gurugram,Haryana,16WOPEX64170P8Z0,Azaan Kota,9309232719,sales@dalmia.co.in,2025-06-03,Net 60,3.8,Y
+V-1026,Tata Steel,Road Construction Materials,Indore,Madhya Pradesh,30XKTGL74529B9Z1,Keya Ranganathan,9319314919,sales@tata.co.in,2024-08-06,Net 60,3.3,Y
+V-1027,JSW Steel,Road Construction Materials,Ahmedabad,Gujarat,17AAFGB58651X8Z5,Michael Saran,9284987769,sales@jsw.co.in,2022-01-10,Advance 20% + Net 30,4.0,Y
+V-1028,Birla Corporation,Road Construction Materials,Lucknow,Uttar Pradesh,28NQYVB31473F7Z9,Qabil Sura,9354549480,sales@birla.co.in,2023-04-08,Net 60,4.7,Y
+V-1029,L&T Construction Materials,Road Construction Materials,Bengaluru,Karnataka,21SEPTF31367C8Z3,Girik Menon,9363495788,sales@l&t.co.in,2022-05-27,Net 30,4.9,Y
+V-1030,Tata Power Solar,Solar Panels,Ahmedabad,Gujarat,26OHUMU85574H4Z4,Rehaan Kalita,9749894134,sales@tata.co.in,2021-10-27,Net 60,3.2,Y
+V-1031,Waaree Energies,Solar Panels,Mumbai,Maharashtra,13DJSSI24082O4Z0,Harshil Arora,9947775204,sales@waaree.co.in,2025-05-22,Net 30,4.2,Y
+V-1032,Adani Solar,Solar Panels,Bhubaneswar,Odisha,31ORDJJ71167Z1Z9,Frederick Kothari,9186999386,sales@adani.co.in,2022-12-08,Net 60,4.1,Y
+V-1033,Vikram Solar,Solar Panels,Bengaluru,Karnataka,22DNVGW74964N9Z9,Aishani Bumb,9232812067,sales@vikram.co.in,2024-02-17,Advance 20% + Net 30,4.9,Y
+V-1034,Goldi Solar,Solar Panels,Hyderabad,Telangana,18EROQY74034Y4Z7,Pavani Contractor,9832421024,sales@goldi.co.in,2023-08-29,Advance 20% + Net 30,4.6,Y
+V-1035,Premier Energies,Solar Panels,Mumbai,Maharashtra,31RGIFC94717F4Z6,Rachana Naidu,9940139904,sales@premier.co.in,2023-07-26,Net 15,4.3,Y
+V-1036,Emmvee Solar,Solar Panels,Hyderabad,Telangana,34BOFFE27874W2Z9,Gauri Nagi,9125674680,sales@emmvee.co.in,2022-12-16,Net 45,4.5,Y
+V-1037,RenewSys India,Solar Panels,Gurugram,Haryana,13QIDAD54516M8Z0,Wishi Sathe,9034824771,sales@renewsys.co.in,2020-10-29,Net 45,3.8,Y
+V-1038,Websol Energy System,Solar Panels,Chennai,Tamil Nadu,10AFOHD93248H0Z8,Wishi Manne,9846773782,sales@websol.co.in,2022-08-08,Net 45,4.8,Y
+V-1039,Loom Solar,Solar Panels,Bhubaneswar,Odisha,15YGRAS98214U6Z5,Vrishti Dixit,9787558867,sales@loom.co.in,2025-05-07,Advance 20% + Net 30,4.7,Y
+V-1040,Exide Industries,Batteries,Nagpur,Maharashtra,30UVETZ33963Y6Z0,Max Tandon,9028951718,sales@exide.co.in,2025-03-27,Net 45,4.6,Y
+V-1041,Amara Raja Batteries (Amaron),Batteries,Hyderabad,Telangana,29VNSZP02621F7Z4,Lajita Nadig,9780913431,sales@amara.co.in,2022-11-08,Net 30,3.3,Y
+V-1042,Luminous Power Technologies,Batteries,Bhubaneswar,Odisha,15UYDSW11724X0Z0,Madhav Konda,9869222196,sales@luminous.co.in,2023-10-13,Advance 20% + Net 30,4.8,Y
+V-1043,Su-Kam Power Systems,Batteries,Indore,Madhya Pradesh,26DQQAZ37923D7Z4,Nakul Borah,9759464743,sales@su-kam.co.in,2025-09-05,Net 15,4.1,Y
+V-1044,Okaya Power,Batteries,Chennai,Tamil Nadu,10SSSBQ71369Z5Z9,Abhiram Bawa,9974395339,sales@okaya.co.in,2021-12-08,Net 15,4.8,Y
+V-1045,HBL Power Systems,Batteries,Indore,Madhya Pradesh,36XUIFS21047U0Z9,Parth Iyer,9285884247,sales@hbl.co.in,2025-07-09,Net 45,3.5,Y
+V-1046,Livguard Energy,Batteries,Surat,Gujarat,28RURZZ45171J2Z3,Gautam Rana,9048175496,sales@livguard.co.in,2024-10-17,Net 15,3.2,Y
+V-1047,Panasonic Energy India,Batteries,Chennai,Tamil Nadu,36UNOPE51370O9Z8,Chasmum Rege,9120047113,sales@panasonic.co.in,2025-02-13,Net 15,4.9,Y
+V-1048,Base Corporation,Batteries,Hyderabad,Telangana,34VUJAP26758G6Z9,Nikita Mammen,9053773515,sales@base.co.in,2023-05-29,Net 30,3.2,Y
+V-1049,Exicom Power Solutions,Batteries,Chennai,Tamil Nadu,27FQNPO50643M1Z7,Chandresh Nath,9329318393,sales@exicom.co.in,2024-09-30,Net 30,3.5,Y
+V-1050,Astral Pipes,Plumbing Materials,Nagpur,Maharashtra,29IIQZL35290H4Z2,Karan Aurora,9539502402,sales@astral.co.in,2024-05-23,Net 60,4.8,Y
+V-1051,Supreme Industries,Plumbing Materials,Indore,Madhya Pradesh,27LGCGO81177N5Z8,Charvi Shanker,9007661771,sales@supreme.co.in,2025-03-07,Net 30,4.4,Y
+V-1052,Finolex Pipes,Plumbing Materials,Bengaluru,Karnataka,31OLJTU59212Y4Z9,Sudiksha Tiwari,9961183673,sales@finolex.co.in,2022-10-02,Net 45,3.8,Y
+V-1053,Prince Pipes,Plumbing Materials,Hyderabad,Telangana,24QQXJR76615E6Z5,Gavin Chada,9161528098,sales@prince.co.in,2023-06-29,Net 15,3.5,Y
+V-1054,Ashirvad Pipes (Aliaxis),Plumbing Materials,Pune,Maharashtra,20TWGKG16560N4Z9,Vasatika Kapur,9158514936,sales@ashirvad.co.in,2024-11-28,Net 15,4.1,Y
+V-1055,CERA Sanitaryware,Plumbing Materials,Surat,Gujarat,28LRSWT99809V4Z0,Abeer Golla,9296120183,sales@cera.co.in,2022-07-25,Net 30,3.0,Y
+V-1056,Jaquar Group,Plumbing Materials,Lucknow,Uttar Pradesh,30MFDJK75254W5Z9,Finn Magar,9767976438,sales@jaquar.co.in,2021-04-02,Net 15,3.4,Y
+V-1057,Hindware Homes,Plumbing Materials,Indore,Madhya Pradesh,11COZMD61497A8Z4,Charvi Kakar,9244510762,sales@hindware.co.in,2021-04-30,Net 45,3.1,Y
+V-1058,Kajaria Ceramics,Plumbing Materials,Surat,Gujarat,18VCBBD83885E1Z6,Pushti Ravel,9641605297,sales@kajaria.co.in,2024-11-04,Net 60,3.4,Y
+V-1059,Roto Pumps,Plumbing Materials,Ahmedabad,Gujarat,33ZHFZT51613V6Z9,Timothy Nath,9218188355,sales@roto.co.in,2024-04-27,Advance 20% + Net 30,4.1,Y

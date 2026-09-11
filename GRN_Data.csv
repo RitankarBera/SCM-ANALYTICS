@@ -1,0 +1,833 @@
+GRNNo,GRNDate,PONo,VendorCode,WarehouseCode,ItemCode,ItemDescription,Vertical,ReceivedQty,AcceptedQty,RejectedQty,UOM,InspectedBy,QCStatus
+GRN-50001,2026-03-15,PO-40001,V-1010,WH-01,I-5015,Hinges SS 4 inch,Carpentry,19,19,0,Pair,Forum Chandra,Accepted
+GRN-50002,2026-04-16,PO-40002,V-1033,WH-01,I-5034,String Inverter 50kW,Solar Panels,33,32,1,Nos,Gauri Bumb,Rejected - Partial
+GRN-50003,2026-01-28,PO-40003,V-1053,WH-02,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,15,15,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50004,2025-10-15,PO-40004,V-1008,WH-01,I-5004,LED Flood Light 100W,Electrical,12,12,0,Nos,Gauri Bumb,Accepted
+GRN-50005,2025-10-15,PO-40004,V-1008,WH-01,I-5004,LED Flood Light 100W,Electrical,13,13,0,Nos,Inaya Mukherjee,Accepted
+GRN-50006,2026-06-06,PO-40005,V-1033,WH-01,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,15,15,0,Coil,Gauri Bumb,Accepted
+GRN-50007,2026-05-22,PO-40006,V-1041,WH-03,I-5047,Battery Interconnect Cable Set,Batteries,36,36,0,Set,Charles Natt,Accepted
+GRN-50008,2026-05-21,PO-40007,V-1006,WH-03,I-5003,Distribution Board 8-Way,Electrical,22,21,1,Nos,Lila Rege,Rejected - Partial
+GRN-50009,2026-08-07,PO-40008,V-1011,WH-01,I-5015,Hinges SS 4 inch,Carpentry,32,31,1,Pair,Charles Natt,Rejected - Partial
+GRN-50010,2026-03-14,PO-40009,V-1009,WH-01,I-5006,Cable Tray 300mm (2m length),Electrical,6,6,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50011,2026-01-07,PO-40010,V-1036,WH-02,I-5041,Solar Cable Gland Set,Solar Panels,26,25,1,Set,Inaya Mukherjee,Rejected - Partial
+GRN-50012,2026-03-22,PO-40011,V-1016,WH-03,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,35,35,0,Pair,Charles Natt,Accepted
+GRN-50013,2025-09-28,PO-40012,V-1053,WH-03,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,26,26,0,Nos,Inaya Mukherjee,Accepted
+GRN-50014,2026-08-04,PO-40013,V-1011,WH-01,I-5021,Adhesive Fevicol SH (5kg),Carpentry,32,32,0,Can,Inaya Mukherjee,Accepted
+GRN-50015,2026-08-19,PO-40014,V-1024,WH-02,I-5027,Ready Mix Concrete M25,Road Construction Materials,19,19,0,Cum,Forum Chandra,Accepted
+GRN-50016,2026-01-29,PO-40015,V-1015,WH-03,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,20,20,0,Sheet,Inaya Mukherjee,Accepted
+GRN-50017,2026-04-09,PO-40016,V-1007,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,20,20,0,Nos,Gauri Bumb,Accepted
+GRN-50018,2026-02-20,PO-40017,V-1053,WH-02,I-5058,Submersible Pump 1HP,Plumbing Materials,22,22,0,Nos,Forum Chandra,Accepted
+GRN-50019,2026-01-08,PO-40018,V-1040,WH-02,I-5046,Battery Rack 4-Tier MS,Batteries,6,6,0,Nos,Lila Rege,Accepted
+GRN-50020,2026-07-05,PO-40019,V-1021,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,25,25,0,Ton,Charles Natt,Accepted
+GRN-50021,2026-04-25,PO-40020,V-1013,WH-02,I-5021,Adhesive Fevicol SH (5kg),Carpentry,13,13,0,Can,Charles Natt,Accepted
+GRN-50022,2026-02-11,PO-40021,V-1014,WH-01,I-5015,Hinges SS 4 inch,Carpentry,16,16,0,Pair,Forum Chandra,Accepted
+GRN-50023,2026-02-17,PO-40022,V-1038,WH-01,I-5041,Solar Cable Gland Set,Solar Panels,6,6,0,Set,Forum Chandra,Accepted
+GRN-50024,2026-02-20,PO-40023,V-1044,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,19,18,1,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50025,2026-01-24,PO-40024,V-1020,WH-02,I-5027,Ready Mix Concrete M25,Road Construction Materials,19,19,0,Cum,Bhanumati Krishnan,Accepted
+GRN-50026,2026-05-19,PO-40025,V-1002,WH-03,I-5004,LED Flood Light 100W,Electrical,22,22,0,Nos,Lila Rege,Accepted
+GRN-50027,2026-06-08,PO-40026,V-1028,WH-03,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,18,18,0,Drum,Lila Rege,Accepted
+GRN-50028,2026-02-22,PO-40027,V-1012,WH-02,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,41,41,0,Sheet,Bhanumati Krishnan,Accepted
+GRN-50029,2026-07-07,PO-40028,V-1056,WH-03,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,13,13,0,Nos,Forum Chandra,Accepted
+GRN-50030,2026-08-29,PO-40029,V-1025,WH-02,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,16,16,0,Ton,Forum Chandra,Accepted
+GRN-50031,2026-02-20,PO-40030,V-1059,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,15,15,0,Pcs,Charles Natt,Accepted
+GRN-50032,2026-02-01,PO-40031,V-1032,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,5,5,0,Set,Forum Chandra,Accepted
+GRN-50033,2026-02-07,PO-40031,V-1032,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,5,5,0,Set,Bhanumati Krishnan,Accepted
+GRN-50034,2026-02-03,PO-40032,V-1017,WH-01,I-5018,Wood Screws 2 inch (box of 100),Carpentry,11,11,0,Box,Forum Chandra,Accepted
+GRN-50035,2026-08-11,PO-40033,V-1042,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,24,24,0,Nos,Gauri Bumb,Accepted
+GRN-50036,2025-10-02,PO-40035,V-1009,WH-02,I-5006,Cable Tray 300mm (2m length),Electrical,25,25,0,Nos,Gauri Bumb,Accepted
+GRN-50037,2026-02-11,PO-40036,V-1037,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,11,11,0,Set,Inaya Mukherjee,Accepted
+GRN-50038,2026-07-18,PO-40037,V-1054,WH-03,I-5056,Concealed Cistern with Frame,Plumbing Materials,26,24,2,Set,Lila Rege,Rejected - Partial
+GRN-50039,2025-10-11,PO-40038,V-1033,WH-01,I-5037,MC4 Connector Pair,Solar Panels,33,33,0,Pair,Gauri Bumb,Accepted
+GRN-50040,2026-03-01,PO-40039,V-1048,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,56,56,0,Nos,Charles Natt,Accepted
+GRN-50041,2026-06-25,PO-40040,V-1001,WH-02,I-5006,Cable Tray 300mm (2m length),Electrical,12,12,0,Nos,Inaya Mukherjee,Accepted
+GRN-50042,2026-04-08,PO-40041,V-1001,WH-02,I-5007,Junction Box IP65,Electrical,36,36,0,Nos,Inaya Mukherjee,Accepted
+GRN-50043,2025-11-10,PO-40042,V-1033,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,12,12,0,Nos,Inaya Mukherjee,Accepted
+GRN-50044,2025-11-20,PO-40042,V-1033,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,12,12,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50045,2026-05-25,PO-40044,V-1028,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,34,34,0,Roll,Gauri Bumb,Accepted
+GRN-50046,2026-03-09,PO-40045,V-1012,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,11,11,0,Pair,Charles Natt,Accepted
+GRN-50047,2025-12-10,PO-40046,V-1036,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,29,29,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50048,2025-10-11,PO-40047,V-1033,WH-02,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,15,15,0,Coil,Charles Natt,Accepted
+GRN-50049,2026-07-04,PO-40048,V-1050,WH-03,I-5055,Sanitaryware Wash Basin,Plumbing Materials,16,16,0,Nos,Lila Rege,Accepted
+GRN-50050,2026-07-14,PO-40048,V-1050,WH-01,I-5055,Sanitaryware Wash Basin,Plumbing Materials,16,16,0,Nos,Forum Chandra,Accepted
+GRN-50051,2025-11-14,PO-40049,V-1002,WH-01,I-5010,MCCB 200A,Electrical,9,9,0,Nos,Inaya Mukherjee,Accepted
+GRN-50052,2026-07-18,PO-40050,V-1047,WH-02,I-5049,Deep Cycle Battery 200Ah,Batteries,11,11,0,Nos,Forum Chandra,Accepted
+GRN-50053,2026-08-26,PO-40051,V-1055,WH-01,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,34,34,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50054,2026-04-26,PO-40052,V-1055,WH-03,I-5056,Concealed Cistern with Frame,Plumbing Materials,24,24,0,Set,Gauri Bumb,Accepted
+GRN-50055,2026-02-28,PO-40053,V-1004,WH-02,I-5005,Modular Switch 6A,Electrical,17,17,0,Nos,Inaya Mukherjee,Accepted
+GRN-50056,2026-06-01,PO-40055,V-1019,WH-02,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,31,31,0,Sheet,Charles Natt,Accepted
+GRN-50057,2026-07-28,PO-40056,V-1037,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,17,16,1,Set,Forum Chandra,Rejected - Partial
+GRN-50058,2026-01-22,PO-40057,V-1048,WH-03,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,13,13,0,Nos,Charles Natt,Accepted
+GRN-50059,2026-04-03,PO-40058,V-1050,WH-01,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,55,55,0,Pcs,Bhanumati Krishnan,Accepted
+GRN-50060,2025-11-02,PO-40059,V-1026,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,13,13,0,Bag,Gauri Bumb,Accepted
+GRN-50061,2026-08-15,PO-40060,V-1035,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,51,51,0,Nos,Gauri Bumb,Accepted
+GRN-50062,2026-01-31,PO-40061,V-1042,WH-02,I-5047,Battery Interconnect Cable Set,Batteries,27,27,0,Set,Inaya Mukherjee,Accepted
+GRN-50063,2026-05-07,PO-40063,V-1017,WH-01,I-5017,Door Lock Mortise Set,Carpentry,27,27,0,Set,Gauri Bumb,Accepted
+GRN-50064,2025-11-09,PO-40064,V-1032,WH-01,I-5037,MC4 Connector Pair,Solar Panels,22,22,0,Pair,Inaya Mukherjee,Accepted
+GRN-50065,2026-03-29,PO-40065,V-1009,WH-01,I-5010,MCCB 200A,Electrical,19,19,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50066,2026-04-10,PO-40067,V-1019,WH-01,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,43,43,0,Roll,Inaya Mukherjee,Accepted
+GRN-50067,2026-07-09,PO-40068,V-1032,WH-01,I-5033,Solar Module 550Wp Bifacial,Solar Panels,27,27,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50068,2026-08-11,PO-40069,V-1046,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,15,15,0,Nos,Inaya Mukherjee,Accepted
+GRN-50069,2025-11-21,PO-40070,V-1034,WH-03,I-5034,String Inverter 50kW,Solar Panels,4,4,0,Nos,Forum Chandra,Accepted
+GRN-50070,2026-07-31,PO-40071,V-1019,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,26,26,0,Pair,Lila Rege,Accepted
+GRN-50071,2026-07-06,PO-40072,V-1014,WH-02,I-5015,Hinges SS 4 inch,Carpentry,13,13,0,Pair,Charles Natt,Accepted
+GRN-50072,2026-07-14,PO-40072,V-1014,WH-01,I-5015,Hinges SS 4 inch,Carpentry,13,13,0,Pair,Inaya Mukherjee,Accepted
+GRN-50073,2026-03-06,PO-40073,V-1034,WH-03,I-5033,Solar Module 550Wp Bifacial,Solar Panels,18,18,0,Nos,Inaya Mukherjee,Accepted
+GRN-50074,2026-05-23,PO-40074,V-1025,WH-02,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,33,32,1,Drum,Bhanumati Krishnan,Rejected - Partial
+GRN-50075,2026-03-18,PO-40075,V-1008,WH-01,I-5004,LED Flood Light 100W,Electrical,13,13,0,Nos,Gauri Bumb,Accepted
+GRN-50076,2026-06-24,PO-40076,V-1020,WH-01,I-5027,Ready Mix Concrete M25,Road Construction Materials,42,42,0,Cum,Gauri Bumb,Accepted
+GRN-50077,2026-07-27,PO-40077,V-1057,WH-02,I-5054,Water Tank 1000L HDPE,Plumbing Materials,16,15,1,Nos,Inaya Mukherjee,Rejected - Partial
+GRN-50078,2026-07-05,PO-40078,V-1019,WH-02,I-5021,Adhesive Fevicol SH (5kg),Carpentry,32,32,0,Can,Charles Natt,Accepted
+GRN-50079,2026-06-20,PO-40079,V-1002,WH-03,I-5002,MCB 32A Single Pole,Electrical,23,23,0,Nos,Inaya Mukherjee,Accepted
+GRN-50080,2026-02-20,PO-40080,V-1017,WH-02,I-5015,Hinges SS 4 inch,Carpentry,16,16,0,Pair,Gauri Bumb,Accepted
+GRN-50081,2026-02-12,PO-40081,V-1013,WH-01,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,30,30,0,Roll,Inaya Mukherjee,Accepted
+GRN-50082,2026-03-08,PO-40082,V-1040,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,19,18,1,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50083,2025-11-19,PO-40083,V-1037,WH-02,I-5039,Earthing Kit for Module Structure,Solar Panels,24,24,0,Set,Charles Natt,Accepted
+GRN-50084,2026-01-14,PO-40084,V-1004,WH-01,I-5006,Cable Tray 300mm (2m length),Electrical,7,7,0,Nos,Inaya Mukherjee,Accepted
+GRN-50085,2026-04-04,PO-40085,V-1009,WH-03,I-5004,LED Flood Light 100W,Electrical,25,25,0,Nos,Charles Natt,Accepted
+GRN-50086,2026-07-12,PO-40086,V-1053,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,24,24,0,Nos,Charles Natt,Accepted
+GRN-50087,2025-09-26,PO-40087,V-1026,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,22,21,1,Drum,Bhanumati Krishnan,Rejected - Partial
+GRN-50088,2026-04-01,PO-40088,V-1048,WH-01,I-5048,Battery Monitoring System (BMS module),Batteries,24,24,0,Nos,Charles Natt,Accepted
+GRN-50089,2026-06-25,PO-40089,V-1031,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,22,22,0,Nos,Gauri Bumb,Accepted
+GRN-50090,2026-04-15,PO-40090,V-1014,WH-03,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,63,62,1,Sheet,Charles Natt,Rejected - Partial
+GRN-50091,2026-03-17,PO-40091,V-1032,WH-03,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,12,12,0,Nos,Forum Chandra,Accepted
+GRN-50092,2026-06-23,PO-40092,V-1037,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,5,5,0,Nos,Gauri Bumb,Accepted
+GRN-50093,2026-04-15,PO-40093,V-1035,WH-03,I-5035,Module Mounting Structure (per kW),Solar Panels,8,8,0,kW Set,Inaya Mukherjee,Accepted
+GRN-50094,2025-12-30,PO-40094,V-1026,WH-03,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,17,17,0,Roll,Bhanumati Krishnan,Accepted
+GRN-50095,2026-05-10,PO-40095,V-1052,WH-02,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,18,18,0,Nos,Lila Rege,Accepted
+GRN-50096,2026-05-26,PO-40096,V-1007,WH-02,I-5003,Distribution Board 8-Way,Electrical,20,20,0,Nos,Forum Chandra,Accepted
+GRN-50097,2025-11-17,PO-40097,V-1035,WH-01,I-5034,String Inverter 50kW,Solar Panels,15,15,0,Nos,Inaya Mukherjee,Accepted
+GRN-50098,2025-11-07,PO-40098,V-1032,WH-03,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,29,28,1,Nos,Charles Natt,Rejected - Partial
+GRN-50099,2026-01-31,PO-40099,V-1003,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,24,23,1,Coil,Gauri Bumb,Rejected - Partial
+GRN-50100,2026-06-05,PO-40101,V-1036,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,61,61,0,Set,Inaya Mukherjee,Accepted
+GRN-50101,2025-09-29,PO-40102,V-1026,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,19,19,0,Ton,Gauri Bumb,Accepted
+GRN-50102,2026-04-01,PO-40103,V-1002,WH-01,I-5006,Cable Tray 300mm (2m length),Electrical,12,12,0,Nos,Charles Natt,Accepted
+GRN-50103,2026-08-04,PO-40104,V-1026,WH-03,I-5025,River Sand (fine aggregate),Road Construction Materials,23,23,0,Ton,Inaya Mukherjee,Accepted
+GRN-50104,2026-08-13,PO-40104,V-1026,WH-02,I-5025,River Sand (fine aggregate),Road Construction Materials,23,23,0,Ton,Inaya Mukherjee,Accepted
+GRN-50105,2025-10-06,PO-40105,V-1001,WH-02,I-5008,Earthing Strip GI 25x3mm,Electrical,26,26,0,Mtr,Inaya Mukherjee,Accepted
+GRN-50106,2026-06-13,PO-40106,V-1005,WH-01,I-5005,Modular Switch 6A,Electrical,6,6,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50107,2026-05-12,PO-40107,V-1045,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,19,19,0,Nos,Inaya Mukherjee,Accepted
+GRN-50108,2026-05-20,PO-40108,V-1031,WH-02,I-5037,MC4 Connector Pair,Solar Panels,11,11,0,Pair,Gauri Bumb,Accepted
+GRN-50109,2026-04-17,PO-40109,V-1059,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,61,61,0,Nos,Forum Chandra,Accepted
+GRN-50110,2025-12-26,PO-40110,V-1015,WH-01,I-5017,Door Lock Mortise Set,Carpentry,11,11,0,Set,Bhanumati Krishnan,Accepted
+GRN-50111,2025-10-23,PO-40111,V-1052,WH-01,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,21,21,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50112,2025-11-27,PO-40112,V-1007,WH-01,I-5004,LED Flood Light 100W,Electrical,12,12,0,Nos,Inaya Mukherjee,Accepted
+GRN-50113,2025-11-25,PO-40112,V-1007,WH-01,I-5004,LED Flood Light 100W,Electrical,12,12,0,Nos,Lila Rege,Accepted
+GRN-50114,2026-06-15,PO-40113,V-1035,WH-03,I-5039,Earthing Kit for Module Structure,Solar Panels,13,13,0,Set,Lila Rege,Accepted
+GRN-50115,2026-05-15,PO-40114,V-1053,WH-01,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,44,44,0,Pcs,Charles Natt,Accepted
+GRN-50116,2025-12-01,PO-40116,V-1052,WH-02,I-5052,PVC Elbow 4 inch,Plumbing Materials,35,35,0,Nos,Lila Rege,Accepted
+GRN-50117,2026-02-19,PO-40117,V-1027,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,12,12,0,Ton,Charles Natt,Accepted
+GRN-50118,2026-06-26,PO-40118,V-1037,WH-03,I-5034,String Inverter 50kW,Solar Panels,5,5,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50119,2026-07-04,PO-40118,V-1037,WH-03,I-5034,String Inverter 50kW,Solar Panels,5,5,0,Nos,Lila Rege,Accepted
+GRN-50120,2025-10-03,PO-40119,V-1051,WH-01,I-5052,PVC Elbow 4 inch,Plumbing Materials,11,11,0,Nos,Inaya Mukherjee,Accepted
+GRN-50121,2025-11-15,PO-40120,V-1055,WH-02,I-5056,Concealed Cistern with Frame,Plumbing Materials,29,29,0,Set,Lila Rege,Accepted
+GRN-50122,2026-07-27,PO-40121,V-1021,WH-01,I-5025,River Sand (fine aggregate),Road Construction Materials,45,45,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50123,2026-07-30,PO-40122,V-1004,WH-01,I-5008,Earthing Strip GI 25x3mm,Electrical,29,29,0,Mtr,Lila Rege,Accepted
+GRN-50124,2026-04-08,PO-40123,V-1001,WH-01,I-5009,Contactor 40A 3 Pole,Electrical,16,16,0,Nos,Forum Chandra,Accepted
+GRN-50125,2026-08-18,PO-40124,V-1033,WH-03,I-5033,Solar Module 550Wp Bifacial,Solar Panels,26,26,0,Nos,Inaya Mukherjee,Accepted
+GRN-50126,2025-10-14,PO-40125,V-1054,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,32,32,0,Nos,Forum Chandra,Accepted
+GRN-50127,2025-11-26,PO-40126,V-1009,WH-03,I-5004,LED Flood Light 100W,Electrical,60,60,0,Nos,Charles Natt,Accepted
+GRN-50128,2026-01-13,PO-40127,V-1037,WH-03,I-5033,Solar Module 550Wp Bifacial,Solar Panels,29,29,0,Nos,Inaya Mukherjee,Accepted
+GRN-50129,2026-02-02,PO-40128,V-1058,WH-02,I-5055,Sanitaryware Wash Basin,Plumbing Materials,15,15,0,Nos,Forum Chandra,Accepted
+GRN-50130,2026-03-01,PO-40129,V-1013,WH-02,I-5021,Adhesive Fevicol SH (5kg),Carpentry,5,5,0,Can,Inaya Mukherjee,Accepted
+GRN-50131,2025-10-30,PO-40130,V-1022,WH-02,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,19,19,0,Drum,Inaya Mukherjee,Accepted
+GRN-50132,2026-08-15,PO-40131,V-1003,WH-01,I-5002,MCB 32A Single Pole,Electrical,7,7,0,Nos,Lila Rege,Accepted
+GRN-50133,2026-08-19,PO-40131,V-1003,WH-02,I-5002,MCB 32A Single Pole,Electrical,7,7,0,Nos,Charles Natt,Accepted
+GRN-50134,2025-12-24,PO-40132,V-1004,WH-02,I-5005,Modular Switch 6A,Electrical,70,70,0,Nos,Forum Chandra,Accepted
+GRN-50135,2025-09-24,PO-40133,V-1041,WH-03,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,26,26,0,Nos,Forum Chandra,Accepted
+GRN-50136,2025-09-20,PO-40134,V-1015,WH-01,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,49,47,2,Sheet,Inaya Mukherjee,Rejected - Partial
+GRN-50137,2025-12-26,PO-40135,V-1004,WH-01,I-5003,Distribution Board 8-Way,Electrical,16,16,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50138,2026-03-20,PO-40136,V-1046,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,37,37,0,Nos,Forum Chandra,Accepted
+GRN-50139,2025-11-12,PO-40137,V-1053,WH-02,I-5052,PVC Elbow 4 inch,Plumbing Materials,40,40,0,Nos,Inaya Mukherjee,Accepted
+GRN-50140,2026-06-25,PO-40138,V-1022,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,4,4,0,Roll,Bhanumati Krishnan,Accepted
+GRN-50141,2026-02-20,PO-40139,V-1028,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,25,25,0,Ton,Forum Chandra,Accepted
+GRN-50142,2026-08-08,PO-40140,V-1043,WH-02,I-5049,Deep Cycle Battery 200Ah,Batteries,21,21,0,Nos,Inaya Mukherjee,Accepted
+GRN-50143,2025-12-15,PO-40141,V-1041,WH-03,I-5042,Tubular Battery 150Ah C10,Batteries,41,41,0,Nos,Charles Natt,Accepted
+GRN-50144,2026-04-25,PO-40142,V-1031,WH-03,I-5037,MC4 Connector Pair,Solar Panels,36,33,3,Pair,Bhanumati Krishnan,Rejected - Partial
+GRN-50145,2025-12-14,PO-40143,V-1041,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,12,12,0,Nos,Lila Rege,Accepted
+GRN-50146,2026-07-25,PO-40144,V-1058,WH-01,I-5052,PVC Elbow 4 inch,Plumbing Materials,16,16,0,Nos,Gauri Bumb,Accepted
+GRN-50147,2026-02-17,PO-40145,V-1004,WH-03,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,5,5,0,Coil,Forum Chandra,Accepted
+GRN-50148,2026-03-02,PO-40145,V-1004,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,5,5,0,Coil,Bhanumati Krishnan,Accepted
+GRN-50149,2025-12-17,PO-40146,V-1049,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,45,45,0,Nos,Gauri Bumb,Accepted
+GRN-50150,2026-04-04,PO-40147,V-1029,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,8,8,0,Ton,Charles Natt,Accepted
+GRN-50151,2025-12-27,PO-40148,V-1051,WH-01,I-5056,Concealed Cistern with Frame,Plumbing Materials,11,11,0,Set,Bhanumati Krishnan,Accepted
+GRN-50152,2025-11-10,PO-40149,V-1039,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,4,4,0,Nos,Gauri Bumb,Accepted
+GRN-50153,2025-11-27,PO-40149,V-1039,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,5,5,0,Nos,Inaya Mukherjee,Accepted
+GRN-50154,2026-02-01,PO-40150,V-1017,WH-01,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,24,24,0,Sheet,Inaya Mukherjee,Accepted
+GRN-50155,2026-05-28,PO-40151,V-1003,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,23,23,0,Nos,Charles Natt,Accepted
+GRN-50156,2026-01-25,PO-40152,V-1055,WH-01,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,19,19,0,Pcs,Charles Natt,Accepted
+GRN-50157,2026-01-25,PO-40153,V-1012,WH-01,I-5015,Hinges SS 4 inch,Carpentry,14,14,0,Pair,Inaya Mukherjee,Accepted
+GRN-50158,2026-02-15,PO-40154,V-1015,WH-01,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,5,5,0,Sheet,Forum Chandra,Accepted
+GRN-50159,2025-12-13,PO-40155,V-1055,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,42,42,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50160,2026-01-19,PO-40156,V-1044,WH-02,I-5047,Battery Interconnect Cable Set,Batteries,7,7,0,Set,Inaya Mukherjee,Accepted
+GRN-50161,2026-02-20,PO-40157,V-1029,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,19,19,0,Roll,Forum Chandra,Accepted
+GRN-50162,2026-04-28,PO-40158,V-1022,WH-02,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,12,12,0,Roll,Gauri Bumb,Accepted
+GRN-50163,2026-08-04,PO-40159,V-1005,WH-02,I-5006,Cable Tray 300mm (2m length),Electrical,22,22,0,Nos,Inaya Mukherjee,Accepted
+GRN-50164,2026-04-07,PO-40160,V-1024,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,20,20,0,Ton,Charles Natt,Accepted
+GRN-50165,2025-10-02,PO-40161,V-1002,WH-02,I-5006,Cable Tray 300mm (2m length),Electrical,14,14,0,Nos,Gauri Bumb,Accepted
+GRN-50166,2025-11-12,PO-40162,V-1043,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,4,4,0,Nos,Gauri Bumb,Accepted
+GRN-50167,2025-11-14,PO-40163,V-1034,WH-01,I-5041,Solar Cable Gland Set,Solar Panels,15,15,0,Set,Bhanumati Krishnan,Accepted
+GRN-50168,2025-10-25,PO-40164,V-1001,WH-01,I-5010,MCCB 200A,Electrical,34,31,3,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50169,2026-04-20,PO-40165,V-1022,WH-01,I-5027,Ready Mix Concrete M25,Road Construction Materials,42,38,4,Cum,Inaya Mukherjee,Rejected - Partial
+GRN-50170,2026-01-31,PO-40166,V-1022,WH-03,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,22,20,2,Ton,Lila Rege,Rejected - Partial
+GRN-50171,2026-08-07,PO-40167,V-1032,WH-01,I-5034,String Inverter 50kW,Solar Panels,33,33,0,Nos,Inaya Mukherjee,Accepted
+GRN-50172,2026-03-13,PO-40168,V-1043,WH-03,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,25,25,0,Nos,Gauri Bumb,Accepted
+GRN-50173,2026-05-17,PO-40169,V-1056,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,31,31,0,Pcs,Bhanumati Krishnan,Accepted
+GRN-50174,2026-06-26,PO-40170,V-1028,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,7,7,0,Bag,Lila Rege,Accepted
+GRN-50175,2026-05-18,PO-40171,V-1034,WH-01,I-5037,MC4 Connector Pair,Solar Panels,29,29,0,Pair,Charles Natt,Accepted
+GRN-50176,2026-05-14,PO-40172,V-1040,WH-01,I-5049,Deep Cycle Battery 200Ah,Batteries,35,35,0,Nos,Charles Natt,Accepted
+GRN-50177,2026-05-20,PO-40173,V-1058,WH-02,I-5054,Water Tank 1000L HDPE,Plumbing Materials,63,63,0,Nos,Inaya Mukherjee,Accepted
+GRN-50178,2026-06-01,PO-40174,V-1039,WH-03,I-5034,String Inverter 50kW,Solar Panels,18,18,0,Nos,Lila Rege,Accepted
+GRN-50179,2026-01-08,PO-40175,V-1038,WH-02,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,29,29,0,Coil,Forum Chandra,Accepted
+GRN-50180,2026-07-11,PO-40176,V-1055,WH-03,I-5055,Sanitaryware Wash Basin,Plumbing Materials,49,49,0,Nos,Forum Chandra,Accepted
+GRN-50181,2026-03-28,PO-40177,V-1044,WH-03,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,8,8,0,Nos,Gauri Bumb,Accepted
+GRN-50182,2026-07-03,PO-40178,V-1028,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,7,7,0,Roll,Charles Natt,Accepted
+GRN-50183,2026-03-12,PO-40179,V-1000,WH-02,I-5010,MCCB 200A,Electrical,14,14,0,Nos,Lila Rege,Accepted
+GRN-50184,2026-03-29,PO-40179,V-1000,WH-01,I-5010,MCCB 200A,Electrical,15,15,0,Nos,Inaya Mukherjee,Accepted
+GRN-50185,2026-06-15,PO-40180,V-1006,WH-03,I-5008,Earthing Strip GI 25x3mm,Electrical,31,31,0,Mtr,Inaya Mukherjee,Accepted
+GRN-50186,2025-10-16,PO-40181,V-1006,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,22,22,0,Coil,Lila Rege,Accepted
+GRN-50187,2026-02-11,PO-40182,V-1023,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,23,23,0,Ton,Forum Chandra,Accepted
+GRN-50188,2025-11-29,PO-40183,V-1031,WH-03,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,54,54,0,Nos,Gauri Bumb,Accepted
+GRN-50189,2026-07-04,PO-40184,V-1011,WH-01,I-5014,MDF Board 12mm (8x4 ft),Carpentry,10,10,0,Sheet,Charles Natt,Accepted
+GRN-50190,2026-02-27,PO-40185,V-1009,WH-01,I-5003,Distribution Board 8-Way,Electrical,17,17,0,Nos,Charles Natt,Accepted
+GRN-50191,2026-02-27,PO-40186,V-1002,WH-03,I-5011,Cable Gland Brass 25mm,Electrical,37,37,0,Nos,Lila Rege,Accepted
+GRN-50192,2026-07-06,PO-40187,V-1008,WH-02,I-5009,Contactor 40A 3 Pole,Electrical,39,38,1,Nos,Forum Chandra,Rejected - Partial
+GRN-50193,2026-09-02,PO-40188,V-1028,WH-02,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,20,19,1,Bag,Charles Natt,Rejected - Partial
+GRN-50194,2025-10-26,PO-40189,V-1045,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,28,26,2,Nos,Inaya Mukherjee,Rejected - Partial
+GRN-50195,2026-07-12,PO-40190,V-1041,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,19,19,0,Nos,Forum Chandra,Accepted
+GRN-50196,2025-12-03,PO-40191,V-1055,WH-02,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,34,34,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50197,2025-09-21,PO-40192,V-1030,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,15,15,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50198,2025-10-23,PO-40193,V-1046,WH-02,I-5046,Battery Rack 4-Tier MS,Batteries,41,41,0,Nos,Charles Natt,Accepted
+GRN-50199,2025-11-09,PO-40194,V-1022,WH-03,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,45,45,0,Ton,Gauri Bumb,Accepted
+GRN-50200,2025-10-23,PO-40195,V-1036,WH-01,I-5037,MC4 Connector Pair,Solar Panels,22,22,0,Pair,Charles Natt,Accepted
+GRN-50201,2025-09-27,PO-40196,V-1026,WH-02,I-5025,River Sand (fine aggregate),Road Construction Materials,13,13,0,Ton,Forum Chandra,Accepted
+GRN-50202,2026-01-05,PO-40197,V-1037,WH-03,I-5038,Combiner Box 6 in 1 out,Solar Panels,16,16,0,Nos,Inaya Mukherjee,Accepted
+GRN-50203,2026-07-23,PO-40199,V-1046,WH-02,I-5049,Deep Cycle Battery 200Ah,Batteries,9,9,0,Nos,Charles Natt,Accepted
+GRN-50204,2026-02-19,PO-40200,V-1052,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,9,9,0,Nos,Forum Chandra,Accepted
+GRN-50205,2026-05-10,PO-40202,V-1031,WH-03,I-5035,Module Mounting Structure (per kW),Solar Panels,30,30,0,kW Set,Gauri Bumb,Accepted
+GRN-50206,2026-05-27,PO-40203,V-1050,WH-03,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,26,26,0,Nos,Inaya Mukherjee,Accepted
+GRN-50207,2026-01-28,PO-40204,V-1032,WH-03,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,15,15,0,Nos,Inaya Mukherjee,Accepted
+GRN-50208,2026-01-08,PO-40205,V-1029,WH-02,I-5025,River Sand (fine aggregate),Road Construction Materials,40,38,2,Ton,Inaya Mukherjee,Rejected - Partial
+GRN-50209,2026-04-03,PO-40206,V-1058,WH-02,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,33,33,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50210,2026-05-25,PO-40207,V-1023,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,31,31,0,Ton,Gauri Bumb,Accepted
+GRN-50211,2026-05-27,PO-40208,V-1024,WH-03,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,13,13,0,Ton,Inaya Mukherjee,Accepted
+GRN-50212,2026-05-22,PO-40209,V-1015,WH-01,I-5014,MDF Board 12mm (8x4 ft),Carpentry,17,17,0,Sheet,Charles Natt,Accepted
+GRN-50213,2026-03-09,PO-40210,V-1006,WH-02,I-5011,Cable Gland Brass 25mm,Electrical,12,12,0,Nos,Gauri Bumb,Accepted
+GRN-50214,2025-11-02,PO-40211,V-1035,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,14,14,0,Set,Forum Chandra,Accepted
+GRN-50215,2026-04-28,PO-40212,V-1030,WH-01,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,31,31,0,Coil,Lila Rege,Accepted
+GRN-50216,2025-11-20,PO-40213,V-1043,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,40,40,0,Nos,Lila Rege,Accepted
+GRN-50217,2026-02-08,PO-40214,V-1059,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,44,44,0,Nos,Gauri Bumb,Accepted
+GRN-50218,2026-02-13,PO-40215,V-1027,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,15,15,0,Ton,Lila Rege,Accepted
+GRN-50219,2026-04-20,PO-40216,V-1036,WH-02,I-5035,Module Mounting Structure (per kW),Solar Panels,27,27,0,kW Set,Gauri Bumb,Accepted
+GRN-50220,2026-04-11,PO-40217,V-1049,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,41,41,0,Nos,Lila Rege,Accepted
+GRN-50221,2026-02-03,PO-40218,V-1010,WH-01,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,29,29,0,Sheet,Forum Chandra,Accepted
+GRN-50222,2025-10-19,PO-40219,V-1000,WH-03,I-5006,Cable Tray 300mm (2m length),Electrical,41,41,0,Nos,Charles Natt,Accepted
+GRN-50223,2026-03-04,PO-40220,V-1024,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,28,28,0,Drum,Lila Rege,Accepted
+GRN-50224,2026-04-15,PO-40221,V-1049,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,8,8,0,Nos,Gauri Bumb,Accepted
+GRN-50225,2025-11-05,PO-40222,V-1037,WH-01,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,24,24,0,Nos,Lila Rege,Accepted
+GRN-50226,2026-07-01,PO-40223,V-1039,WH-03,I-5035,Module Mounting Structure (per kW),Solar Panels,19,19,0,kW Set,Gauri Bumb,Accepted
+GRN-50227,2025-09-27,PO-40224,V-1028,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,28,28,0,Ton,Forum Chandra,Accepted
+GRN-50228,2025-10-11,PO-40225,V-1030,WH-02,I-5033,Solar Module 550Wp Bifacial,Solar Panels,22,22,0,Nos,Lila Rege,Accepted
+GRN-50229,2026-04-12,PO-40226,V-1001,WH-01,I-5008,Earthing Strip GI 25x3mm,Electrical,14,14,0,Mtr,Bhanumati Krishnan,Accepted
+GRN-50230,2026-06-25,PO-40227,V-1037,WH-02,I-5034,String Inverter 50kW,Solar Panels,5,5,0,Nos,Inaya Mukherjee,Accepted
+GRN-50231,2026-03-05,PO-40228,V-1053,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,6,6,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50232,2025-09-24,PO-40229,V-1055,WH-01,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,37,37,0,Nos,Charles Natt,Accepted
+GRN-50233,2025-11-15,PO-40230,V-1017,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,8,8,0,Pair,Inaya Mukherjee,Accepted
+GRN-50234,2026-03-23,PO-40231,V-1059,WH-02,I-5055,Sanitaryware Wash Basin,Plumbing Materials,9,9,0,Nos,Charles Natt,Accepted
+GRN-50235,2026-05-03,PO-40232,V-1032,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,13,13,0,Nos,Forum Chandra,Accepted
+GRN-50236,2026-05-24,PO-40233,V-1008,WH-03,I-5002,MCB 32A Single Pole,Electrical,8,8,0,Nos,Lila Rege,Accepted
+GRN-50237,2026-07-14,PO-40234,V-1017,WH-01,I-5017,Door Lock Mortise Set,Carpentry,19,19,0,Set,Inaya Mukherjee,Accepted
+GRN-50238,2026-02-22,PO-40235,V-1055,WH-01,I-5052,PVC Elbow 4 inch,Plumbing Materials,29,29,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50239,2026-08-14,PO-40236,V-1009,WH-02,I-5009,Contactor 40A 3 Pole,Electrical,25,25,0,Nos,Inaya Mukherjee,Accepted
+GRN-50240,2026-07-16,PO-40237,V-1050,WH-02,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,23,23,0,Nos,Lila Rege,Accepted
+GRN-50241,2026-07-25,PO-40237,V-1050,WH-03,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,23,23,0,Nos,Gauri Bumb,Accepted
+GRN-50242,2026-06-27,PO-40238,V-1056,WH-03,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,22,22,0,Pcs,Gauri Bumb,Accepted
+GRN-50243,2025-12-23,PO-40239,V-1002,WH-02,I-5008,Earthing Strip GI 25x3mm,Electrical,36,36,0,Mtr,Charles Natt,Accepted
+GRN-50244,2026-04-16,PO-40240,V-1053,WH-02,I-5056,Concealed Cistern with Frame,Plumbing Materials,6,6,0,Set,Gauri Bumb,Accepted
+GRN-50245,2025-11-27,PO-40241,V-1026,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,29,29,0,Ton,Lila Rege,Accepted
+GRN-50246,2026-01-30,PO-40242,V-1036,WH-02,I-5039,Earthing Kit for Module Structure,Solar Panels,8,8,0,Set,Lila Rege,Accepted
+GRN-50247,2026-06-03,PO-40243,V-1050,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,24,24,0,Nos,Charles Natt,Accepted
+GRN-50248,2025-11-03,PO-40244,V-1046,WH-03,I-5049,Deep Cycle Battery 200Ah,Batteries,21,21,0,Nos,Charles Natt,Accepted
+GRN-50249,2025-11-16,PO-40245,V-1036,WH-01,I-5034,String Inverter 50kW,Solar Panels,53,53,0,Nos,Forum Chandra,Accepted
+GRN-50250,2026-05-24,PO-40247,V-1043,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,45,45,0,Nos,Gauri Bumb,Accepted
+GRN-50251,2025-10-15,PO-40248,V-1039,WH-01,I-5035,Module Mounting Structure (per kW),Solar Panels,25,25,0,kW Set,Charles Natt,Accepted
+GRN-50252,2026-02-11,PO-40249,V-1048,WH-03,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,43,43,0,Nos,Gauri Bumb,Accepted
+GRN-50253,2026-05-13,PO-40250,V-1042,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,26,26,0,Nos,Gauri Bumb,Accepted
+GRN-50254,2025-11-22,PO-40251,V-1005,WH-02,I-5010,MCCB 200A,Electrical,15,15,0,Nos,Forum Chandra,Accepted
+GRN-50255,2025-11-22,PO-40252,V-1022,WH-02,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,15,15,0,Bag,Bhanumati Krishnan,Accepted
+GRN-50256,2025-11-29,PO-40252,V-1022,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,15,15,0,Bag,Inaya Mukherjee,Accepted
+GRN-50257,2026-06-08,PO-40253,V-1032,WH-03,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,22,22,0,Nos,Gauri Bumb,Accepted
+GRN-50258,2025-10-10,PO-40254,V-1034,WH-01,I-5037,MC4 Connector Pair,Solar Panels,38,38,0,Pair,Charles Natt,Accepted
+GRN-50259,2025-11-03,PO-40255,V-1048,WH-02,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,6,6,0,Nos,Lila Rege,Accepted
+GRN-50260,2026-07-07,PO-40256,V-1048,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,20,20,0,Nos,Lila Rege,Accepted
+GRN-50261,2026-06-26,PO-40257,V-1039,WH-02,I-5035,Module Mounting Structure (per kW),Solar Panels,14,14,0,kW Set,Lila Rege,Accepted
+GRN-50262,2026-04-30,PO-40258,V-1027,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,13,13,0,Ton,Gauri Bumb,Accepted
+GRN-50263,2025-11-07,PO-40259,V-1043,WH-02,I-5049,Deep Cycle Battery 200Ah,Batteries,17,17,0,Nos,Forum Chandra,Accepted
+GRN-50264,2025-12-13,PO-40260,V-1021,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,33,33,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50265,2025-12-26,PO-40261,V-1028,WH-02,I-5027,Ready Mix Concrete M25,Road Construction Materials,25,25,0,Cum,Bhanumati Krishnan,Accepted
+GRN-50266,2026-02-25,PO-40262,V-1040,WH-02,I-5048,Battery Monitoring System (BMS module),Batteries,26,26,0,Nos,Charles Natt,Accepted
+GRN-50267,2026-03-14,PO-40263,V-1024,WH-03,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,37,37,0,Ton,Forum Chandra,Accepted
+GRN-50268,2026-04-01,PO-40264,V-1022,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,8,8,0,Roll,Bhanumati Krishnan,Accepted
+GRN-50269,2026-06-13,PO-40265,V-1039,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,37,37,0,Set,Gauri Bumb,Accepted
+GRN-50270,2026-05-17,PO-40266,V-1021,WH-02,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,13,13,0,Roll,Gauri Bumb,Accepted
+GRN-50271,2026-07-07,PO-40267,V-1020,WH-02,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,31,31,0,Ton,Gauri Bumb,Accepted
+GRN-50272,2026-02-13,PO-40268,V-1049,WH-03,I-5042,Tubular Battery 150Ah C10,Batteries,21,21,0,Nos,Inaya Mukherjee,Accepted
+GRN-50273,2026-05-16,PO-40269,V-1019,WH-01,I-5015,Hinges SS 4 inch,Carpentry,37,37,0,Pair,Bhanumati Krishnan,Accepted
+GRN-50274,2026-08-24,PO-40270,V-1044,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,28,28,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50275,2025-11-04,PO-40271,V-1055,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,15,15,0,Pcs,Charles Natt,Accepted
+GRN-50276,2025-11-13,PO-40271,V-1055,WH-03,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,15,15,0,Pcs,Forum Chandra,Accepted
+GRN-50277,2026-06-08,PO-40272,V-1000,WH-03,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,19,19,0,Coil,Gauri Bumb,Accepted
+GRN-50278,2026-08-11,PO-40273,V-1004,WH-02,I-5010,MCCB 200A,Electrical,24,24,0,Nos,Inaya Mukherjee,Accepted
+GRN-50279,2026-04-01,PO-40274,V-1011,WH-01,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,26,26,0,Sheet,Gauri Bumb,Accepted
+GRN-50280,2025-10-28,PO-40275,V-1057,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,15,15,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50281,2025-11-11,PO-40275,V-1057,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,15,15,0,Nos,Inaya Mukherjee,Accepted
+GRN-50282,2025-12-02,PO-40276,V-1021,WH-02,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,18,18,0,Ton,Forum Chandra,Accepted
+GRN-50283,2026-04-03,PO-40277,V-1033,WH-01,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,18,18,0,Coil,Gauri Bumb,Accepted
+GRN-50284,2025-10-13,PO-40278,V-1058,WH-01,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,30,30,0,Pcs,Inaya Mukherjee,Accepted
+GRN-50285,2026-08-12,PO-40279,V-1001,WH-02,I-5011,Cable Gland Brass 25mm,Electrical,20,20,0,Nos,Gauri Bumb,Accepted
+GRN-50286,2025-11-14,PO-40280,V-1039,WH-01,I-5037,MC4 Connector Pair,Solar Panels,6,6,0,Pair,Inaya Mukherjee,Accepted
+GRN-50287,2026-07-27,PO-40281,V-1000,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,14,14,0,Coil,Bhanumati Krishnan,Accepted
+GRN-50288,2026-01-20,PO-40282,V-1031,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,13,13,0,Nos,Gauri Bumb,Accepted
+GRN-50289,2026-06-09,PO-40283,V-1021,WH-01,I-5030,Kerb Stone Precast,Road Construction Materials,66,66,0,Nos,Inaya Mukherjee,Accepted
+GRN-50290,2025-10-05,PO-40284,V-1031,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,15,15,0,Set,Inaya Mukherjee,Accepted
+GRN-50291,2026-01-16,PO-40285,V-1029,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,7,7,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50292,2026-01-04,PO-40286,V-1027,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,32,32,0,Drum,Charles Natt,Accepted
+GRN-50293,2025-10-20,PO-40287,V-1057,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,25,25,0,Nos,Charles Natt,Accepted
+GRN-50294,2026-05-19,PO-40288,V-1051,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,21,21,0,Pcs,Bhanumati Krishnan,Accepted
+GRN-50295,2025-12-19,PO-40290,V-1055,WH-02,I-5056,Concealed Cistern with Frame,Plumbing Materials,8,8,0,Set,Gauri Bumb,Accepted
+GRN-50296,2026-06-13,PO-40291,V-1040,WH-02,I-5042,Tubular Battery 150Ah C10,Batteries,10,10,0,Nos,Charles Natt,Accepted
+GRN-50297,2025-12-25,PO-40292,V-1036,WH-02,I-5041,Solar Cable Gland Set,Solar Panels,19,19,0,Set,Lila Rege,Accepted
+GRN-50298,2026-07-23,PO-40293,V-1057,WH-03,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,14,14,0,Nos,Lila Rege,Accepted
+GRN-50299,2026-06-17,PO-40294,V-1007,WH-01,I-5003,Distribution Board 8-Way,Electrical,20,20,0,Nos,Charles Natt,Accepted
+GRN-50300,2026-05-26,PO-40295,V-1039,WH-01,I-5037,MC4 Connector Pair,Solar Panels,22,22,0,Pair,Forum Chandra,Accepted
+GRN-50301,2026-07-22,PO-40296,V-1022,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,27,27,0,Ton,Forum Chandra,Accepted
+GRN-50302,2025-11-22,PO-40297,V-1026,WH-02,I-5027,Ready Mix Concrete M25,Road Construction Materials,9,9,0,Cum,Gauri Bumb,Accepted
+GRN-50303,2025-12-05,PO-40298,V-1050,WH-03,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,14,14,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50304,2026-01-21,PO-40299,V-1011,WH-02,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,11,11,0,Roll,Lila Rege,Accepted
+GRN-50305,2026-04-07,PO-40300,V-1041,WH-01,I-5047,Battery Interconnect Cable Set,Batteries,13,13,0,Set,Inaya Mukherjee,Accepted
+GRN-50306,2025-11-26,PO-40301,V-1048,WH-01,I-5048,Battery Monitoring System (BMS module),Batteries,9,9,0,Nos,Forum Chandra,Accepted
+GRN-50307,2025-11-21,PO-40301,V-1048,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,10,10,0,Nos,Forum Chandra,Accepted
+GRN-50308,2026-05-13,PO-40302,V-1044,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,47,47,0,Nos,Inaya Mukherjee,Accepted
+GRN-50309,2026-07-26,PO-40303,V-1027,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,50,50,0,Ton,Gauri Bumb,Accepted
+GRN-50310,2025-10-06,PO-40304,V-1004,WH-02,I-5002,MCB 32A Single Pole,Electrical,24,24,0,Nos,Charles Natt,Accepted
+GRN-50311,2026-03-22,PO-40305,V-1044,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,18,18,0,Nos,Charles Natt,Accepted
+GRN-50312,2026-03-14,PO-40306,V-1024,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,18,18,0,Drum,Charles Natt,Accepted
+GRN-50313,2026-04-26,PO-40307,V-1007,WH-02,I-5007,Junction Box IP65,Electrical,37,37,0,Nos,Lila Rege,Accepted
+GRN-50314,2025-10-04,PO-40308,V-1012,WH-02,I-5017,Door Lock Mortise Set,Carpentry,25,25,0,Set,Lila Rege,Accepted
+GRN-50315,2025-10-04,PO-40309,V-1009,WH-01,I-5008,Earthing Strip GI 25x3mm,Electrical,18,18,0,Mtr,Bhanumati Krishnan,Accepted
+GRN-50316,2025-11-09,PO-40310,V-1048,WH-01,I-5047,Battery Interconnect Cable Set,Batteries,22,22,0,Set,Inaya Mukherjee,Accepted
+GRN-50317,2026-06-06,PO-40311,V-1022,WH-03,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,23,23,0,Bag,Charles Natt,Accepted
+GRN-50318,2025-11-19,PO-40312,V-1049,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,15,14,1,Nos,Gauri Bumb,Rejected - Partial
+GRN-50319,2026-08-03,PO-40313,V-1020,WH-02,I-5025,River Sand (fine aggregate),Road Construction Materials,23,23,0,Ton,Lila Rege,Accepted
+GRN-50320,2026-03-23,PO-40315,V-1058,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,26,26,0,Pcs,Lila Rege,Accepted
+GRN-50321,2026-05-19,PO-40316,V-1036,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,12,12,0,Set,Lila Rege,Accepted
+GRN-50322,2026-04-06,PO-40317,V-1033,WH-01,I-5037,MC4 Connector Pair,Solar Panels,28,28,0,Pair,Charles Natt,Accepted
+GRN-50323,2026-06-08,PO-40318,V-1056,WH-01,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,33,33,0,Nos,Inaya Mukherjee,Accepted
+GRN-50324,2026-02-06,PO-40319,V-1041,WH-03,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,28,28,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50325,2026-04-19,PO-40320,V-1047,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,11,11,0,Nos,Inaya Mukherjee,Accepted
+GRN-50326,2025-12-08,PO-40321,V-1011,WH-01,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,38,38,0,Sheet,Gauri Bumb,Accepted
+GRN-50327,2026-05-01,PO-40322,V-1004,WH-01,I-5004,LED Flood Light 100W,Electrical,17,17,0,Nos,Lila Rege,Accepted
+GRN-50328,2025-10-24,PO-40323,V-1041,WH-03,I-5042,Tubular Battery 150Ah C10,Batteries,9,9,0,Nos,Gauri Bumb,Accepted
+GRN-50329,2026-07-20,PO-40324,V-1053,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,29,29,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50330,2026-03-05,PO-40325,V-1022,WH-03,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,4,4,0,Ton,Gauri Bumb,Accepted
+GRN-50331,2026-01-18,PO-40326,V-1031,WH-01,I-5035,Module Mounting Structure (per kW),Solar Panels,28,27,1,kW Set,Forum Chandra,Rejected - Partial
+GRN-50332,2026-08-16,PO-40327,V-1056,WH-02,I-5055,Sanitaryware Wash Basin,Plumbing Materials,47,47,0,Nos,Forum Chandra,Accepted
+GRN-50333,2025-10-14,PO-40328,V-1026,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,16,16,0,Bag,Inaya Mukherjee,Accepted
+GRN-50334,2026-02-24,PO-40329,V-1045,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,16,16,0,Nos,Gauri Bumb,Accepted
+GRN-50335,2026-01-23,PO-40330,V-1052,WH-02,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,35,35,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50336,2025-11-20,PO-40331,V-1043,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,19,19,0,Nos,Charles Natt,Accepted
+GRN-50337,2025-09-13,PO-40332,V-1036,WH-01,I-5033,Solar Module 550Wp Bifacial,Solar Panels,15,15,0,Nos,Charles Natt,Accepted
+GRN-50338,2026-01-23,PO-40333,V-1008,WH-01,I-5002,MCB 32A Single Pole,Electrical,8,8,0,Nos,Forum Chandra,Accepted
+GRN-50339,2026-06-19,PO-40334,V-1032,WH-01,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,19,19,0,Coil,Bhanumati Krishnan,Accepted
+GRN-50340,2025-10-07,PO-40335,V-1052,WH-01,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,20,20,0,Nos,Gauri Bumb,Accepted
+GRN-50341,2026-06-10,PO-40336,V-1055,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,11,11,0,Pcs,Lila Rege,Accepted
+GRN-50342,2026-08-21,PO-40337,V-1006,WH-03,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,13,12,1,Mtr,Lila Rege,Rejected - Partial
+GRN-50343,2025-11-28,PO-40338,V-1019,WH-01,I-5014,MDF Board 12mm (8x4 ft),Carpentry,16,16,0,Sheet,Bhanumati Krishnan,Accepted
+GRN-50344,2026-07-26,PO-40339,V-1047,WH-01,I-5047,Battery Interconnect Cable Set,Batteries,32,32,0,Set,Bhanumati Krishnan,Accepted
+GRN-50345,2026-02-13,PO-40340,V-1046,WH-01,I-5048,Battery Monitoring System (BMS module),Batteries,24,24,0,Nos,Gauri Bumb,Accepted
+GRN-50346,2025-12-19,PO-40341,V-1037,WH-01,I-5034,String Inverter 50kW,Solar Panels,60,60,0,Nos,Gauri Bumb,Accepted
+GRN-50347,2025-11-12,PO-40342,V-1009,WH-02,I-5006,Cable Tray 300mm (2m length),Electrical,16,16,0,Nos,Inaya Mukherjee,Accepted
+GRN-50348,2026-05-07,PO-40343,V-1032,WH-02,I-5035,Module Mounting Structure (per kW),Solar Panels,14,14,0,kW Set,Bhanumati Krishnan,Accepted
+GRN-50349,2026-02-12,PO-40345,V-1037,WH-02,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,30,30,0,Nos,Forum Chandra,Accepted
+GRN-50350,2026-05-13,PO-40346,V-1037,WH-03,I-5037,MC4 Connector Pair,Solar Panels,18,18,0,Pair,Inaya Mukherjee,Accepted
+GRN-50351,2026-05-11,PO-40347,V-1042,WH-01,I-5047,Battery Interconnect Cable Set,Batteries,14,14,0,Set,Bhanumati Krishnan,Accepted
+GRN-50352,2026-03-30,PO-40348,V-1021,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,35,35,0,Drum,Forum Chandra,Accepted
+GRN-50353,2026-06-07,PO-40349,V-1044,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,39,39,0,Nos,Charles Natt,Accepted
+GRN-50354,2026-01-15,PO-40350,V-1046,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,61,61,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50355,2026-06-03,PO-40351,V-1026,WH-03,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,8,8,0,Bag,Inaya Mukherjee,Accepted
+GRN-50356,2026-06-13,PO-40351,V-1026,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,9,9,0,Bag,Forum Chandra,Accepted
+GRN-50357,2026-07-30,PO-40352,V-1033,WH-02,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,19,19,0,Nos,Charles Natt,Accepted
+GRN-50358,2026-02-13,PO-40354,V-1007,WH-01,I-5005,Modular Switch 6A,Electrical,31,31,0,Nos,Inaya Mukherjee,Accepted
+GRN-50359,2026-07-28,PO-40355,V-1032,WH-02,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,26,26,0,Nos,Forum Chandra,Accepted
+GRN-50360,2026-05-02,PO-40356,V-1009,WH-02,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,12,12,0,Mtr,Bhanumati Krishnan,Accepted
+GRN-50361,2026-06-05,PO-40357,V-1048,WH-03,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,28,28,0,Nos,Forum Chandra,Accepted
+GRN-50362,2026-07-19,PO-40358,V-1004,WH-02,I-5005,Modular Switch 6A,Electrical,76,76,0,Nos,Lila Rege,Accepted
+GRN-50363,2025-12-31,PO-40359,V-1056,WH-02,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,31,30,1,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50364,2026-05-02,PO-40360,V-1039,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,20,20,0,Set,Inaya Mukherjee,Accepted
+GRN-50365,2026-02-14,PO-40362,V-1008,WH-03,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,11,11,0,Mtr,Forum Chandra,Accepted
+GRN-50366,2025-10-02,PO-40363,V-1055,WH-02,I-5052,PVC Elbow 4 inch,Plumbing Materials,19,19,0,Nos,Gauri Bumb,Accepted
+GRN-50367,2025-10-18,PO-40364,V-1053,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,9,9,0,Nos,Gauri Bumb,Accepted
+GRN-50368,2025-12-23,PO-40365,V-1028,WH-02,I-5030,Kerb Stone Precast,Road Construction Materials,53,48,5,Nos,Inaya Mukherjee,Rejected - Partial
+GRN-50369,2026-02-16,PO-40366,V-1003,WH-02,I-5007,Junction Box IP65,Electrical,4,4,0,Nos,Forum Chandra,Accepted
+GRN-50370,2026-04-29,PO-40367,V-1044,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,43,43,0,Nos,Gauri Bumb,Accepted
+GRN-50371,2025-09-16,PO-40368,V-1036,WH-03,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,64,64,0,Nos,Inaya Mukherjee,Accepted
+GRN-50372,2026-04-13,PO-40369,V-1045,WH-02,I-5047,Battery Interconnect Cable Set,Batteries,59,58,1,Set,Inaya Mukherjee,Rejected - Partial
+GRN-50373,2025-12-23,PO-40370,V-1032,WH-03,I-5039,Earthing Kit for Module Structure,Solar Panels,39,39,0,Set,Charles Natt,Accepted
+GRN-50374,2026-06-17,PO-40371,V-1040,WH-02,I-5042,Tubular Battery 150Ah C10,Batteries,23,23,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50375,2026-06-19,PO-40371,V-1040,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,24,24,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50376,2025-12-30,PO-40372,V-1054,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,28,28,0,Pcs,Inaya Mukherjee,Accepted
+GRN-50377,2026-01-28,PO-40373,V-1019,WH-01,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,9,9,0,Sheet,Lila Rege,Accepted
+GRN-50378,2025-10-07,PO-40374,V-1000,WH-02,I-5002,MCB 32A Single Pole,Electrical,23,23,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50379,2026-05-03,PO-40375,V-1051,WH-01,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,23,23,0,Pcs,Gauri Bumb,Accepted
+GRN-50380,2026-05-06,PO-40375,V-1051,WH-01,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,24,24,0,Pcs,Bhanumati Krishnan,Accepted
+GRN-50381,2025-11-20,PO-40376,V-1038,WH-02,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,14,14,0,Nos,Lila Rege,Accepted
+GRN-50382,2026-05-06,PO-40377,V-1026,WH-03,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,27,27,0,Ton,Inaya Mukherjee,Accepted
+GRN-50383,2026-04-12,PO-40378,V-1015,WH-02,I-5017,Door Lock Mortise Set,Carpentry,20,20,0,Set,Forum Chandra,Accepted
+GRN-50384,2025-12-01,PO-40379,V-1004,WH-03,I-5004,LED Flood Light 100W,Electrical,16,16,0,Nos,Forum Chandra,Accepted
+GRN-50385,2025-12-12,PO-40379,V-1004,WH-01,I-5004,LED Flood Light 100W,Electrical,17,17,0,Nos,Forum Chandra,Accepted
+GRN-50386,2025-11-28,PO-40380,V-1003,WH-01,I-5002,MCB 32A Single Pole,Electrical,41,41,0,Nos,Charles Natt,Accepted
+GRN-50387,2026-01-10,PO-40381,V-1058,WH-01,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,27,27,0,Nos,Forum Chandra,Accepted
+GRN-50388,2026-05-15,PO-40382,V-1015,WH-02,I-5015,Hinges SS 4 inch,Carpentry,15,15,0,Pair,Charles Natt,Accepted
+GRN-50389,2026-04-27,PO-40383,V-1027,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,35,34,1,Ton,Gauri Bumb,Rejected - Partial
+GRN-50390,2025-11-14,PO-40384,V-1054,WH-03,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,31,28,3,Pcs,Inaya Mukherjee,Rejected - Partial
+GRN-50391,2026-04-07,PO-40385,V-1012,WH-02,I-5017,Door Lock Mortise Set,Carpentry,16,16,0,Set,Gauri Bumb,Accepted
+GRN-50392,2026-01-04,PO-40386,V-1048,WH-02,I-5047,Battery Interconnect Cable Set,Batteries,8,8,0,Set,Bhanumati Krishnan,Accepted
+GRN-50393,2026-06-25,PO-40387,V-1022,WH-02,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,40,38,2,Ton,Bhanumati Krishnan,Rejected - Partial
+GRN-50394,2026-06-15,PO-40388,V-1054,WH-03,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,15,15,0,Pcs,Gauri Bumb,Accepted
+GRN-50395,2026-02-18,PO-40389,V-1015,WH-01,I-5015,Hinges SS 4 inch,Carpentry,11,11,0,Pair,Inaya Mukherjee,Accepted
+GRN-50396,2025-12-04,PO-40390,V-1027,WH-03,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,23,23,0,Ton,Gauri Bumb,Accepted
+GRN-50397,2026-04-30,PO-40391,V-1054,WH-02,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,11,11,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50398,2026-01-15,PO-40392,V-1031,WH-02,I-5033,Solar Module 550Wp Bifacial,Solar Panels,29,29,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50399,2026-04-16,PO-40393,V-1025,WH-01,I-5027,Ready Mix Concrete M25,Road Construction Materials,23,23,0,Cum,Bhanumati Krishnan,Accepted
+GRN-50400,2025-12-06,PO-40394,V-1040,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,15,15,0,Nos,Inaya Mukherjee,Accepted
+GRN-50401,2026-04-03,PO-40395,V-1043,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,22,22,0,Nos,Lila Rege,Accepted
+GRN-50402,2025-12-08,PO-40396,V-1013,WH-01,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,17,17,0,Sheet,Forum Chandra,Accepted
+GRN-50403,2025-12-16,PO-40396,V-1013,WH-01,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,17,17,0,Sheet,Charles Natt,Accepted
+GRN-50404,2025-11-20,PO-40398,V-1057,WH-02,I-5056,Concealed Cistern with Frame,Plumbing Materials,22,22,0,Set,Inaya Mukherjee,Accepted
+GRN-50405,2025-11-26,PO-40399,V-1012,WH-02,I-5021,Adhesive Fevicol SH (5kg),Carpentry,44,44,0,Can,Charles Natt,Accepted
+GRN-50406,2026-02-08,PO-40400,V-1054,WH-02,I-5052,PVC Elbow 4 inch,Plumbing Materials,11,11,0,Nos,Inaya Mukherjee,Accepted
+GRN-50407,2026-02-15,PO-40400,V-1054,WH-01,I-5052,PVC Elbow 4 inch,Plumbing Materials,11,11,0,Nos,Forum Chandra,Accepted
+GRN-50408,2026-01-09,PO-40401,V-1033,WH-01,I-5035,Module Mounting Structure (per kW),Solar Panels,17,17,0,kW Set,Inaya Mukherjee,Accepted
+GRN-50409,2026-05-21,PO-40402,V-1027,WH-03,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,25,25,0,Ton,Gauri Bumb,Accepted
+GRN-50410,2026-05-03,PO-40403,V-1027,WH-02,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,10,10,0,Drum,Forum Chandra,Accepted
+GRN-50411,2026-02-06,PO-40404,V-1000,WH-03,I-5006,Cable Tray 300mm (2m length),Electrical,22,22,0,Nos,Forum Chandra,Accepted
+GRN-50412,2025-10-08,PO-40405,V-1039,WH-01,I-5034,String Inverter 50kW,Solar Panels,18,18,0,Nos,Forum Chandra,Accepted
+GRN-50413,2025-11-02,PO-40406,V-1033,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,13,13,0,Nos,Lila Rege,Accepted
+GRN-50414,2025-12-22,PO-40407,V-1011,WH-01,I-5018,Wood Screws 2 inch (box of 100),Carpentry,44,44,0,Box,Charles Natt,Accepted
+GRN-50415,2025-12-20,PO-40408,V-1009,WH-01,I-5010,MCCB 200A,Electrical,19,19,0,Nos,Lila Rege,Accepted
+GRN-50416,2026-07-24,PO-40409,V-1025,WH-03,I-5027,Ready Mix Concrete M25,Road Construction Materials,30,29,1,Cum,Lila Rege,Rejected - Partial
+GRN-50417,2026-06-01,PO-40410,V-1025,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,13,13,0,Ton,Gauri Bumb,Accepted
+GRN-50418,2026-03-30,PO-40411,V-1058,WH-02,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,48,48,0,Pcs,Gauri Bumb,Accepted
+GRN-50419,2026-04-11,PO-40413,V-1052,WH-03,I-5055,Sanitaryware Wash Basin,Plumbing Materials,10,10,0,Nos,Gauri Bumb,Accepted
+GRN-50420,2026-08-10,PO-40414,V-1041,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,9,9,0,Nos,Inaya Mukherjee,Accepted
+GRN-50421,2026-04-01,PO-40415,V-1026,WH-02,I-5027,Ready Mix Concrete M25,Road Construction Materials,19,19,0,Cum,Charles Natt,Accepted
+GRN-50422,2026-01-11,PO-40416,V-1020,WH-03,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,43,43,0,Drum,Gauri Bumb,Accepted
+GRN-50423,2026-03-15,PO-40417,V-1050,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,13,12,1,Pcs,Charles Natt,Rejected - Partial
+GRN-50424,2026-05-24,PO-40418,V-1023,WH-02,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,7,7,0,Ton,Lila Rege,Accepted
+GRN-50425,2026-05-17,PO-40419,V-1000,WH-03,I-5002,MCB 32A Single Pole,Electrical,30,30,0,Nos,Inaya Mukherjee,Accepted
+GRN-50426,2025-11-06,PO-40420,V-1006,WH-02,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,31,31,0,Mtr,Charles Natt,Accepted
+GRN-50427,2026-08-19,PO-40421,V-1031,WH-02,I-5039,Earthing Kit for Module Structure,Solar Panels,39,39,0,Set,Gauri Bumb,Accepted
+GRN-50428,2026-08-15,PO-40422,V-1018,WH-02,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,10,10,0,Sheet,Gauri Bumb,Accepted
+GRN-50429,2026-08-21,PO-40422,V-1018,WH-01,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,10,10,0,Sheet,Inaya Mukherjee,Accepted
+GRN-50430,2026-04-27,PO-40423,V-1008,WH-01,I-5008,Earthing Strip GI 25x3mm,Electrical,32,32,0,Mtr,Gauri Bumb,Accepted
+GRN-50431,2026-02-22,PO-40424,V-1005,WH-01,I-5008,Earthing Strip GI 25x3mm,Electrical,24,24,0,Mtr,Lila Rege,Accepted
+GRN-50432,2026-06-30,PO-40425,V-1058,WH-01,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,15,15,0,Nos,Forum Chandra,Accepted
+GRN-50433,2026-01-29,PO-40426,V-1008,WH-02,I-5011,Cable Gland Brass 25mm,Electrical,12,12,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50434,2026-06-22,PO-40427,V-1002,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,21,19,2,Coil,Lila Rege,Rejected - Partial
+GRN-50435,2026-05-21,PO-40428,V-1059,WH-03,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,33,33,0,Nos,Inaya Mukherjee,Accepted
+GRN-50436,2026-05-28,PO-40429,V-1032,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,52,52,0,Nos,Forum Chandra,Accepted
+GRN-50437,2026-04-22,PO-40430,V-1033,WH-02,I-5034,String Inverter 50kW,Solar Panels,11,11,0,Nos,Lila Rege,Accepted
+GRN-50438,2026-05-01,PO-40430,V-1033,WH-01,I-5034,String Inverter 50kW,Solar Panels,11,11,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50439,2026-05-21,PO-40431,V-1030,WH-02,I-5034,String Inverter 50kW,Solar Panels,11,11,0,Nos,Charles Natt,Accepted
+GRN-50440,2026-05-26,PO-40431,V-1030,WH-03,I-5034,String Inverter 50kW,Solar Panels,12,12,0,Nos,Inaya Mukherjee,Accepted
+GRN-50441,2025-11-17,PO-40433,V-1019,WH-03,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,80,76,4,Roll,Bhanumati Krishnan,Rejected - Partial
+GRN-50442,2026-01-08,PO-40434,V-1004,WH-03,I-5007,Junction Box IP65,Electrical,24,24,0,Nos,Gauri Bumb,Accepted
+GRN-50443,2026-05-01,PO-40435,V-1000,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,10,10,0,Nos,Charles Natt,Accepted
+GRN-50444,2026-04-20,PO-40436,V-1056,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,17,17,0,Pcs,Forum Chandra,Accepted
+GRN-50445,2026-07-15,PO-40437,V-1046,WH-02,I-5048,Battery Monitoring System (BMS module),Batteries,23,23,0,Nos,Forum Chandra,Accepted
+GRN-50446,2026-01-08,PO-40438,V-1032,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,52,52,0,Nos,Lila Rege,Accepted
+GRN-50447,2025-09-30,PO-40439,V-1036,WH-01,I-5033,Solar Module 550Wp Bifacial,Solar Panels,17,17,0,Nos,Forum Chandra,Accepted
+GRN-50448,2025-10-03,PO-40440,V-1027,WH-01,I-5027,Ready Mix Concrete M25,Road Construction Materials,16,16,0,Cum,Forum Chandra,Accepted
+GRN-50449,2026-03-01,PO-40441,V-1045,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,4,4,0,Nos,Inaya Mukherjee,Accepted
+GRN-50450,2026-04-23,PO-40442,V-1043,WH-02,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,21,21,0,Nos,Gauri Bumb,Accepted
+GRN-50451,2026-04-28,PO-40443,V-1022,WH-03,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,37,37,0,Ton,Lila Rege,Accepted
+GRN-50452,2026-06-05,PO-40444,V-1026,WH-01,I-5030,Kerb Stone Precast,Road Construction Materials,21,21,0,Nos,Inaya Mukherjee,Accepted
+GRN-50453,2026-02-19,PO-40445,V-1048,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,11,11,0,Nos,Charles Natt,Accepted
+GRN-50454,2026-06-11,PO-40446,V-1058,WH-03,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,21,21,0,Nos,Inaya Mukherjee,Accepted
+GRN-50455,2026-04-06,PO-40447,V-1007,WH-03,I-5011,Cable Gland Brass 25mm,Electrical,5,5,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50456,2025-11-01,PO-40448,V-1027,WH-03,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,35,34,1,Ton,Inaya Mukherjee,Rejected - Partial
+GRN-50457,2025-10-28,PO-40449,V-1016,WH-02,I-5018,Wood Screws 2 inch (box of 100),Carpentry,24,24,0,Box,Lila Rege,Accepted
+GRN-50458,2025-11-14,PO-40450,V-1037,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,6,6,0,Nos,Gauri Bumb,Accepted
+GRN-50459,2025-11-14,PO-40450,V-1037,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,6,6,0,Nos,Forum Chandra,Accepted
+GRN-50460,2026-03-11,PO-40452,V-1059,WH-02,I-5054,Water Tank 1000L HDPE,Plumbing Materials,28,28,0,Nos,Charles Natt,Accepted
+GRN-50461,2026-02-01,PO-40453,V-1020,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,45,45,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50462,2026-03-06,PO-40454,V-1016,WH-02,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,25,25,0,Sheet,Gauri Bumb,Accepted
+GRN-50463,2026-04-07,PO-40455,V-1023,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,22,22,0,Roll,Charles Natt,Accepted
+GRN-50464,2026-06-19,PO-40456,V-1012,WH-02,I-5014,MDF Board 12mm (8x4 ft),Carpentry,79,79,0,Sheet,Inaya Mukherjee,Accepted
+GRN-50465,2025-11-27,PO-40457,V-1002,WH-02,I-5005,Modular Switch 6A,Electrical,11,11,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50466,2025-10-06,PO-40458,V-1007,WH-01,I-5010,MCCB 200A,Electrical,13,13,0,Nos,Charles Natt,Accepted
+GRN-50467,2025-10-12,PO-40458,V-1007,WH-01,I-5010,MCCB 200A,Electrical,14,14,0,Nos,Lila Rege,Accepted
+GRN-50468,2026-05-14,PO-40459,V-1035,WH-02,I-5033,Solar Module 550Wp Bifacial,Solar Panels,14,14,0,Nos,Forum Chandra,Accepted
+GRN-50469,2025-09-27,PO-40460,V-1001,WH-01,I-5009,Contactor 40A 3 Pole,Electrical,4,4,0,Nos,Forum Chandra,Accepted
+GRN-50470,2026-04-07,PO-40461,V-1038,WH-01,I-5037,MC4 Connector Pair,Solar Panels,6,6,0,Pair,Gauri Bumb,Accepted
+GRN-50471,2026-07-24,PO-40463,V-1051,WH-01,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,17,17,0,Nos,Forum Chandra,Accepted
+GRN-50472,2026-07-02,PO-40464,V-1052,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,14,13,1,Pcs,Inaya Mukherjee,Rejected - Partial
+GRN-50473,2025-10-16,PO-40465,V-1001,WH-01,I-5010,MCCB 200A,Electrical,56,55,1,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50474,2025-11-13,PO-40466,V-1033,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,22,20,2,Set,Inaya Mukherjee,Rejected - Partial
+GRN-50475,2026-04-18,PO-40468,V-1011,WH-01,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,16,16,0,Sheet,Lila Rege,Accepted
+GRN-50476,2026-04-14,PO-40469,V-1009,WH-02,I-5005,Modular Switch 6A,Electrical,21,21,0,Nos,Gauri Bumb,Accepted
+GRN-50477,2026-03-31,PO-40470,V-1009,WH-02,I-5010,MCCB 200A,Electrical,6,6,0,Nos,Charles Natt,Accepted
+GRN-50478,2025-10-05,PO-40471,V-1051,WH-02,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,24,24,0,Nos,Gauri Bumb,Accepted
+GRN-50479,2026-05-05,PO-40472,V-1004,WH-03,I-5002,MCB 32A Single Pole,Electrical,25,23,2,Nos,Lila Rege,Rejected - Partial
+GRN-50480,2026-07-28,PO-40473,V-1006,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,12,12,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50481,2026-04-13,PO-40474,V-1058,WH-02,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,4,4,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50482,2026-04-21,PO-40474,V-1058,WH-01,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,4,4,0,Nos,Forum Chandra,Accepted
+GRN-50483,2026-07-12,PO-40475,V-1020,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,23,21,2,Ton,Forum Chandra,Rejected - Partial
+GRN-50484,2026-08-07,PO-40476,V-1042,WH-02,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,25,25,0,Nos,Gauri Bumb,Accepted
+GRN-50485,2025-11-18,PO-40477,V-1033,WH-03,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,28,28,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50486,2026-04-17,PO-40478,V-1051,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,24,24,0,Nos,Charles Natt,Accepted
+GRN-50487,2026-05-14,PO-40479,V-1051,WH-01,I-5055,Sanitaryware Wash Basin,Plumbing Materials,16,16,0,Nos,Forum Chandra,Accepted
+GRN-50488,2026-02-03,PO-40480,V-1017,WH-01,I-5014,MDF Board 12mm (8x4 ft),Carpentry,20,19,1,Sheet,Charles Natt,Rejected - Partial
+GRN-50489,2026-02-13,PO-40481,V-1004,WH-01,I-5009,Contactor 40A 3 Pole,Electrical,20,20,0,Nos,Inaya Mukherjee,Accepted
+GRN-50490,2026-07-10,PO-40482,V-1050,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,30,30,0,Nos,Inaya Mukherjee,Accepted
+GRN-50491,2025-09-30,PO-40483,V-1008,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,94,94,0,Nos,Forum Chandra,Accepted
+GRN-50492,2026-02-27,PO-40484,V-1024,WH-02,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,28,28,0,Ton,Charles Natt,Accepted
+GRN-50493,2026-02-07,PO-40485,V-1050,WH-01,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,19,19,0,Nos,Forum Chandra,Accepted
+GRN-50494,2026-07-26,PO-40486,V-1041,WH-01,I-5049,Deep Cycle Battery 200Ah,Batteries,19,19,0,Nos,Forum Chandra,Accepted
+GRN-50495,2026-02-03,PO-40487,V-1032,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,17,17,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50496,2026-05-15,PO-40489,V-1008,WH-01,I-5003,Distribution Board 8-Way,Electrical,15,15,0,Nos,Charles Natt,Accepted
+GRN-50497,2025-12-30,PO-40490,V-1059,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,28,28,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50498,2025-11-11,PO-40491,V-1028,WH-02,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,32,32,0,Drum,Inaya Mukherjee,Accepted
+GRN-50499,2026-06-08,PO-40492,V-1001,WH-01,I-5004,LED Flood Light 100W,Electrical,12,12,0,Nos,Gauri Bumb,Accepted
+GRN-50500,2026-01-25,PO-40493,V-1029,WH-02,I-5025,River Sand (fine aggregate),Road Construction Materials,13,13,0,Ton,Inaya Mukherjee,Accepted
+GRN-50501,2026-07-10,PO-40494,V-1039,WH-02,I-5039,Earthing Kit for Module Structure,Solar Panels,21,21,0,Set,Lila Rege,Accepted
+GRN-50502,2026-08-27,PO-40495,V-1045,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,11,11,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50503,2026-02-28,PO-40497,V-1015,WH-02,I-5017,Door Lock Mortise Set,Carpentry,12,12,0,Set,Forum Chandra,Accepted
+GRN-50504,2025-10-10,PO-40498,V-1027,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,31,31,0,Drum,Forum Chandra,Accepted
+GRN-50505,2026-05-16,PO-40499,V-1011,WH-02,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,21,21,0,Sheet,Forum Chandra,Accepted
+GRN-50506,2026-07-08,PO-40500,V-1012,WH-01,I-5018,Wood Screws 2 inch (box of 100),Carpentry,22,22,0,Box,Inaya Mukherjee,Accepted
+GRN-50507,2026-07-22,PO-40501,V-1009,WH-02,I-5002,MCB 32A Single Pole,Electrical,9,9,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50508,2026-08-07,PO-40502,V-1005,WH-01,I-5004,LED Flood Light 100W,Electrical,28,28,0,Nos,Charles Natt,Accepted
+GRN-50509,2026-08-06,PO-40503,V-1009,WH-01,I-5010,MCCB 200A,Electrical,13,13,0,Nos,Lila Rege,Accepted
+GRN-50510,2025-11-12,PO-40504,V-1029,WH-03,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,17,17,0,Bag,Inaya Mukherjee,Accepted
+GRN-50511,2026-02-17,PO-40505,V-1016,WH-01,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,36,36,0,Sheet,Lila Rege,Accepted
+GRN-50512,2026-04-06,PO-40506,V-1015,WH-01,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,13,13,0,Roll,Inaya Mukherjee,Accepted
+GRN-50513,2026-08-19,PO-40507,V-1039,WH-02,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,20,20,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50514,2025-10-10,PO-40508,V-1045,WH-01,I-5048,Battery Monitoring System (BMS module),Batteries,19,19,0,Nos,Inaya Mukherjee,Accepted
+GRN-50515,2026-01-10,PO-40509,V-1020,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,45,43,2,Drum,Bhanumati Krishnan,Rejected - Partial
+GRN-50516,2025-12-16,PO-40510,V-1048,WH-02,I-5049,Deep Cycle Battery 200Ah,Batteries,12,12,0,Nos,Charles Natt,Accepted
+GRN-50517,2026-07-27,PO-40512,V-1039,WH-01,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,18,18,0,Nos,Forum Chandra,Accepted
+GRN-50518,2026-08-19,PO-40513,V-1040,WH-01,I-5047,Battery Interconnect Cable Set,Batteries,21,20,1,Set,Charles Natt,Rejected - Partial
+GRN-50519,2026-04-20,PO-40514,V-1030,WH-02,I-5037,MC4 Connector Pair,Solar Panels,18,18,0,Pair,Gauri Bumb,Accepted
+GRN-50520,2026-04-28,PO-40515,V-1005,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,15,15,0,Nos,Lila Rege,Accepted
+GRN-50521,2026-08-27,PO-40517,V-1025,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,37,37,0,Ton,Inaya Mukherjee,Accepted
+GRN-50522,2026-03-11,PO-40518,V-1032,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,48,48,0,Nos,Charles Natt,Accepted
+GRN-50523,2025-10-02,PO-40519,V-1041,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,5,5,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50524,2025-10-04,PO-40519,V-1041,WH-02,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,6,6,0,Nos,Lila Rege,Accepted
+GRN-50525,2025-10-09,PO-40520,V-1040,WH-03,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,19,19,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50526,2025-10-29,PO-40521,V-1014,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,10,10,0,Pair,Inaya Mukherjee,Accepted
+GRN-50527,2025-09-15,PO-40522,V-1020,WH-03,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,1,1,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50528,2026-05-26,PO-40523,V-1034,WH-01,I-5034,String Inverter 50kW,Solar Panels,21,21,0,Nos,Charles Natt,Accepted
+GRN-50529,2025-12-28,PO-40524,V-1036,WH-01,I-5035,Module Mounting Structure (per kW),Solar Panels,13,13,0,kW Set,Bhanumati Krishnan,Accepted
+GRN-50530,2026-03-31,PO-40525,V-1033,WH-02,I-5034,String Inverter 50kW,Solar Panels,31,31,0,Nos,Charles Natt,Accepted
+GRN-50531,2026-06-21,PO-40526,V-1038,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,7,7,0,Nos,Charles Natt,Accepted
+GRN-50532,2026-01-25,PO-40527,V-1041,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,8,8,0,Nos,Charles Natt,Accepted
+GRN-50533,2026-08-06,PO-40528,V-1038,WH-03,I-5034,String Inverter 50kW,Solar Panels,18,18,0,Nos,Lila Rege,Accepted
+GRN-50534,2026-06-21,PO-40529,V-1009,WH-03,I-5011,Cable Gland Brass 25mm,Electrical,6,6,0,Nos,Inaya Mukherjee,Accepted
+GRN-50535,2026-07-15,PO-40530,V-1037,WH-01,I-5034,String Inverter 50kW,Solar Panels,9,9,0,Nos,Lila Rege,Accepted
+GRN-50536,2026-06-30,PO-40531,V-1032,WH-02,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,5,5,0,Nos,Gauri Bumb,Accepted
+GRN-50537,2026-07-09,PO-40531,V-1032,WH-01,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,5,5,0,Nos,Charles Natt,Accepted
+GRN-50538,2026-02-10,PO-40532,V-1040,WH-03,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,48,48,0,Nos,Forum Chandra,Accepted
+GRN-50539,2026-02-19,PO-40533,V-1031,WH-03,I-5039,Earthing Kit for Module Structure,Solar Panels,18,17,1,Set,Inaya Mukherjee,Rejected - Partial
+GRN-50540,2026-05-05,PO-40534,V-1030,WH-02,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,9,9,0,Coil,Inaya Mukherjee,Accepted
+GRN-50541,2026-05-09,PO-40534,V-1030,WH-01,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,9,9,0,Coil,Charles Natt,Accepted
+GRN-50542,2026-02-12,PO-40535,V-1040,WH-01,I-5049,Deep Cycle Battery 200Ah,Batteries,30,30,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50543,2026-05-23,PO-40536,V-1017,WH-01,I-5017,Door Lock Mortise Set,Carpentry,19,19,0,Set,Lila Rege,Accepted
+GRN-50544,2026-02-18,PO-40537,V-1025,WH-03,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,65,64,1,Ton,Gauri Bumb,Rejected - Partial
+GRN-50545,2025-10-24,PO-40538,V-1037,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,19,19,0,Nos,Forum Chandra,Accepted
+GRN-50546,2026-06-29,PO-40539,V-1012,WH-01,I-5014,MDF Board 12mm (8x4 ft),Carpentry,20,20,0,Sheet,Inaya Mukherjee,Accepted
+GRN-50547,2026-06-08,PO-40540,V-1003,WH-02,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,4,4,0,Mtr,Lila Rege,Accepted
+GRN-50548,2026-06-13,PO-40540,V-1003,WH-02,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,4,4,0,Mtr,Lila Rege,Accepted
+GRN-50549,2025-10-02,PO-40541,V-1044,WH-02,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,21,21,0,Nos,Gauri Bumb,Accepted
+GRN-50550,2026-07-13,PO-40542,V-1047,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,28,28,0,Nos,Lila Rege,Accepted
+GRN-50551,2026-06-06,PO-40543,V-1011,WH-01,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,46,46,0,Roll,Forum Chandra,Accepted
+GRN-50552,2025-11-04,PO-40544,V-1001,WH-03,I-5010,MCCB 200A,Electrical,26,26,0,Nos,Charles Natt,Accepted
+GRN-50553,2025-10-05,PO-40545,V-1043,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,29,27,2,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50554,2025-11-03,PO-40546,V-1051,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,15,15,0,Pcs,Charles Natt,Accepted
+GRN-50555,2026-04-12,PO-40547,V-1054,WH-01,I-5056,Concealed Cistern with Frame,Plumbing Materials,20,20,0,Set,Forum Chandra,Accepted
+GRN-50556,2026-01-29,PO-40548,V-1022,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,13,13,0,Roll,Charles Natt,Accepted
+GRN-50557,2026-06-20,PO-40549,V-1015,WH-01,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,23,22,1,Sheet,Bhanumati Krishnan,Rejected - Partial
+GRN-50558,2026-06-20,PO-40550,V-1054,WH-02,I-5058,Submersible Pump 1HP,Plumbing Materials,37,37,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50559,2025-12-22,PO-40551,V-1059,WH-03,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,44,44,0,Nos,Lila Rege,Accepted
+GRN-50560,2025-11-21,PO-40552,V-1024,WH-03,I-5030,Kerb Stone Precast,Road Construction Materials,10,10,0,Nos,Inaya Mukherjee,Accepted
+GRN-50561,2026-02-01,PO-40553,V-1035,WH-03,I-5039,Earthing Kit for Module Structure,Solar Panels,7,7,0,Set,Charles Natt,Accepted
+GRN-50562,2025-12-27,PO-40554,V-1028,WH-01,I-5030,Kerb Stone Precast,Road Construction Materials,22,22,0,Nos,Inaya Mukherjee,Accepted
+GRN-50563,2026-07-29,PO-40555,V-1041,WH-01,I-5049,Deep Cycle Battery 200Ah,Batteries,45,45,0,Nos,Charles Natt,Accepted
+GRN-50564,2025-11-02,PO-40556,V-1035,WH-03,I-5037,MC4 Connector Pair,Solar Panels,10,10,0,Pair,Bhanumati Krishnan,Accepted
+GRN-50565,2025-11-06,PO-40556,V-1035,WH-02,I-5037,MC4 Connector Pair,Solar Panels,11,11,0,Pair,Charles Natt,Accepted
+GRN-50566,2026-05-28,PO-40557,V-1018,WH-01,I-5015,Hinges SS 4 inch,Carpentry,21,21,0,Pair,Bhanumati Krishnan,Accepted
+GRN-50567,2026-08-10,PO-40558,V-1011,WH-01,I-5021,Adhesive Fevicol SH (5kg),Carpentry,27,27,0,Can,Forum Chandra,Accepted
+GRN-50568,2026-02-15,PO-40559,V-1017,WH-02,I-5015,Hinges SS 4 inch,Carpentry,11,11,0,Pair,Charles Natt,Accepted
+GRN-50569,2026-03-15,PO-40560,V-1038,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,24,24,0,Nos,Lila Rege,Accepted
+GRN-50570,2026-06-30,PO-40561,V-1021,WH-02,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,13,13,0,Ton,Lila Rege,Accepted
+GRN-50571,2026-05-03,PO-40562,V-1033,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,9,9,0,Nos,Charles Natt,Accepted
+GRN-50572,2026-07-24,PO-40563,V-1048,WH-02,I-5048,Battery Monitoring System (BMS module),Batteries,10,10,0,Nos,Lila Rege,Accepted
+GRN-50573,2026-03-14,PO-40564,V-1042,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,15,15,0,Nos,Inaya Mukherjee,Accepted
+GRN-50574,2026-03-09,PO-40565,V-1006,WH-01,I-5002,MCB 32A Single Pole,Electrical,6,6,0,Nos,Charles Natt,Accepted
+GRN-50575,2026-03-19,PO-40566,V-1023,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,12,12,0,Ton,Lila Rege,Accepted
+GRN-50576,2026-06-02,PO-40568,V-1006,WH-02,I-5010,MCCB 200A,Electrical,31,31,0,Nos,Lila Rege,Accepted
+GRN-50577,2026-04-21,PO-40570,V-1053,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,58,58,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50578,2025-09-22,PO-40571,V-1024,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,37,37,0,Drum,Charles Natt,Accepted
+GRN-50579,2026-04-15,PO-40573,V-1051,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,15,15,0,Nos,Gauri Bumb,Accepted
+GRN-50580,2026-01-08,PO-40574,V-1020,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,17,17,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50581,2026-01-13,PO-40574,V-1020,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,18,18,0,Ton,Inaya Mukherjee,Accepted
+GRN-50582,2026-07-20,PO-40575,V-1030,WH-03,I-5039,Earthing Kit for Module Structure,Solar Panels,31,31,0,Set,Bhanumati Krishnan,Accepted
+GRN-50583,2026-06-29,PO-40576,V-1002,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,34,34,0,Nos,Lila Rege,Accepted
+GRN-50584,2026-06-22,PO-40577,V-1051,WH-03,I-5056,Concealed Cistern with Frame,Plumbing Materials,20,20,0,Set,Bhanumati Krishnan,Accepted
+GRN-50585,2026-03-14,PO-40578,V-1055,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,2,2,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50586,2026-06-22,PO-40579,V-1026,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,11,11,0,Bag,Gauri Bumb,Accepted
+GRN-50587,2026-03-04,PO-40580,V-1025,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,31,31,0,Bag,Forum Chandra,Accepted
+GRN-50588,2025-11-19,PO-40581,V-1059,WH-01,I-5055,Sanitaryware Wash Basin,Plumbing Materials,15,15,0,Nos,Gauri Bumb,Accepted
+GRN-50589,2025-10-07,PO-40582,V-1051,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,7,7,0,Pcs,Gauri Bumb,Accepted
+GRN-50590,2025-10-02,PO-40583,V-1001,WH-01,I-5006,Cable Tray 300mm (2m length),Electrical,19,19,0,Nos,Inaya Mukherjee,Accepted
+GRN-50591,2026-08-20,PO-40584,V-1015,WH-02,I-5017,Door Lock Mortise Set,Carpentry,9,9,0,Set,Gauri Bumb,Accepted
+GRN-50592,2026-07-10,PO-40585,V-1004,WH-02,I-5005,Modular Switch 6A,Electrical,20,20,0,Nos,Charles Natt,Accepted
+GRN-50593,2026-07-17,PO-40586,V-1008,WH-02,I-5003,Distribution Board 8-Way,Electrical,17,16,1,Nos,Gauri Bumb,Rejected - Partial
+GRN-50594,2026-03-15,PO-40587,V-1001,WH-03,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,26,25,1,Coil,Inaya Mukherjee,Rejected - Partial
+GRN-50595,2025-10-22,PO-40588,V-1052,WH-03,I-5058,Submersible Pump 1HP,Plumbing Materials,18,18,0,Nos,Forum Chandra,Accepted
+GRN-50596,2025-11-14,PO-40589,V-1047,WH-02,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,53,53,0,Nos,Charles Natt,Accepted
+GRN-50597,2025-12-29,PO-40590,V-1001,WH-03,I-5009,Contactor 40A 3 Pole,Electrical,21,21,0,Nos,Forum Chandra,Accepted
+GRN-50598,2026-05-29,PO-40591,V-1004,WH-02,I-5008,Earthing Strip GI 25x3mm,Electrical,7,7,0,Mtr,Charles Natt,Accepted
+GRN-50599,2026-04-22,PO-40592,V-1002,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,14,14,0,Coil,Gauri Bumb,Accepted
+GRN-50600,2026-01-09,PO-40594,V-1045,WH-02,I-5046,Battery Rack 4-Tier MS,Batteries,33,33,0,Nos,Lila Rege,Accepted
+GRN-50601,2026-05-06,PO-40595,V-1024,WH-02,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,35,35,0,Ton,Charles Natt,Accepted
+GRN-50602,2025-12-05,PO-40596,V-1006,WH-01,I-5003,Distribution Board 8-Way,Electrical,30,30,0,Nos,Lila Rege,Accepted
+GRN-50603,2025-12-03,PO-40597,V-1029,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,17,17,0,Ton,Lila Rege,Accepted
+GRN-50604,2025-11-17,PO-40598,V-1050,WH-03,I-5052,PVC Elbow 4 inch,Plumbing Materials,16,15,1,Nos,Forum Chandra,Rejected - Partial
+GRN-50605,2026-07-14,PO-40599,V-1044,WH-02,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,8,8,0,Nos,Forum Chandra,Accepted
+GRN-50606,2026-07-31,PO-40599,V-1044,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,9,9,0,Nos,Forum Chandra,Accepted
+GRN-50607,2026-02-02,PO-40600,V-1023,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,7,7,0,Ton,Forum Chandra,Accepted
+GRN-50608,2025-11-27,PO-40601,V-1000,WH-02,I-5007,Junction Box IP65,Electrical,14,14,0,Nos,Lila Rege,Accepted
+GRN-50609,2025-12-12,PO-40602,V-1045,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,32,32,0,Nos,Forum Chandra,Accepted
+GRN-50610,2025-11-01,PO-40603,V-1044,WH-01,I-5048,Battery Monitoring System (BMS module),Batteries,27,26,1,Nos,Forum Chandra,Rejected - Partial
+GRN-50611,2025-11-17,PO-40604,V-1003,WH-01,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,28,28,0,Mtr,Gauri Bumb,Accepted
+GRN-50612,2026-03-30,PO-40605,V-1045,WH-03,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,23,23,0,Nos,Lila Rege,Accepted
+GRN-50613,2026-06-11,PO-40606,V-1021,WH-02,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,18,18,0,Roll,Charles Natt,Accepted
+GRN-50614,2025-12-02,PO-40607,V-1027,WH-03,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,34,34,0,Drum,Charles Natt,Accepted
+GRN-50615,2025-11-19,PO-40608,V-1027,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,45,45,0,Roll,Bhanumati Krishnan,Accepted
+GRN-50616,2026-08-05,PO-40609,V-1043,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,6,6,0,Nos,Charles Natt,Accepted
+GRN-50617,2026-06-22,PO-40610,V-1025,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,34,34,0,Drum,Lila Rege,Accepted
+GRN-50618,2026-04-30,PO-40611,V-1001,WH-01,I-5005,Modular Switch 6A,Electrical,33,32,1,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50619,2025-12-08,PO-40612,V-1049,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,46,46,0,Nos,Charles Natt,Accepted
+GRN-50620,2026-08-05,PO-40613,V-1009,WH-03,I-5002,MCB 32A Single Pole,Electrical,30,30,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50621,2025-10-29,PO-40614,V-1051,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,36,36,0,Pcs,Charles Natt,Accepted
+GRN-50622,2026-03-07,PO-40615,V-1039,WH-01,I-5035,Module Mounting Structure (per kW),Solar Panels,22,22,0,kW Set,Lila Rege,Accepted
+GRN-50623,2026-08-20,PO-40616,V-1031,WH-01,I-5035,Module Mounting Structure (per kW),Solar Panels,4,4,0,kW Set,Inaya Mukherjee,Accepted
+GRN-50624,2026-08-28,PO-40616,V-1031,WH-01,I-5035,Module Mounting Structure (per kW),Solar Panels,4,4,0,kW Set,Lila Rege,Accepted
+GRN-50625,2026-02-03,PO-40617,V-1051,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,21,21,0,Nos,Gauri Bumb,Accepted
+GRN-50626,2026-06-28,PO-40618,V-1021,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,6,6,0,Roll,Gauri Bumb,Accepted
+GRN-50627,2026-03-05,PO-40619,V-1036,WH-03,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,29,29,0,Nos,Lila Rege,Accepted
+GRN-50628,2026-03-15,PO-40620,V-1024,WH-02,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,9,9,0,Drum,Forum Chandra,Accepted
+GRN-50629,2026-06-20,PO-40621,V-1021,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,12,12,0,Roll,Inaya Mukherjee,Accepted
+GRN-50630,2026-03-13,PO-40622,V-1048,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,17,17,0,Nos,Lila Rege,Accepted
+GRN-50631,2026-01-19,PO-40624,V-1023,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,7,7,0,Bag,Lila Rege,Accepted
+GRN-50632,2025-12-29,PO-40625,V-1036,WH-03,I-5041,Solar Cable Gland Set,Solar Panels,7,7,0,Set,Charles Natt,Accepted
+GRN-50633,2025-12-27,PO-40625,V-1036,WH-03,I-5041,Solar Cable Gland Set,Solar Panels,7,7,0,Set,Inaya Mukherjee,Accepted
+GRN-50634,2026-05-14,PO-40626,V-1058,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,44,44,0,Nos,Gauri Bumb,Accepted
+GRN-50635,2026-02-03,PO-40627,V-1002,WH-02,I-5011,Cable Gland Brass 25mm,Electrical,38,38,0,Nos,Forum Chandra,Accepted
+GRN-50636,2026-07-21,PO-40628,V-1039,WH-01,I-5033,Solar Module 550Wp Bifacial,Solar Panels,17,17,0,Nos,Lila Rege,Accepted
+GRN-50637,2026-04-19,PO-40629,V-1035,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,10,10,0,Nos,Charles Natt,Accepted
+GRN-50638,2026-06-09,PO-40630,V-1025,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,23,23,0,Ton,Forum Chandra,Accepted
+GRN-50639,2026-08-07,PO-40631,V-1052,WH-03,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,76,76,0,Nos,Charles Natt,Accepted
+GRN-50640,2026-02-23,PO-40632,V-1051,WH-03,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,35,34,1,Pcs,Inaya Mukherjee,Rejected - Partial
+GRN-50641,2026-03-14,PO-40633,V-1036,WH-03,I-5033,Solar Module 550Wp Bifacial,Solar Panels,26,26,0,Nos,Inaya Mukherjee,Accepted
+GRN-50642,2026-02-26,PO-40634,V-1003,WH-02,I-5010,MCCB 200A,Electrical,18,18,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50643,2026-05-14,PO-40635,V-1000,WH-02,I-5008,Earthing Strip GI 25x3mm,Electrical,11,11,0,Mtr,Gauri Bumb,Accepted
+GRN-50644,2026-02-17,PO-40636,V-1038,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,35,34,1,Nos,Charles Natt,Rejected - Partial
+GRN-50645,2026-06-25,PO-40637,V-1011,WH-03,I-5015,Hinges SS 4 inch,Carpentry,41,37,4,Pair,Forum Chandra,Rejected - Partial
+GRN-50646,2026-01-20,PO-40638,V-1034,WH-03,I-5041,Solar Cable Gland Set,Solar Panels,14,14,0,Set,Charles Natt,Accepted
+GRN-50647,2025-09-25,PO-40639,V-1031,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,14,14,0,Nos,Inaya Mukherjee,Accepted
+GRN-50648,2026-02-19,PO-40640,V-1023,WH-01,I-5030,Kerb Stone Precast,Road Construction Materials,36,36,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50649,2026-01-16,PO-40641,V-1010,WH-01,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,17,17,0,Sheet,Charles Natt,Accepted
+GRN-50650,2026-04-11,PO-40642,V-1013,WH-01,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,47,47,0,Sheet,Gauri Bumb,Accepted
+GRN-50651,2025-10-14,PO-40643,V-1005,WH-01,I-5010,MCCB 200A,Electrical,31,31,0,Nos,Lila Rege,Accepted
+GRN-50652,2026-07-12,PO-40644,V-1046,WH-02,I-5042,Tubular Battery 150Ah C10,Batteries,22,22,0,Nos,Forum Chandra,Accepted
+GRN-50653,2026-02-03,PO-40645,V-1047,WH-01,I-5048,Battery Monitoring System (BMS module),Batteries,24,24,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50654,2026-05-15,PO-40646,V-1023,WH-01,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,25,25,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50655,2026-08-23,PO-40647,V-1023,WH-03,I-5030,Kerb Stone Precast,Road Construction Materials,56,56,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50656,2026-02-06,PO-40648,V-1023,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,18,18,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50657,2025-10-15,PO-40649,V-1055,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,12,12,0,Pcs,Gauri Bumb,Accepted
+GRN-50658,2026-02-16,PO-40650,V-1021,WH-02,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,34,34,0,Ton,Forum Chandra,Accepted
+GRN-50659,2025-12-01,PO-40651,V-1005,WH-03,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,41,39,2,Mtr,Inaya Mukherjee,Rejected - Partial
+GRN-50660,2026-02-13,PO-40652,V-1005,WH-03,I-5009,Contactor 40A 3 Pole,Electrical,34,34,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50661,2026-02-18,PO-40653,V-1007,WH-03,I-5003,Distribution Board 8-Way,Electrical,9,9,0,Nos,Lila Rege,Accepted
+GRN-50662,2026-04-10,PO-40654,V-1058,WH-02,I-5056,Concealed Cistern with Frame,Plumbing Materials,32,31,1,Set,Gauri Bumb,Rejected - Partial
+GRN-50663,2026-03-27,PO-40655,V-1010,WH-02,I-5014,MDF Board 12mm (8x4 ft),Carpentry,30,30,0,Sheet,Bhanumati Krishnan,Accepted
+GRN-50664,2026-05-04,PO-40656,V-1058,WH-02,I-5050,UPVC Pipe 4 inch SCH-40 (3m length),Plumbing Materials,4,4,0,Pcs,Gauri Bumb,Accepted
+GRN-50665,2025-12-21,PO-40657,V-1001,WH-03,I-5002,MCB 32A Single Pole,Electrical,22,22,0,Nos,Forum Chandra,Accepted
+GRN-50666,2026-01-20,PO-40658,V-1021,WH-02,I-5027,Ready Mix Concrete M25,Road Construction Materials,9,9,0,Cum,Inaya Mukherjee,Accepted
+GRN-50667,2026-01-29,PO-40658,V-1021,WH-03,I-5027,Ready Mix Concrete M25,Road Construction Materials,9,9,0,Cum,Forum Chandra,Accepted
+GRN-50668,2026-05-04,PO-40659,V-1035,WH-01,I-5037,MC4 Connector Pair,Solar Panels,31,31,0,Pair,Bhanumati Krishnan,Accepted
+GRN-50669,2026-04-29,PO-40660,V-1055,WH-03,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,16,16,0,Nos,Charles Natt,Accepted
+GRN-50670,2026-02-06,PO-40661,V-1028,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,25,25,0,Ton,Charles Natt,Accepted
+GRN-50671,2026-02-08,PO-40664,V-1035,WH-03,I-5039,Earthing Kit for Module Structure,Solar Panels,25,25,0,Set,Bhanumati Krishnan,Accepted
+GRN-50672,2026-08-03,PO-40665,V-1027,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,26,26,0,Ton,Lila Rege,Accepted
+GRN-50673,2026-05-26,PO-40666,V-1029,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,16,16,0,Roll,Charles Natt,Accepted
+GRN-50674,2026-02-22,PO-40667,V-1026,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,14,14,0,Bag,Charles Natt,Accepted
+GRN-50675,2026-08-01,PO-40668,V-1025,WH-01,I-5025,River Sand (fine aggregate),Road Construction Materials,29,29,0,Ton,Lila Rege,Accepted
+GRN-50676,2026-08-04,PO-40669,V-1022,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,14,14,0,Bag,Inaya Mukherjee,Accepted
+GRN-50677,2026-05-25,PO-40670,V-1028,WH-03,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,58,57,1,Ton,Charles Natt,Rejected - Partial
+GRN-50678,2026-01-15,PO-40671,V-1002,WH-02,I-5011,Cable Gland Brass 25mm,Electrical,33,33,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50679,2026-07-19,PO-40672,V-1009,WH-02,I-5003,Distribution Board 8-Way,Electrical,14,14,0,Nos,Inaya Mukherjee,Accepted
+GRN-50680,2026-08-01,PO-40672,V-1009,WH-01,I-5003,Distribution Board 8-Way,Electrical,15,15,0,Nos,Charles Natt,Accepted
+GRN-50681,2025-11-18,PO-40673,V-1056,WH-02,I-5056,Concealed Cistern with Frame,Plumbing Materials,43,43,0,Set,Charles Natt,Accepted
+GRN-50682,2026-07-25,PO-40674,V-1044,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,21,21,0,Nos,Forum Chandra,Accepted
+GRN-50683,2025-10-18,PO-40675,V-1040,WH-03,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,26,26,0,Nos,Lila Rege,Accepted
+GRN-50684,2025-10-22,PO-40676,V-1044,WH-02,I-5047,Battery Interconnect Cable Set,Batteries,39,39,0,Set,Inaya Mukherjee,Accepted
+GRN-50685,2026-05-06,PO-40677,V-1001,WH-01,I-5003,Distribution Board 8-Way,Electrical,23,23,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50686,2026-02-19,PO-40678,V-1033,WH-02,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,16,16,0,Coil,Charles Natt,Accepted
+GRN-50687,2026-02-28,PO-40678,V-1033,WH-01,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,17,17,0,Coil,Bhanumati Krishnan,Accepted
+GRN-50688,2026-02-27,PO-40679,V-1045,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,12,12,0,Nos,Gauri Bumb,Accepted
+GRN-50689,2026-03-04,PO-40679,V-1045,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,12,12,0,Nos,Gauri Bumb,Accepted
+GRN-50690,2026-07-14,PO-40680,V-1053,WH-02,I-5052,PVC Elbow 4 inch,Plumbing Materials,16,16,0,Nos,Forum Chandra,Accepted
+GRN-50691,2026-03-08,PO-40681,V-1056,WH-02,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,11,11,0,Nos,Lila Rege,Accepted
+GRN-50692,2025-09-17,PO-40682,V-1054,WH-01,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,5,5,0,Nos,Charles Natt,Accepted
+GRN-50693,2025-10-15,PO-40683,V-1010,WH-01,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,17,17,0,Sheet,Gauri Bumb,Accepted
+GRN-50694,2026-06-13,PO-40684,V-1031,WH-02,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,15,15,0,Nos,Lila Rege,Accepted
+GRN-50695,2025-11-12,PO-40685,V-1025,WH-02,I-5030,Kerb Stone Precast,Road Construction Materials,17,17,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50696,2025-09-24,PO-40686,V-1006,WH-01,I-5010,MCCB 200A,Electrical,15,15,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50697,2025-12-03,PO-40687,V-1022,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,13,13,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50698,2025-09-23,PO-40688,V-1027,WH-01,I-5028,PQC Dowel Bar 32mm,Road Construction Materials,10,10,0,Ton,Inaya Mukherjee,Accepted
+GRN-50699,2025-11-24,PO-40689,V-1058,WH-02,I-5052,PVC Elbow 4 inch,Plumbing Materials,12,11,1,Nos,Gauri Bumb,Rejected - Partial
+GRN-50700,2026-04-06,PO-40690,V-1004,WH-01,I-5002,MCB 32A Single Pole,Electrical,13,13,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50701,2025-12-14,PO-40691,V-1022,WH-03,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,14,14,0,Ton,Gauri Bumb,Accepted
+GRN-50702,2025-12-16,PO-40691,V-1022,WH-03,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,14,14,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50703,2025-12-28,PO-40692,V-1043,WH-02,I-5042,Tubular Battery 150Ah C10,Batteries,4,4,0,Nos,Inaya Mukherjee,Accepted
+GRN-50704,2026-07-19,PO-40693,V-1040,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,52,52,0,Nos,Forum Chandra,Accepted
+GRN-50705,2026-06-15,PO-40694,V-1049,WH-01,I-5049,Deep Cycle Battery 200Ah,Batteries,19,19,0,Nos,Forum Chandra,Accepted
+GRN-50706,2026-02-06,PO-40696,V-1032,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,4,4,0,Nos,Charles Natt,Accepted
+GRN-50707,2026-08-18,PO-40697,V-1047,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,17,17,0,Nos,Forum Chandra,Accepted
+GRN-50708,2026-04-03,PO-40698,V-1058,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,6,6,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50709,2025-11-10,PO-40699,V-1021,WH-01,I-5027,Ready Mix Concrete M25,Road Construction Materials,8,8,0,Cum,Inaya Mukherjee,Accepted
+GRN-50710,2026-08-06,PO-40700,V-1012,WH-03,I-5015,Hinges SS 4 inch,Carpentry,26,26,0,Pair,Bhanumati Krishnan,Accepted
+GRN-50711,2026-07-24,PO-40701,V-1007,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,11,11,0,Nos,Forum Chandra,Accepted
+GRN-50712,2026-08-04,PO-40701,V-1007,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,12,12,0,Nos,Lila Rege,Accepted
+GRN-50713,2026-04-05,PO-40702,V-1058,WH-03,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,27,27,0,Nos,Gauri Bumb,Accepted
+GRN-50714,2025-12-14,PO-40703,V-1044,WH-02,I-5048,Battery Monitoring System (BMS module),Batteries,31,28,3,Nos,Gauri Bumb,Rejected - Partial
+GRN-50715,2026-07-15,PO-40704,V-1046,WH-03,I-5048,Battery Monitoring System (BMS module),Batteries,25,25,0,Nos,Forum Chandra,Accepted
+GRN-50716,2026-06-20,PO-40705,V-1032,WH-01,I-5041,Solar Cable Gland Set,Solar Panels,27,27,0,Set,Charles Natt,Accepted
+GRN-50717,2025-12-17,PO-40706,V-1012,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,34,33,1,Pair,Charles Natt,Rejected - Partial
+GRN-50718,2026-06-18,PO-40707,V-1018,WH-02,I-5014,MDF Board 12mm (8x4 ft),Carpentry,13,13,0,Sheet,Gauri Bumb,Accepted
+GRN-50719,2025-10-17,PO-40708,V-1029,WH-02,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,49,49,0,Ton,Charles Natt,Accepted
+GRN-50720,2025-12-31,PO-40710,V-1006,WH-01,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,17,17,0,Mtr,Lila Rege,Accepted
+GRN-50721,2026-08-18,PO-40711,V-1054,WH-01,I-5052,PVC Elbow 4 inch,Plumbing Materials,71,71,0,Nos,Charles Natt,Accepted
+GRN-50722,2026-02-18,PO-40712,V-1051,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,123,123,0,Pcs,Bhanumati Krishnan,Accepted
+GRN-50723,2025-11-22,PO-40713,V-1008,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,41,41,0,Coil,Gauri Bumb,Accepted
+GRN-50724,2026-08-01,PO-40715,V-1024,WH-01,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,25,25,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50725,2026-01-27,PO-40716,V-1027,WH-01,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,9,9,0,Roll,Lila Rege,Accepted
+GRN-50726,2026-07-20,PO-40717,V-1048,WH-02,I-5046,Battery Rack 4-Tier MS,Batteries,25,25,0,Nos,Charles Natt,Accepted
+GRN-50727,2025-11-16,PO-40718,V-1022,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,14,14,0,Drum,Forum Chandra,Accepted
+GRN-50728,2026-02-25,PO-40719,V-1050,WH-03,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,43,43,0,Pcs,Bhanumati Krishnan,Accepted
+GRN-50729,2025-12-04,PO-40720,V-1011,WH-03,I-5021,Adhesive Fevicol SH (5kg),Carpentry,28,27,1,Can,Inaya Mukherjee,Rejected - Partial
+GRN-50730,2026-03-27,PO-40721,V-1000,WH-01,I-5004,LED Flood Light 100W,Electrical,36,33,3,Nos,Lila Rege,Rejected - Partial
+GRN-50731,2025-10-30,PO-40722,V-1044,WH-02,I-5049,Deep Cycle Battery 200Ah,Batteries,11,11,0,Nos,Gauri Bumb,Accepted
+GRN-50732,2025-12-05,PO-40723,V-1006,WH-01,I-5005,Modular Switch 6A,Electrical,11,11,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50733,2026-02-21,PO-40724,V-1018,WH-01,I-5017,Door Lock Mortise Set,Carpentry,7,7,0,Set,Bhanumati Krishnan,Accepted
+GRN-50734,2026-02-28,PO-40724,V-1018,WH-03,I-5017,Door Lock Mortise Set,Carpentry,7,7,0,Set,Bhanumati Krishnan,Accepted
+GRN-50735,2026-05-06,PO-40725,V-1022,WH-03,I-5027,Ready Mix Concrete M25,Road Construction Materials,1,1,0,Cum,Charles Natt,Accepted
+GRN-50736,2025-10-01,PO-40726,V-1011,WH-02,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,35,35,0,Sheet,Inaya Mukherjee,Accepted
+GRN-50737,2026-07-27,PO-40727,V-1059,WH-01,I-5059,Pipe Clamp GI 4 inch,Plumbing Materials,52,52,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50738,2026-01-07,PO-40728,V-1034,WH-02,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,5,5,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50739,2026-01-21,PO-40728,V-1034,WH-02,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,6,6,0,Nos,Lila Rege,Accepted
+GRN-50740,2025-12-23,PO-40729,V-1000,WH-02,I-5010,MCCB 200A,Electrical,5,5,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50741,2026-02-18,PO-40730,V-1020,WH-01,I-5026,Bitumen VG-30 (drum 180kg),Road Construction Materials,6,6,0,Drum,Bhanumati Krishnan,Accepted
+GRN-50742,2026-05-25,PO-40731,V-1026,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,42,38,4,Ton,Forum Chandra,Rejected - Partial
+GRN-50743,2025-09-20,PO-40732,V-1056,WH-02,I-5055,Sanitaryware Wash Basin,Plumbing Materials,33,33,0,Nos,Lila Rege,Accepted
+GRN-50744,2026-07-08,PO-40733,V-1013,WH-01,I-5019,Veneer Sheet Teak (8x4 ft),Carpentry,11,11,0,Sheet,Lila Rege,Accepted
+GRN-50745,2026-07-09,PO-40734,V-1008,WH-02,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,28,28,0,Coil,Charles Natt,Accepted
+GRN-50746,2025-12-05,PO-40735,V-1006,WH-01,I-5004,LED Flood Light 100W,Electrical,47,47,0,Nos,Lila Rege,Accepted
+GRN-50747,2026-06-05,PO-40736,V-1005,WH-01,I-5002,MCB 32A Single Pole,Electrical,61,61,0,Nos,Lila Rege,Accepted
+GRN-50748,2026-06-24,PO-40737,V-1046,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,26,26,0,Nos,Gauri Bumb,Accepted
+GRN-50749,2026-02-06,PO-40738,V-1022,WH-01,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,27,27,0,Ton,Charles Natt,Accepted
+GRN-50750,2025-09-26,PO-40739,V-1033,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,30,30,0,Nos,Charles Natt,Accepted
+GRN-50751,2026-07-14,PO-40740,V-1054,WH-01,I-5056,Concealed Cistern with Frame,Plumbing Materials,36,36,0,Set,Forum Chandra,Accepted
+GRN-50752,2025-11-18,PO-40741,V-1036,WH-02,I-5035,Module Mounting Structure (per kW),Solar Panels,8,8,0,kW Set,Inaya Mukherjee,Accepted
+GRN-50753,2025-12-01,PO-40742,V-1026,WH-03,I-5029,Wire Mesh Fabric 6mm@150c/c,Road Construction Materials,15,15,0,Ton,Charles Natt,Accepted
+GRN-50754,2025-10-18,PO-40743,V-1024,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,29,29,0,Ton,Gauri Bumb,Accepted
+GRN-50755,2025-09-27,PO-40744,V-1022,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,16,16,0,Ton,Inaya Mukherjee,Accepted
+GRN-50756,2026-01-28,PO-40745,V-1009,WH-01,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,14,14,0,Coil,Inaya Mukherjee,Accepted
+GRN-50757,2025-11-17,PO-40746,V-1029,WH-01,I-5024,Crushed Stone Aggregate 20mm,Road Construction Materials,17,17,0,Ton,Bhanumati Krishnan,Accepted
+GRN-50758,2026-05-28,PO-40747,V-1041,WH-01,I-5047,Battery Interconnect Cable Set,Batteries,8,8,0,Set,Bhanumati Krishnan,Accepted
+GRN-50759,2026-06-03,PO-40747,V-1041,WH-01,I-5047,Battery Interconnect Cable Set,Batteries,9,9,0,Set,Charles Natt,Accepted
+GRN-50760,2025-11-12,PO-40748,V-1053,WH-02,I-5056,Concealed Cistern with Frame,Plumbing Materials,27,27,0,Set,Inaya Mukherjee,Accepted
+GRN-50761,2026-02-09,PO-40749,V-1007,WH-01,I-5011,Cable Gland Brass 25mm,Electrical,4,4,0,Nos,Gauri Bumb,Accepted
+GRN-50762,2025-10-07,PO-40750,V-1042,WH-01,I-5044,Inverter 2.5kVA Pure Sinewave,Batteries,6,6,0,Nos,Charles Natt,Accepted
+GRN-50763,2025-12-03,PO-40751,V-1040,WH-02,I-5048,Battery Monitoring System (BMS module),Batteries,39,39,0,Nos,Charles Natt,Accepted
+GRN-50764,2026-01-30,PO-40752,V-1039,WH-01,I-5034,String Inverter 50kW,Solar Panels,15,14,1,Nos,Gauri Bumb,Rejected - Partial
+GRN-50765,2025-12-20,PO-40753,V-1031,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,23,22,1,Nos,Bhanumati Krishnan,Rejected - Partial
+GRN-50766,2026-06-17,PO-40754,V-1048,WH-02,I-5042,Tubular Battery 150Ah C10,Batteries,20,20,0,Nos,Forum Chandra,Accepted
+GRN-50767,2025-12-28,PO-40755,V-1009,WH-02,I-5007,Junction Box IP65,Electrical,45,45,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50768,2025-09-28,PO-40756,V-1002,WH-03,I-5000,Armoured Copper Cable 3.5C x 95 sqmm,Electrical,49,49,0,Mtr,Bhanumati Krishnan,Accepted
+GRN-50769,2025-12-01,PO-40757,V-1044,WH-02,I-5042,Tubular Battery 150Ah C10,Batteries,17,17,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50770,2026-05-24,PO-40758,V-1007,WH-03,I-5004,LED Flood Light 100W,Electrical,23,23,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50771,2025-12-01,PO-40759,V-1038,WH-03,I-5040,Anti-Reflective Glass Panel (spare),Solar Panels,31,31,0,Nos,Gauri Bumb,Accepted
+GRN-50772,2026-04-21,PO-40760,V-1035,WH-03,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,23,23,0,Nos,Lila Rege,Accepted
+GRN-50773,2025-09-18,PO-40761,V-1057,WH-01,I-5058,Submersible Pump 1HP,Plumbing Materials,48,48,0,Nos,Inaya Mukherjee,Accepted
+GRN-50774,2026-04-16,PO-40762,V-1004,WH-02,I-5011,Cable Gland Brass 25mm,Electrical,30,29,1,Nos,Charles Natt,Rejected - Partial
+GRN-50775,2026-01-24,PO-40763,V-1016,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,11,11,0,Pair,Bhanumati Krishnan,Accepted
+GRN-50776,2026-02-03,PO-40763,V-1016,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,11,11,0,Pair,Charles Natt,Accepted
+GRN-50777,2026-05-08,PO-40764,V-1008,WH-02,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,7,7,0,Coil,Gauri Bumb,Accepted
+GRN-50778,2026-03-11,PO-40765,V-1023,WH-01,I-5022,OPC 53 Grade Cement (50kg bag),Road Construction Materials,42,42,0,Bag,Inaya Mukherjee,Accepted
+GRN-50779,2025-11-01,PO-40766,V-1049,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,26,26,0,Nos,Inaya Mukherjee,Accepted
+GRN-50780,2025-11-09,PO-40767,V-1041,WH-01,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,19,19,0,Nos,Lila Rege,Accepted
+GRN-50781,2026-04-20,PO-40768,V-1036,WH-01,I-5037,MC4 Connector Pair,Solar Panels,51,51,0,Pair,Gauri Bumb,Accepted
+GRN-50782,2026-03-29,PO-40769,V-1031,WH-02,I-5038,Combiner Box 6 in 1 out,Solar Panels,14,14,0,Nos,Charles Natt,Accepted
+GRN-50783,2025-12-24,PO-40770,V-1032,WH-01,I-5038,Combiner Box 6 in 1 out,Solar Panels,43,43,0,Nos,Forum Chandra,Accepted
+GRN-50784,2025-11-28,PO-40771,V-1045,WH-02,I-5046,Battery Rack 4-Tier MS,Batteries,10,9,1,Nos,Gauri Bumb,Rejected - Partial
+GRN-50785,2025-12-01,PO-40771,V-1045,WH-01,I-5046,Battery Rack 4-Tier MS,Batteries,11,11,0,Nos,Lila Rege,Accepted
+GRN-50786,2026-03-13,PO-40772,V-1037,WH-02,I-5035,Module Mounting Structure (per kW),Solar Panels,47,43,4,kW Set,Forum Chandra,Rejected - Partial
+GRN-50787,2025-11-15,PO-40774,V-1043,WH-02,I-5042,Tubular Battery 150Ah C10,Batteries,36,36,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50788,2025-11-18,PO-40775,V-1048,WH-01,I-5042,Tubular Battery 150Ah C10,Batteries,41,41,0,Nos,Charles Natt,Accepted
+GRN-50789,2026-07-21,PO-40776,V-1056,WH-02,I-5054,Water Tank 1000L HDPE,Plumbing Materials,6,6,0,Nos,Charles Natt,Accepted
+GRN-50790,2026-07-28,PO-40776,V-1056,WH-02,I-5054,Water Tank 1000L HDPE,Plumbing Materials,6,6,0,Nos,Forum Chandra,Accepted
+GRN-50791,2025-12-14,PO-40777,V-1058,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,12,11,1,Pcs,Bhanumati Krishnan,Rejected - Partial
+GRN-50792,2025-12-30,PO-40778,V-1039,WH-02,I-5034,String Inverter 50kW,Solar Panels,10,10,0,Nos,Lila Rege,Accepted
+GRN-50793,2025-12-08,PO-40779,V-1052,WH-01,I-5051,CPVC Pipe 1 inch (3m length),Plumbing Materials,10,10,0,Pcs,Forum Chandra,Accepted
+GRN-50794,2026-01-13,PO-40780,V-1022,WH-02,I-5023,TMT Steel Bar Fe500D 12mm,Road Construction Materials,15,14,1,Ton,Forum Chandra,Rejected - Partial
+GRN-50795,2026-05-25,PO-40781,V-1013,WH-01,I-5016,Drawer Channel 18 inch Telescopic,Carpentry,11,11,0,Pair,Bhanumati Krishnan,Accepted
+GRN-50796,2025-11-04,PO-40782,V-1031,WH-02,I-5033,Solar Module 550Wp Bifacial,Solar Panels,12,12,0,Nos,Lila Rege,Accepted
+GRN-50797,2026-07-03,PO-40783,V-1044,WH-01,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,8,8,0,Nos,Lila Rege,Accepted
+GRN-50798,2026-07-12,PO-40783,V-1044,WH-02,I-5045,VRLA SMF Battery 12V 100Ah,Batteries,9,9,0,Nos,Forum Chandra,Accepted
+GRN-50799,2025-12-30,PO-40784,V-1052,WH-03,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,9,9,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50800,2026-04-10,PO-40785,V-1035,WH-01,I-5032,Solar Module 540Wp Mono PERC,Solar Panels,9,9,0,Nos,Charles Natt,Accepted
+GRN-50801,2025-12-14,PO-40786,V-1011,WH-01,I-5012,Plywood 19mm BWP (8x4 ft),Carpentry,17,17,0,Sheet,Forum Chandra,Accepted
+GRN-50802,2026-06-09,PO-40787,V-1057,WH-03,I-5057,Bathroom Faucet Single Lever,Plumbing Materials,52,52,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50803,2026-06-14,PO-40788,V-1017,WH-02,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,27,27,0,Sheet,Bhanumati Krishnan,Accepted
+GRN-50804,2026-01-19,PO-40789,V-1000,WH-02,I-5007,Junction Box IP65,Electrical,12,12,0,Nos,Forum Chandra,Accepted
+GRN-50805,2025-11-20,PO-40790,V-1042,WH-01,I-5049,Deep Cycle Battery 200Ah,Batteries,16,16,0,Nos,Gauri Bumb,Accepted
+GRN-50806,2026-01-13,PO-40791,V-1032,WH-02,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,27,27,0,Coil,Inaya Mukherjee,Accepted
+GRN-50807,2026-08-02,PO-40792,V-1031,WH-03,I-5036,DC Cable 4 sqmm Solar Grade (100m),Solar Panels,50,50,0,Coil,Lila Rege,Accepted
+GRN-50808,2026-04-15,PO-40793,V-1019,WH-01,I-5020,PVC Edge Banding Tape (100m roll),Carpentry,16,15,1,Roll,Inaya Mukherjee,Rejected - Partial
+GRN-50809,2025-12-08,PO-40794,V-1022,WH-01,I-5030,Kerb Stone Precast,Road Construction Materials,30,27,3,Nos,Inaya Mukherjee,Rejected - Partial
+GRN-50810,2026-03-24,PO-40795,V-1036,WH-02,I-5035,Module Mounting Structure (per kW),Solar Panels,11,11,0,kW Set,Charles Natt,Accepted
+GRN-50811,2026-02-05,PO-40796,V-1022,WH-01,I-5027,Ready Mix Concrete M25,Road Construction Materials,18,18,0,Cum,Gauri Bumb,Accepted
+GRN-50812,2026-01-20,PO-40798,V-1058,WH-03,I-5053,Ball Valve 1 inch Brass,Plumbing Materials,11,11,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50813,2026-02-06,PO-40799,V-1038,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,5,5,0,Set,Charles Natt,Accepted
+GRN-50814,2026-02-16,PO-40799,V-1038,WH-01,I-5039,Earthing Kit for Module Structure,Solar Panels,6,6,0,Set,Forum Chandra,Accepted
+GRN-50815,2026-03-09,PO-40800,V-1026,WH-01,I-5027,Ready Mix Concrete M25,Road Construction Materials,34,34,0,Cum,Lila Rege,Accepted
+GRN-50816,2026-08-15,PO-40801,V-1052,WH-02,I-5052,PVC Elbow 4 inch,Plumbing Materials,38,38,0,Nos,Gauri Bumb,Accepted
+GRN-50817,2025-12-04,PO-40802,V-1002,WH-01,I-5005,Modular Switch 6A,Electrical,15,15,0,Nos,Gauri Bumb,Accepted
+GRN-50818,2025-12-08,PO-40802,V-1002,WH-01,I-5005,Modular Switch 6A,Electrical,15,15,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50819,2026-06-20,PO-40803,V-1055,WH-02,I-5054,Water Tank 1000L HDPE,Plumbing Materials,8,8,0,Nos,Lila Rege,Accepted
+GRN-50820,2026-03-21,PO-40804,V-1002,WH-01,I-5004,LED Flood Light 100W,Electrical,40,40,0,Nos,Lila Rege,Accepted
+GRN-50821,2026-02-03,PO-40805,V-1049,WH-03,I-5043,Lithium-ion Battery Pack 48V 100Ah,Batteries,17,17,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50822,2026-06-02,PO-40806,V-1013,WH-02,I-5013,Laminate Sheet 1mm (8x4 ft),Carpentry,13,13,0,Sheet,Inaya Mukherjee,Accepted
+GRN-50823,2026-06-20,PO-40807,V-1005,WH-02,I-5001,PVC Insulated Wire 2.5 sqmm (90m coil),Electrical,21,21,0,Coil,Inaya Mukherjee,Accepted
+GRN-50824,2026-06-26,PO-40808,V-1025,WH-02,I-5027,Ready Mix Concrete M25,Road Construction Materials,29,29,0,Cum,Charles Natt,Accepted
+GRN-50825,2026-02-25,PO-40810,V-1052,WH-01,I-5056,Concealed Cistern with Frame,Plumbing Materials,17,17,0,Set,Gauri Bumb,Accepted
+GRN-50826,2026-04-28,PO-40811,V-1053,WH-01,I-5054,Water Tank 1000L HDPE,Plumbing Materials,14,14,0,Nos,Forum Chandra,Accepted
+GRN-50827,2026-07-20,PO-40812,V-1000,WH-02,I-5007,Junction Box IP65,Electrical,11,11,0,Nos,Bhanumati Krishnan,Accepted
+GRN-50828,2026-05-31,PO-40813,V-1005,WH-01,I-5008,Earthing Strip GI 25x3mm,Electrical,12,12,0,Mtr,Gauri Bumb,Accepted
+GRN-50829,2026-05-27,PO-40814,V-1030,WH-01,I-5037,MC4 Connector Pair,Solar Panels,38,38,0,Pair,Lila Rege,Accepted
+GRN-50830,2026-01-09,PO-40815,V-1002,WH-01,I-5002,MCB 32A Single Pole,Electrical,31,31,0,Nos,Inaya Mukherjee,Accepted
+GRN-50831,2025-11-17,PO-40816,V-1022,WH-02,I-5031,Geotextile Fabric (roll 100m2),Road Construction Materials,17,17,0,Roll,Inaya Mukherjee,Accepted
+GRN-50832,2025-10-07,PO-40817,V-1008,WH-01,I-5002,MCB 32A Single Pole,Electrical,11,11,0,Nos,Forum Chandra,Accepted
